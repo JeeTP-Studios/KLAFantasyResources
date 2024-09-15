@@ -1,0 +1,439 @@
+{
+  "001": {
+    "name": "Universal Prepaid Mastercard",
+    "id": 81146,
+    "ticketsPrice": 1000,
+    "denomination": 50,
+    "currency": "USD",
+    "quantity": 1,
+    "categories": [
+      "Cash & Prepaid Card"
+    ]
+  },
+  "002": {
+    "name": "Paypal USD",
+    "id": 58832,
+    "ticketsPrice": 1000,
+    "denomination": 50,
+    "currency": "USD",
+    "quantity": 1,
+    "categories": [
+      "Cash & Prepaid Card"
+    ]
+  },
+  "003": {
+    "name": "Paypal USD",
+    "id": 58832,
+    "ticketsPrice": 1000,
+    "denomination": 100,
+    "currency": "USD",
+    "quantity": 1,
+    "categories": [
+      "Cash & Prepaid Card"
+    ]
+  },
+  "004": {
+    "name": "Paypal USD",
+    "id": 58832,
+    "ticketsPrice": 1000,
+    "denomination": 250,
+    "currency": "USD",
+    "quantity": 1,
+    "categories": [
+      "Cash & Prepaid Card"
+    ]
+  },
+  "005": {
+    "name": "Amazon",
+    "id": 49866,
+    "ticketsPrice": 1000,
+    "denomination": 500,
+    "currency": "MXN",
+    "quantity": 1,
+    "categories": [
+      "Sports",
+      "Fashion & Lifestyle",
+      "Electronics",
+      "Travel & Entertainment",
+      "Gaming"
+    ]
+  },
+  "006": {
+    "name": "Amazon",
+    "id": 49866,
+    "ticketsPrice": 1000,
+    "denomination": 1000,
+    "currency": "MXN",
+    "quantity": 1,
+    "categories": [
+      "Sports",
+      "Fashion & Lifestyle",
+      "Electronics",
+      "Travel & Entertainment",
+      "Gaming"
+    ]
+  },
+  "007": {
+    "name": "Amazon",
+    "id": 49866,
+    "ticketsPrice": 1000,
+    "denomination": 2000,
+    "currency": "MXN",
+    "quantity": 1,
+    "categories": [
+      "Sports",
+      "Fashion & Lifestyle",
+      "Electronics",
+      "Travel & Entertainment",
+      "Gaming"
+    ]
+  },
+  "008": {
+    "name": "Innovasport",
+    "id": 49853,
+    "ticketsPrice": 1000,
+    "denomination": 500,
+    "currency": "MXN",
+    "quantity": 1,
+    "categories": [
+      "Sports",
+      "Fashion & Lifestyle"
+    ]
+  },
+  "009": {
+    "name": "Innovasport",
+    "id": 49853,
+    "ticketsPrice": 1000,
+    "denomination": 1000,
+    "currency": "MXN",
+    "quantity": 1,
+    "categories": [
+      "Sports",
+      "Fashion & Lifestyle"
+    ]
+  },
+  "010": {
+    "name": "Innovasport",
+    "id": 49853,
+    "ticketsPrice": 1000,
+    "denomination": 2000,
+    "currency": "MXN",
+    "quantity": 1,
+    "categories": [
+      "Sports",
+      "Fashion & Lifestyle"
+    ]
+  },
+  "011": {
+    "name": "Uber Eats",
+    "id": 55718,
+    "ticketsPrice": 1000,
+    "denomination": 500,
+    "currency": "MXN",
+    "quantity": 1,
+    "categories": [
+      "Food & Restaurant"
+    ]
+  },
+  "012": {
+    "name": "Uber Eats",
+    "id": 55718,
+    "ticketsPrice": 1000,
+    "denomination": 1000,
+    "currency": "MXN",
+    "quantity": 1,
+    "categories": [
+      "Food & Restaurant"
+    ]
+  },
+  "013": {
+    "name": "Uber Eats",
+    "id": 55718,
+    "ticketsPrice": 1000,
+    "denomination": 1500,
+    "currency": "MXN",
+    "quantity": 1,
+    "categories": [
+      "Food & Restaurant"
+    ]
+  },
+  "014": {
+    "name": "Starbucks",
+    "id": 51840,
+    "ticketsPrice": 1000,
+    "denomination": 200,
+    "currency": "MXN",
+    "quantity": 1,
+    "categories": [
+      "Food & Restaurant"
+    ]
+  },
+  "015": {
+    "name": "Starbucks",
+    "id": 51840,
+    "ticketsPrice": 1000,
+    "denomination": 300,
+    "currency": "MXN",
+    "quantity": 1,
+    "categories": [
+      "Food & Restaurant"
+    ]
+  },
+  "016": {
+    "name": "Starbucks",
+    "id": 51840,
+    "ticketsPrice": 1000,
+    "denomination": 500,
+    "currency": "MXN",
+    "quantity": 1,
+    "categories": [
+      "Food & Restaurant"
+    ]
+  },
+  "017": {
+    "name": "Uber",
+    "id": 51672,
+    "ticketsPrice": 1000,
+    "denomination": 500,
+    "currency": "MXN",
+    "quantity": 1,
+    "categories": [
+      "Travel & Entertainment"
+    ]
+  },
+  "018": {
+    "name": "Uber",
+    "id": 51672,
+    "ticketsPrice": 1000,
+    "denomination": 1000,
+    "currency": "MXN",
+    "quantity": 1,
+    "categories": [
+      "Travel & Entertainment"
+    ]
+  },
+  "019": {
+    "name": "Uber",
+    "id": 51672,
+    "ticketsPrice": 1000,
+    "denomination": 1500,
+    "currency": "MXN",
+    "quantity": 1,
+    "categories": [
+      "Travel & Entertainment"
+    ]
+  },
+  "020": {
+    "name": "Mixup",
+    "id": 49855,
+    "ticketsPrice": 1000,
+    "denomination": 500,
+    "currency": "MXN",
+    "quantity": 1,
+    "categories": [
+      "Electronics",
+      "Travel & Entertainment"
+    ]
+  },
+  "021": {
+    "name": "Mixup",
+    "id": 49855,
+    "ticketsPrice": 1000,
+    "denomination": 1500,
+    "currency": "MXN",
+    "quantity": 1,
+    "categories": [
+      "Electronics",
+      "Travel & Entertainment"
+    ]
+  },
+  "022": {
+    "name": "Mixup",
+    "id": 49855,
+    "ticketsPrice": 1000,
+    "denomination": 2500,
+    "currency": "MXN",
+    "quantity": 1,
+    "categories": [
+      "Electronics",
+      "Travel & Entertainment"
+    ]
+  },
+  "023": {
+    "name": "iTunes",
+    "id": 51945,
+    "ticketsPrice": 1000,
+    "denomination": 200,
+    "currency": "MXN",
+    "quantity": 1,
+    "categories": [
+      "Electronics"
+    ]
+  },
+  "024": {
+    "name": "iTunes",
+    "id": 51945,
+    "ticketsPrice": 1000,
+    "denomination": 300,
+    "currency": "MXN",
+    "quantity": 1,
+    "categories": [
+      "Electronics"
+    ]
+  },
+  "025": {
+    "name": "Itunes",
+    "id": 51945,
+    "ticketsPrice": 1000,
+    "denomination": 600,
+    "currency": "MXN",
+    "quantity": 1,
+    "categories": [
+      "Electronics"
+    ]
+  },
+  "026": {
+    "name": "Crunchyroll USD",
+    "id": 53988,
+    "ticketsPrice": 1000,
+    "denomination": 8,
+    "currency": "USD",
+    "quantity": 1,
+    "categories": [
+      "Travel & Entertainment",
+      "Gaming"
+    ]
+  },
+  "027": {
+    "name": "Discord",
+    "id": 77254,
+    "ticketsPrice": 1000,
+    "denomination": 4.99,
+    "currency": "USD",
+    "quantity": 1,
+    "categories": [
+      "Gaming"
+    ]
+  },
+  "028": {
+    "name": "Discord",
+    "id": 77254,
+    "ticketsPrice": 1000,
+    "denomination": 99.99,
+    "currency": "USD",
+    "quantity": 1,
+    "categories": [
+      "Gaming"
+    ]
+  },
+  "029": {
+    "name": "Xbox Game Pass Ultimate 1M",
+    "id": 81748,
+    "ticketsPrice": 1000,
+    "denomination": 249,
+    "currency": "MXN",
+    "quantity": 1,
+    "categories": [
+      "Gaming"
+    ]
+  },
+  "030": {
+    "name": "Xbox Game Pass Ultimate 3M",
+    "id": 81746,
+    "ticketsPrice": 1000,
+    "denomination": 749,
+    "currency": "MXN",
+    "quantity": 1,
+    "categories": [
+      "Gaming"
+    ]
+  },
+  "031": {
+    "name": "Blizzard",
+    "id": 51837,
+    "ticketsPrice": 1000,
+    "denomination": 150,
+    "currency": "MXN",
+    "quantity": 1,
+    "categories": [
+      "Gaming"
+    ]
+  },
+  "032": {
+    "name": "Blizzard",
+    "id": 51837,
+    "ticketsPrice": 1000,
+    "denomination": 350,
+    "currency": "MXN",
+    "quantity": 1,
+    "categories": [
+      "Gaming"
+    ]
+  },
+  "033": {
+    "name": "PUBG",
+    "id": 77276,
+    "ticketsPrice": 1000,
+    "denomination": 9.99,
+    "currency": "USD",
+    "quantity": 1,
+    "categories": [
+      "Gaming"
+    ]
+  },
+  "034": {
+    "name": "PUBG",
+    "id": 77276,
+    "ticketsPrice": 1000,
+    "denomination": 24.99,
+    "currency": "USD",
+    "quantity": 1,
+    "categories": [
+      "Gaming"
+    ]
+  },
+  "035": {
+    "name": "PUBG",
+    "id": 77276,
+    "ticketsPrice": 1000,
+    "denomination": 49.99,
+    "currency": "USD",
+    "quantity": 1,
+    "categories": [
+      "Gaming"
+    ]
+  },
+  "036": {
+    "name": "Roblox",
+    "id": 81757,
+    "ticketsPrice": 1000,
+    "denomination": 200,
+    "currency": "MXN",
+    "quantity": 1,
+    "categories": [
+      "Gaming"
+    ]
+  },
+  "037": {
+    "name": "Roblox",
+    "id": 81757,
+    "ticketsPrice": 1000,
+    "denomination": 300,
+    "currency": "MXN",
+    "quantity": 1,
+    "categories": [
+      "Gaming"
+    ]
+  },
+  "038": {
+    "name": "Roblox",
+    "id": 81757,
+    "ticketsPrice": 1000,
+    "denomination": 600,
+    "currency": "MXN",
+    "quantity": 1,
+    "categories": [
+      "Gaming"
+    ]
+  }
+}
