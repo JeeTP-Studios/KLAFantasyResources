@@ -1,0 +1,49 @@
+{
+  "General": {
+    "teamWin": 3,
+    "teamDraw": 1,
+    "teamLose": -1,
+    "missedPenalty": -3,
+    "missedShootout": -2,
+    "ownGoal": -3,
+    "yellowCard": -2,
+    "redCard": -5
+  },
+  "Goalkeeper": {
+    "savedPenalty": 5,
+    "goalScored": 10,
+    "goalReceived": -2,
+    "shootoutScored": 10,
+    "savedShootout": 10,
+    "shooutoutReceived": -5,
+    "assist": 5,
+    "shoots": 2,
+    "shootsOnTarget": 5,
+    "savedShoots": 2,
+    "clearSheet": 5
+  },
+  "Defender": {
+    "goalScored": 7,
+    "goalReceived": -1,
+    "shootoutScored": 10,
+    "assist": 4,
+    "shoots": 2,
+    "shootsOnTarget": 4,
+    "clearSheet": 3
+  },
+  "Midfielder": {
+    "goalScored": 6,
+    "shootoutScored": 10,
+    "assist": 3,
+    "shoots": 1,
+    "shootsOnTarget": 3
+  },
+  "Striker": {
+    "goalScored": 5,
+    "shootoutScored": 10,
+    "assist": 2,
+    "shoots": 1,
+    "shootsOnTarget": 2,
+    "teamNoGoals": -1
+  }
+}

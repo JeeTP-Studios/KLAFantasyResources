@@ -1,0 +1,50 @@
+{
+  "001": {
+    "id": "AA",
+    "name": "Club de Cuervos"
+  },
+  "002": {
+    "id": "AB",
+    "name": "Peluche Caligari"
+  },
+  "003": {
+    "id": "AC",
+    "name": "Atletico Parceros FC"
+  },
+  "004": {
+    "id": "AD",
+    "name": "Los Aliens FC"
+  },
+  "005": {
+    "id": "AE",
+    "name": "Raniza FC"
+  },
+  "006": {
+    "id": "AF",
+    "name": "West Santos FC"
+  },
+  "007": {
+    "id": "AG",
+    "name": "Persas FC"
+  },
+  "008": {
+    "id": "AH",
+    "name": "Muchachos FC"
+  },
+  "009": {
+    "id": "AI",
+    "name": "Real Titan FC"
+  },
+  "010": {
+    "id": "AJ",
+    "name": "Los Chamos FC"
+  },
+  "011": {
+    "id": "AK",
+    "name": "Galacticos del Caribe FC"
+  },
+  "012": {
+    "id": "AL",
+    "name": "Olimpo United"
+  }
+}
