@@ -1,8 +1,10 @@
 {
-  "001": {
-    "id": "A",
-    "name": "Season",
-    "current": true
-  }
+  "seasons": [
+    {
+      "id": "A",
+      "kamaId": "15",
+      "name": "Season",
+      "current": true
+    }
+  ]
 }
-

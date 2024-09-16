@@ -1,0 +1,64 @@
+{
+  "equipos": [
+    {
+      "id": AA,
+      "kamaId": 1,
+      "name": "Club de Cuervos"
+    },
+    {
+      "id": AB,
+      "kamaId": 2,
+      "name": "Peluche Caligari"
+    },
+    {
+      "id": AC,
+      "kamaId": 3,
+      "name": "Atletico Parceros FC"
+    },
+    {
+      "id": AD,
+      "kamaId": 4,
+      "name": "Los Aliens FC"
+    },
+    {
+      "id": AE,
+      "kamaId": 5,
+      "name": "Raniza FC"
+    },
+    {
+      "id": AF,
+      "kamaId": 6,
+      "name": "West Santos FC"
+    },
+    {
+      "id": AG,
+      "kamaId": 7,
+      "name": "Persas FC"
+    },
+    {
+      "id": AH,
+      "kamaId": 8,
+      "name": "Muchachos FC"
+    },
+    {
+      "id": AI,
+      "kamaId": 9,
+      "name": "Real Titan FC"
+    },
+    {
+      "id": AJ,
+      "kamaId": 10,
+      "name": "Los Chamos FC"
+    },
+    {
+      "id": AK,
+      "kamaId": 11,
+      "name": "Galacticos del Caribe FC"
+    },
+    {
+      "id": AL,
+      "kamaId": 12,
+      "name": "Olimpo United"
+    },
+  ]
+}
