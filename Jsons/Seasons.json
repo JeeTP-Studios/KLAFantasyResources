@@ -1,6 +1,8 @@
 {
   "001": {
     "id": "A",
-    "name": "Season"
+    "name": "Season",
+    "current": true
   }
 }
+
