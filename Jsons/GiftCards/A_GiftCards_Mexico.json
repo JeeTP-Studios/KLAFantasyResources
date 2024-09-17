@@ -280,6 +280,51 @@
       "categories": ["Gaming"]
     },
     {
+      "id": 81754,
+      "name": "Steam",
+      "ticketsPrice": 1000,
+      "denomination": 215,
+      "currency": "MXN",
+      "quantity": 1,
+      "categories": ["Gaming"]
+    },
+    {
+      "id": 81754,
+      "name": "Steam",
+      "ticketsPrice": 1000,
+      "denomination": 370,
+      "currency": "MXN",
+      "quantity": 1,
+      "categories": ["Gaming"]
+    },
+    {
+      "id": 81754,
+      "name": "Steam",
+      "ticketsPrice": 1000,
+      "denomination": 630,
+      "currency": "MXN",
+      "quantity": 1,
+      "categories": ["Gaming"]
+    },
+    {
+      "id": 81796,
+      "name": "Nintendo",
+      "ticketsPrice": 1000,
+      "denomination": 200,
+      "currency": "MXN",
+      "quantity": 1,
+      "categories": ["Gaming"]
+    },
+    {
+      "id": 81796,
+      "name": "Nintendo",
+      "ticketsPrice": 1000,
+      "denomination": 500,
+      "currency": "MXN",
+      "quantity": 1,
+      "categories": ["Gaming"]
+    },
+    {
       "id": 81748,
       "name": "Xbox Game Pass Ultimate 1M",
       "ticketsPrice": 1000,
