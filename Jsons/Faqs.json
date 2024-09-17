@@ -1,0 +1,71 @@
+{
+  "1": {
+    "category": "Principiantes",
+    "question": "¿Cómo puedo cambiar mi avatar?",
+    "answer": [
+      {
+        "type": "text",
+        "content": "En Kings League Fantasy Américas, creemos en la importancia de la individualidad y el auténtico sentido de comunidad. Por este motivo te ofrecemos la posibilidad de personalizar tu cuenta con tu avatar favorito. Puedes utilizar esta funcionalidad para demostrar tu apoyo a tu equipo favorito, para compartir una foto de tu adorable mascota, o simplemente para expresar tu estilo y tu forma de ser."
+      },
+      {
+        "type": "text",
+        "content": "Si deseas cambiar tu avatar por favor sigue los siguientes pasos:"
+      },
+      {
+        "type": "text",
+        "content": "- Dirígete a la sección de Mi Perfil desde el menu lateral en teléfono o tableta, o en la barra de navegación superior, oprimiendo tu avatar actual en la esquina superior derecha."
+      },
+      {
+        "type": "image",
+        "content": "https://kla-resources.s3.us-west-1.amazonaws.com/Images/Faqs/1_0"
+      },
+      {
+        "type": "image",
+        "content": "https://kla-resources.s3.us-west-1.amazonaws.com/Images/Faqs/1_1"
+      },
+      {
+        "type": "text",
+        "content": "- Una vez dentro de Mi Perfil, a un lado de la imagen de tu avatar actual, se encuentra un icono de un lápiz dentro. Al hacerle click se abrirá la opción de tomar o escoger una nueva foto para tu avatar."
+      },
+      {
+        "type": "image",
+        "content": "https://kla-resources.s3.us-west-1.amazonaws.com/Images/Faqs/1_3"
+      }
+    ]
+  },
+  "2": {
+    "category": "Principiantes",
+    "question": "¿Cómo puedo cambiar mi contraseña?",
+    "answer": [
+      {
+        "type": "text",
+        "content": "Para mantener tu cuenta segura, es importante que cambies regularmente tu contraseña. Hemos facilitado este proceso en nuestra plataforma al proporcionarte una función que te permite cambiar tu contraseña en cuestión de segundos."
+      },
+      {
+        "type": "text",
+        "content": "Si deseas cambiar tu contraseña, por favor sigue los siguientes pasos:"
+      },
+      {
+        "type": "text",
+        "content": "- Dirígete a la sección de Mi Perfil desde el menu lateral en teléfono o tableta, o en la barra de navegación superior, oprimiendo tu avatar actual en la esquina superior derecha."
+      },
+      {
+        "type": "image",
+        "content": "https://kla-resources.s3.us-west-1.amazonaws.com/Images/Faqs/2_0"
+      },
+      {
+        "type": "image",
+        "content": "https://kla-resources.s3.us-west-1.amazonaws.com/Images/Faqs/2_1"
+      },
+      {
+        "type": "text",
+        "content": "- Una vez dentro de Mi Perfil, encontrarás un recuadro con tu contraseña encriptada donde se encuentra un icono de un lápiz dentro. Al hacerle click se abrirá una ventana para restablecer la contraseña. Sigue todos los pasos. Te pedirá verificación de código por seguridad."
+      },
+      {
+        "type": "image",
+        "content": "https://kla-resources.s3.us-west-1.amazonaws.com/Images/Faqs/2_3"
+      }
+    ]
+  }
+}
+
