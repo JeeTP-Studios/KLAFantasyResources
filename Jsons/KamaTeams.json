@@ -1,51 +1,63 @@
 {
-  "1": {
+  "38": {
     "id": "AA",
-    "name": "Club de Cuervos"
+    "name": "Club de Cuervos",
+    "uniqueCards": 104
   },
-  "2": {
+  "44": {
     "id": "AB",
-    "name": "Peluche Caligari"
+    "name": "Peluche Caligari",
+    "uniqueCards": 104
   },
-  "3": {
+  "37": {
     "id": "AC",
-    "name": "Atletico Parceros FC"
+    "name": "Atletico Parceros FC",
+    "uniqueCards": 104
   },
-  "4": {
+  "40": {
     "id": "AD",
-    "name": "Los Aliens FC"
+    "name": "Los Aliens FC",
+    "uniqueCards": 104
   },
-  "5": {
+  "46": {
     "id": "AE",
-    "name": "Raniza FC"
+    "name": "Raniza FC",
+    "uniqueCards": 104
   },
-  "6": {
+  "48": {
     "id": "AF",
-    "name": "West Santos FC"
+    "name": "West Santos FC",
+    "uniqueCards": 104
   },
-  "7": {
+  "45": {
     "id": "AG",
-    "name": "Persas FC"
+    "name": "Persas FC",
+    "uniqueCards": 104
   },
-  "8": {
+  "42": {
     "id": "AH",
-    "name": "Muchachos FC"
+    "name": "Muchachos FC",
+    "uniqueCards": 104
   },
-  "9": {
+  "47": {
     "id": "AI",
-    "name": "Real Titan FC"
+    "name": "Real Titan FC",
+    "uniqueCards": 104
   },
-  "10": {
+  "41": {
     "id": "AJ",
-    "name": "Los Chamos FC"
+    "name": "Los Chamos FC",
+    "uniqueCards": 104
   },
-  "11": {
+  "39": {
     "id": "AK",
-    "name": "Galacticos del Caribe FC"
+    "name": "Galacticos del Caribe FC",
+    "uniqueCards": 104
   },
-  "12": {
+  "43": {
     "id": "AL",
-    "name": "Olimpo United"
+    "name": "Olimpo United",
+    "uniqueCards": 104
   }
 }
 
