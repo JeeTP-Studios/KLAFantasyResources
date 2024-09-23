@@ -1,0 +1,62 @@
+{
+  "0": {
+    "referenceName": "Lote del Escudero",
+    "title": "30 Coronas",
+    "description": "El paquete más pequeño, perfecto para empezar con algunas coronas.",
+    "imageId": "crowns_1",
+    "price": "1.99",
+    "currency": "USD",
+    "appleProductId": "0",
+    "androidProductId": "0"
+  },
+  "1": {
+    "referenceName": "Lote del Caballero",
+    "title": "80 Coronas",
+    "description": "Para los jugadores que quieren comenzar a tomar protagonismo.",
+    "imageId": "crowns_2",
+    "price": "4.99",
+    "currency": "USD",
+    "appleProductId": "0",
+    "androidProductId": "0"
+  },
+  "2": {
+    "referenceName": "Bolsa del Barón",
+    "title": "170 Coronas",
+    "description": "Ideal para quienes buscan más recursos para dominar.",
+    "imageId": "crowns_3",
+    "price": "9.99",
+    "currency": "USD",
+    "appleProductId": "0",
+    "androidProductId": "0"
+  },
+  "3": {
+    "referenceName": "Bolsa del Duque",
+    "title": "360 Coronas",
+    "description": "Paquete premium para aquellos que desean estar un paso por delante.",
+    "imageId": "crowns_4",
+    "price": "19.99",
+    "currency": "USD",
+    "appleProductId": "0",
+    "androidProductId": "0"
+  },
+  "4": {
+    "referenceName": "Cofre del Príncipe",
+    "title": "950 Coronas",
+    "description": "Perfecto para los jugadores más ambiciosos.",
+    "imageId": "crowns_5",
+    "price": "49.99",
+    "currency": "USD",
+    "appleProductId": "0",
+    "androidProductId": "0"
+  },
+  "5": {
+    "referenceName": "Cofre del Rey",
+    "title": "2000 Coronas",
+    "description": "El paquete más exclusivo, para aquellos que desean reinar en la liga.",
+    "imageId": "crowns_6",
+    "price": "99.99",
+    "currency": "USD",
+    "appleProductId": "0",
+    "androidProductId": "0"
+  }
+}
