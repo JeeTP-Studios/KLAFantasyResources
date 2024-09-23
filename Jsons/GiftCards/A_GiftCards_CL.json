@@ -12,132 +12,44 @@
             ]
         },
         {
-            "id": 55726,
+            "id": 55666,
             "name": "Uber Eats",
             "ticketsPrice": 1000,
-            "denomination": 100,
-            "currency": "PEN",
+            "denomination": 50000,
+            "currency": "CLP",
             "quantity": 1,
             "categories": [
                 "Food & Restaurant"
             ]
         },
         {
-            "id": 55726,
+            "id": 55666,
             "name": "Uber Eats",
             "ticketsPrice": 1000,
-            "denomination": 250,
-            "currency": "PEN",
+            "denomination": 100000,
+            "currency": "CLP",
             "quantity": 1,
             "categories": [
                 "Food & Restaurant"
             ]
         },
         {
-            "id": 55726,
-            "name": "Uber Eats",
-            "ticketsPrice": 1000,
-            "denomination": 500,
-            "currency": "PEN",
-            "quantity": 1,
-            "categories": [
-                "Food & Restaurant"
-            ]
-        },
-        {
-            "id": 48694,
-            "name": "CHIFA Express",
-            "ticketsPrice": 1000,
-            "denomination": 10,
-            "currency": "PEN",
-            "quantity": 1,
-            "categories": [
-                "Food & Restaurant"
-            ]
-        },
-        {
-            "id": 48694,
-            "name": "CHIFA Express",
-            "ticketsPrice": 1000,
-            "denomination": 100,
-            "currency": "PEN",
-            "quantity": 1,
-            "categories": [
-                "Food & Restaurant"
-            ]
-        },
-        {
-            "id": 48694,
-            "name": "CHIFA Express",
-            "ticketsPrice": 1000,
-            "denomination": 250,
-            "currency": "PEN",
-            "quantity": 1,
-            "categories": [
-                "Food & Restaurant"
-            ]
-        },
-        {
-            "id": 48696,
-            "name": "Mr Sushi",
-            "ticketsPrice": 1000,
-            "denomination": 50,
-            "currency": "PEN",
-            "quantity": 1,
-            "categories": [
-                "Food & Restaurant"
-            ]
-        },
-        {
-            "id": 48696,
-            "name": "Mr Sushi",
-            "ticketsPrice": 1000,
-            "denomination": 100,
-            "currency": "PEN",
-            "quantity": 1,
-            "categories": [
-                "Food & Restaurant"
-            ]
-        },
-        {
-            "id": 48696,
-            "name": "Mr Sushi",
-            "ticketsPrice": 1000,
-            "denomination": 250,
-            "currency": "PEN",
-            "quantity": 1,
-            "categories": [
-                "Food & Restaurant"
-            ]
-        },
-        {
-            "id": 55582,
+            "id": 55550,
             "name": "Uber",
             "ticketsPrice": 1000,
-            "denomination": 50,
-            "currency": "PEN",
+            "denomination": 50000,
+            "currency": "CLP",
             "quantity": 1,
             "categories": [
                 "Travel & Entertainment"
             ]
         },
         {
-            "id": 55582,
+            "id": 55550,
             "name": "Uber",
             "ticketsPrice": 1000,
-            "denomination": 250,
-            "currency": "PEN",
-            "quantity": 1,
-            "categories": [
-                "Travel & Entertainment"
-            ]
-        },
-        {
-            "id": 55582,
-            "name": "Uber",
-            "ticketsPrice": 1000,
-            "denomination": 500,
-            "currency": "PEN",
+            "denomination": 100000,
+            "currency": "CLP",
             "quantity": 1,
             "categories": [
                 "Travel & Entertainment"
