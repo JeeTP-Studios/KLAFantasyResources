@@ -6,7 +6,7 @@
     "imageId": "crowns_1",
     "price": "1.99",
     "currency": "USD",
-    "appleProductId": "0",
+    "appleProductId": "30CROWNS",
     "androidProductId": "0"
   },
   "1": {
@@ -16,7 +16,7 @@
     "imageId": "crowns_2",
     "price": "4.99",
     "currency": "USD",
-    "appleProductId": "0",
+    "appleProductId": "80CROWNS",
     "androidProductId": "0"
   },
   "2": {
@@ -26,7 +26,7 @@
     "imageId": "crowns_3",
     "price": "9.99",
     "currency": "USD",
-    "appleProductId": "0",
+    "appleProductId": "170CROWNS",
     "androidProductId": "0"
   },
   "3": {
@@ -36,7 +36,7 @@
     "imageId": "crowns_4",
     "price": "19.99",
     "currency": "USD",
-    "appleProductId": "0",
+    "appleProductId": "360CROWNS",
     "androidProductId": "0"
   },
   "4": {
@@ -46,7 +46,7 @@
     "imageId": "crowns_5",
     "price": "49.99",
     "currency": "USD",
-    "appleProductId": "0",
+    "appleProductId": "950CROWNS",
     "androidProductId": "0"
   },
   "5": {
@@ -56,7 +56,7 @@
     "imageId": "crowns_6",
     "price": "99.99",
     "currency": "USD",
-    "appleProductId": "0",
+    "appleProductId": "2000CROWNS",
     "androidProductId": "0"
   }
 }

@@ -12,5 +12,12 @@
       "kamaId": "0",
       "name": "United States"
     }
-  ]
+  ],
+  "Peru": [
+      {
+        "id": "PE",
+        "kamaId": "0",
+        "name": "Peru"
+      }
+    ],
 }
