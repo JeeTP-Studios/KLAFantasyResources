@@ -1,0 +1,16 @@
+{
+  "Mexico": [
+    {
+      "id": "MX",
+      "kamaId": "0",
+      "name": "Mexico"
+    }
+  ],
+  "United States": [
+    {
+      "id": "US",
+      "kamaId": "0",
+      "name": "United States"
+    }
+  ]
+}
