@@ -1,0 +1,93 @@
+{
+  "ACA": [
+    {
+      "kamaId": "0",
+      "name": "Patricio Arias",
+      "dorsal": "ARIAS",
+      "nationality": "MX"
+      "position": "DEF"
+    }
+  ],
+  "ACB": [
+    {
+      "kamaId": "0",
+      "name": "César Marín",
+      "dorsal": "MARIN",
+      "nationality": "MX",
+      "position": "DEF"
+    }
+  ],
+  "ACC": [
+    {
+      "kamaId": "0",
+      "name": "Didier Uribe",
+      "dorsal": "DIDIER",
+      "nationality": "MX",
+      "position": "MED"
+    }
+  ],
+  "ACD": [
+    {
+      "kamaId": "0",
+      "name": "Iker Treviño",
+      "dorsal": "REKI",
+      "nationality": "MX",
+      "position": "MED"
+    }
+  ],
+  "ACE": [
+    {
+      "kamaId": "0",
+      "name": "Brihan Gutiérrez",
+      "dorsal": "GUTI",
+      "nationality": "CO",
+      "position": "MED"
+    }
+  ],
+  "ACF": [
+    {
+      "kamaId": "0",
+      "name": "Emmanuel Sierra",
+      "dorsal": "SIERRA",
+      "nationality": "CO",
+      "position": "MED"
+    }
+  ],
+  "ACG": [
+    {
+      "kamaId": "0",
+      "name": "Erik Lugo",
+      "dorsal": "ERIK",
+      "nationality": "MX",
+      "position": "POR"
+    }
+  ],
+  "ACH": [
+    {
+      "kamaId": "0",
+      "name": "Jair Perez",
+      "dorsal": "PEREZ",
+      "nationality": "CO",
+      "position": "DEL"
+    }
+  ],
+  "ACI": [
+    {
+      "kamaId": "0",
+      "name": "Michel Cardenas",
+      "dorsal": "MICEL",
+      "nationality": "CO",
+      "position": "MED"
+    }
+  ],
+  "ACJ": [
+    {
+      "kamaId": "0",
+      "name": "Alejandro Pelaéz",
+      "dorsal": "PELAEZ",
+      "nationality": "MX",
+      "position": "POR"
+    }
+  ]
+}
+

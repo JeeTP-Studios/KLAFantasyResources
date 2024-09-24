@@ -1,0 +1,93 @@
+{
+  "AHA": [
+    {
+      "kamaId": "0",
+      "name": "Erik Vera",
+      "dorsal": "VERA",
+      "nationality": "MX"
+      "position": "DEF"
+    }
+  ],
+  "AHB": [
+    {
+      "kamaId": "0",
+      "name": "Edwin Cárdenas",
+      "dorsal": "EDWIN",
+      "nationality": "MX",
+      "position": "MED"
+    }
+  ],
+  "AHC": [
+    {
+      "kamaId": "0",
+      "name": "Julio García",
+      "dorsal": "JULIO",
+      "nationality": "MX",
+      "position": "MED"
+    }
+  ],
+  "AHD": [
+    {
+      "kamaId": "0",
+      "name": "Abner Rebollar",
+      "dorsal": "ABNER",
+      "nationality": "MX",
+      "position": "DEL"
+    }
+  ],
+  "AHE": [
+    {
+      "kamaId": "0",
+      "name": "Diego Castellanos",
+      "dorsal": "DIEGO",
+      "nationality": "MX",
+      "position": "DEF"
+    }
+  ],
+  "AHF": [
+    {
+      "kamaId": "0",
+      "name": "Brandon García",
+      "dorsal": "BRANDON",
+      "nationality": "MX",
+      "position": "MED"
+    }
+  ],
+  "AHG": [
+    {
+      "kamaId": "0",
+      "name": "Eduardo Evangelista",
+      "dorsal": "EDUARDO",
+      "nationality": "MX",
+      "position": "POR"
+    }
+  ],
+  "AHH": [
+    {
+      "kamaId": "0",
+      "name": "Eduardo Velarde",
+      "dorsal": "GÜALO",
+      "nationality": "MX",
+      "position": "DEF"
+    }
+  ],
+  "AHI": [
+    {
+      "kamaId": "0",
+      "name": "Juan Ruiz",
+      "dorsal": "JUANRA",
+      "nationality": "MX",
+      "position": "MED"
+    }
+  ],
+  "AHJ": [
+    {
+      "kamaId": "0",
+      "name": "Leandro Torres",
+      "dorsal": "TORRES",
+      "nationality": "AR",
+      "position": "MED"
+    }
+  ]
+}
+

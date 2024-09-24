@@ -1,0 +1,93 @@
+{
+  "AIA": [
+    {
+      "kamaId": "0",
+      "name": "Omar Lascari",
+      "dorsal": "LASCARI",
+      "nationality": "MX"
+      "position": "POR"
+    }
+  ],
+  "AIB": [
+    {
+      "kamaId": "0",
+      "name": "Martín Rodríguez",
+      "dorsal": "CANI",
+      "nationality": "",
+      "position": "MED"
+    }
+  ],
+  "AIC": [
+    {
+      "kamaId": "0",
+      "name": "Edson Trejo",
+      "dorsal": "EDSON",
+      "nationality": "MX",
+      "position": "MED"
+    }
+  ],
+  "AID": [
+    {
+      "kamaId": "0",
+      "name": "Javier Meraz",
+      "dorsal": "MERAZ",
+      "nationality": "MX",
+      "position": "DEL"
+    }
+  ],
+  "AIE": [
+    {
+      "kamaId": "0",
+      "name": "Ricardo Valencia",
+      "dorsal": "VALENCIA",
+      "nationality": "CO",
+      "position": "MED"
+    }
+  ],
+  "AIF": [
+    {
+      "kamaId": "0",
+      "name": "Erik Fraire",
+      "dorsal": "FRAIRE",
+      "nationality": "MX",
+      "position": "POR"
+    }
+  ],
+  "AIG": [
+    {
+      "kamaId": "0",
+      "name": "Christian Lagunas",
+      "dorsal": "LAGUNAS",
+      "nationality": "MX",
+      "position": "MED"
+    }
+  ],
+  "AIH": [
+    {
+      "kamaId": "0",
+      "name": "Pabel Montes",
+      "dorsal": "PABEL",
+      "nationality": "MX",
+      "position": "MED"
+    }
+  ],
+  "AII": [
+    {
+      "kamaId": "0",
+      "name": "Eder Uscanga",
+      "dorsal": "USCANGA",
+      "nationality": "MX",
+      "position": "MED"
+    }
+  ],
+  "AIJ": [
+    {
+      "kamaId": "0",
+      "name": "Diego Perez",
+      "dorsal": "DIEGO",
+      "nationality": "MX",
+      "position": "MED"
+    }
+  ]
+}
+

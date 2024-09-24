@@ -1,0 +1,93 @@
+{
+  "AFA": [
+    {
+      "kamaId": "0",
+      "name": "Moisés Dabbah",
+      "dorsal": "DABBAH",
+      "nationality": "MX"
+      "position": "POR"
+    }
+  ],
+  "AFB": [
+    {
+      "kamaId": "0",
+      "name": "Juan Martínez",
+      "dorsal": "JUAN",
+      "nationality": "MX",
+      "position": "DEF"
+    }
+  ],
+  "AFC": [
+    {
+      "kamaId": "0",
+      "name": "William Rojas",
+      "dorsal": "WILLIAM",
+      "nationality": "CO",
+      "position": "MED"
+    }
+  ],
+  "AFD": [
+    {
+      "kamaId": "0",
+      "name": "Juan Celada",
+      "dorsal": "CELADA",
+      "nationality": "MX",
+      "position": "DEL"
+    }
+  ],
+  "AFE": [
+    {
+      "kamaId": "0",
+      "name": "César Villaluz",
+      "dorsal": "VILLALUZ",
+      "nationality": "MX",
+      "position": "MED"
+    }
+  ],
+  "AFF": [
+    {
+      "kamaId": "0",
+      "name": "Fernando Morales",
+      "dorsal": "MORALES",
+      "nationality": "MX",
+      "position": "MED"
+    }
+  ],
+  "AFG": [
+    {
+      "kamaId": "0",
+      "name": "José Sastoque",
+      "dorsal": "SASTOQUE",
+      "nationality": "CO",
+      "position": "MED"
+    }
+  ],
+  "AFH": [
+    {
+      "kamaId": "0",
+      "name": "Isaac Mora",
+      "dorsal": "MORA",
+      "nationality": "MX",
+      "position": "MED"
+    }
+  ],
+  "AFI": [
+    {
+      "kamaId": "0",
+      "name": "Julio Torres",
+      "dorsal": "LEGOLAS",
+      "nationality": "MX",
+      "position": "POR"
+    }
+  ],
+  "AFJ": [
+    {
+      "kamaId": "0",
+      "name": "Erick Madrigal",
+      "dorsal": "MADRIGAL",
+      "nationality": "MX",
+      "position": "MED"
+    }
+  ]
+}
+
