@@ -7,7 +7,9 @@
       "denomination": 50,
       "currency": "USD",
       "quantity": 1,
-      "categories": ["Cash & Prepaid Card"]
+      "categories": [
+          "Cash & Prepaid Card"
+      ]
     },
     {
       "id": 58832,
@@ -16,7 +18,9 @@
       "denomination": 50,
       "currency": "USD",
       "quantity": 1,
-      "categories": ["Cash & Prepaid Card"]
+      "categories": [
+          "Cash & Prepaid Card"
+      ]
     },
     {
       "id": 58832,
@@ -25,7 +29,9 @@
       "denomination": 100,
       "currency": "USD",
       "quantity": 1,
-      "categories": ["Cash & Prepaid Card"]
+      "categories": [
+          "Cash & Prepaid Card"
+      ]
     },
     {
       "id": 58832,
@@ -34,7 +40,9 @@
       "denomination": 250,
       "currency": "USD",
       "quantity": 1,
-      "categories": ["Cash & Prepaid Card"]
+      "categories": [
+          "Cash & Prepaid Card"
+      ]
     },
     {
       "id": 49866,

@@ -1,0 +1,212 @@
+{
+    "giftCards": [
+        {
+            "id": 81146,
+            "name": "Universal Prepaid Mastercard",
+            "ticketsPrice": 1000,
+            "denomination": 50,
+            "currency": "USD",
+            "quantity": 1,
+            "categories": [
+                "Cash & Prepaid Card"
+            ]
+        },
+        {
+            "id": 24577,
+            "name": "Amazon - eGift Voucher",
+            "ticketsPrice": 1000,
+            "denomination": 50,
+            "currency": "USD",
+            "quantity": 1,
+            "categories": [
+              "Sports",
+              "Fashion & Lifestyle",
+              "Electronics",
+              "Travel & Entertainment",
+              "Gaming"
+            ]
+        },
+        {
+            "id": 24577,
+            "name": "Amazon - eGift Voucher",
+            "ticketsPrice": 1000,
+            "denomination": 100,
+            "currency": "USD",
+            "quantity": 1,
+            "categories": [
+              "Sports",
+              "Fashion & Lifestyle",
+              "Electronics",
+              "Travel & Entertainment",
+              "Gaming"
+            ]
+        },
+        {
+            "id": 24577,
+            "name": "Amazon - eGift Voucher",
+            "ticketsPrice": 1000,
+            "denomination": 250,
+            "currency": "USD",
+            "quantity": 1,
+            "categories": [
+              "Sports",
+              "Fashion & Lifestyle",
+              "Electronics",
+              "Travel & Entertainment",
+              "Gaming"
+            ]
+        },
+        {
+            "id": 55934,
+            "name": "Adidas",
+            "ticketsPrice": 1000,
+            "denomination": 50,
+            "currency": "USD",
+            "quantity": 1,
+            "categories": [
+              "Sports",
+              "Fashion & Lifestyle"
+            ]
+        },
+        {
+            "id": 55934,
+            "name": "Adidas",
+            "ticketsPrice": 1000,
+            "denomination": 100,
+            "currency": "USD",
+            "quantity": 1,
+            "categories": [
+              "Sports",
+              "Fashion & Lifestyle"
+            ]
+        },
+        {
+            "id": 55934,
+            "name": "Adidas",
+            "ticketsPrice": 1000,
+            "denomination": 250,
+            "currency": "USD",
+            "quantity": 1,
+            "categories": [
+              "Sports",
+              "Fashion & Lifestyle"
+            ]
+        },
+        {
+            "id": 65590,
+            "name": "Nike",
+            "ticketsPrice": 1000,
+            "denomination": 50,
+            "currency": "USD",
+            "quantity": 1,
+            "categories": [
+              "Sports",
+              "Fashion & Lifestyle"
+            ]
+        },
+        {
+            "id": 65590,
+            "name": "Nike",
+            "ticketsPrice": 1000,
+            "denomination": 100,
+            "currency": "USD",
+            "quantity": 1,
+            "categories": [
+              "Sports",
+              "Fashion & Lifestyle"
+            ]
+        },
+        {
+            "id": 65590,
+            "name": "Nike",
+            "ticketsPrice": 1000,
+            "denomination": 250,
+            "currency": "USD",
+            "quantity": 1,
+            "categories": [
+              "Sports",
+              "Fashion & Lifestyle"
+            ]
+        },
+        {
+            "id": 46855,
+            "name": "Dectahlon - eGift Voucher",
+            "ticketsPrice": 1000,
+            "denomination": 25,
+            "currency": "USD",
+            "quantity": 1,
+            "categories": [
+              "Sports",
+              "Fashion & Lifestyle"
+            ]
+        },
+        {
+            "id": 46855,
+            "name": "Dectahlon - eGift Voucher",
+            "ticketsPrice": 1000,
+            "denomination": 50,
+            "currency": "USD",
+            "quantity": 1,
+            "categories": [
+              "Sports",
+              "Fashion & Lifestyle"
+            ]
+        },
+        {
+            "id": 46855,
+            "name": "Dectahlon - eGift Voucher",
+            "ticketsPrice": 1000,
+            "denomination": 100,
+            "currency": "USD",
+            "quantity": 1,
+            "categories": [
+              "Sports",
+              "Fashion & Lifestyle"
+            ]
+        },
+        {
+            "id": 54716,
+            "name": "Zara",
+            "ticketsPrice": 1000,
+            "denomination": 50,
+            "currency": "USD",
+            "quantity": 1,
+            "categories": [
+              "Fashion & Lifestyle"
+            ]
+        },
+        {
+            "id": 54716,
+            "name": "Zara",
+            "ticketsPrice": 1000,
+            "denomination": 100,
+            "currency": "USD",
+            "quantity": 1,
+            "categories": [
+              "Fashion & Lifestyle"
+            ]
+        },
+        {
+            "id": 54716,
+            "name": "Zara",
+            "ticketsPrice": 1000,
+            "denomination": 250,
+            "currency": "USD",
+            "quantity": 1,
+            "categories": [
+              "Fashion & Lifestyle"
+            ]
+        },
+        {
+            "id": 54716,
+            "name": "Zara",
+            "ticketsPrice": 1000,
+            "denomination": 250,
+            "currency": "USD",
+            "quantity": 1,
+            "categories": [
+              "Fashion & Lifestyle"
+            ]
+        },
+    ]
+}
