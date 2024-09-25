@@ -1,103 +1,81 @@
 {
-  "AGA": [
-    {
+  "AGA": {
       "kamaId": "0",
       "name": "Justo Islas",
       "dorsal": "ISLAS",
-      "nationality": "MX"
+      "nationality": "MX",
       "position": "MED"
-    }
-  ],
-  "AGB": [
-    {
+    },
+  "AGB": {
       "kamaId": "0",
       "name": "Rafael Cid",
       "dorsal": "RAFAEL",
       "nationality": "MXES",
       "position": "DEF"
-    }
-  ],
-  "AGC": [
-    {
+    },
+  "AGC": {
       "kamaId": "0",
       "name": "Fernando Olmedo",
       "dorsal": "OLMEDO",
       "nationality": "MXFR",
       "position": "DEL"
-    }
-  ],
-  "AGD": [
-    {
+    },
+  "AGD": {
       "kamaId": "0",
       "name": "Luis González",
       "dorsal": "MENON",
       "nationality": "MX",
       "position": "DEL"
-    }
-  ],
-  "AGE": [
-    {
+    },
+  "AGE": {
       "kamaId": "0",
       "name": "José Miramontes",
       "dorsal": "MIRAMONTES",
       "nationality": "MX",
       "position": "MED"
-    }
-  ],
-  "AGF": [
-    {
+    },
+  "AGF": {
       "kamaId": "0",
       "name": "Sergio Meza",
       "dorsal": "SERGIO",
       "nationality": "MX",
       "position": "DEL"
-    }
-  ],
-  "AGG": [
-    {
+    },
+  "AGG": {
       "kamaId": "0",
       "name": "Adrian Marín ",
       "dorsal": "MARIN",
       "nationality": "MX",
       "position": "MD"
-    }
-  ],
-  "AGH": [
-    {
+    },
+  "AGH": {
       "kamaId": "0",
       "name": "Diego Vivian",
       "dorsal": "VIVIAN",
       "nationality": "MX",
       "position": "DEL"
-    }
-  ],
-  "AGI": [
-    {
+    },
+  "AGI": {
       "kamaId": "0",
       "name": "Juan Cisneros",
       "dorsal": "CISNEROS",
       "nationality": "MX",
       "position": "MED"
-    }
-  ],
-  "AGJ": [
-    {
+    },
+  "AGJ": {
       "kamaId": "0",
       "name": "Lawrence Lonsdale",
       "dorsal": "LONSDALE",
       "nationality": "",
       "position": "DEF"
-    }
-  ],
-  "AGK": [
-    {
+    },
+  "AGK": {
       "kamaId": "0",
       "name": "Antonio Monterde",
       "dorsal": "MONTERDE",
       "nationality": "MX",
       "position": "POR"
-    }
-  ],
+    },
   "AGL": [
     {
       "kamaId": "0",
@@ -106,6 +84,5 @@
       "nationality": "MX",
       "position": "MED"
     }
-  ]
 }
 

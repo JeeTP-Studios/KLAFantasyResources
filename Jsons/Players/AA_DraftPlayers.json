@@ -1,93 +1,74 @@
 {
-  "AAA": [
-    {
-      "kamaId": "0",
-      "name": "Eli Saadia",
-      "dorsal": "SAADIA",
-      "nationality": "MXFR"
-      "position": "POR"
-    }
-  ],
-  "AAB": [
-    {
-      "kamaId": "0",
-      "name": "Santiago Lagarde",
-      "dorsal": "LAGARDE",
-      "nationality": "MX",
-      "position": "MED"
-    }
-  ],
-  "AAC": [
-    {
-      "kamaId": "0",
-      "name": "Alfonso Rosales",
-      "dorsal": "CACHITA",
-      "nationality": "MX",
-      "position": "MED"
-    }
-  ],
-  "AAD": [
-    {
-      "kamaId": "0",
-      "name": "Eder López",
-      "dorsal": "EDER",
-      "nationality": "MX",
-      "position": "MED"
-    }
-  ],
-  "AAE": [
-    {
-      "kamaId": "0",
-      "name": "Manuel Viniegra",
-      "dorsal": "MANUEL",
-      "nationality": "MX",
-      "position": "MED"
-    }
-  ],
-  "AAF": [
-    {
-      "kamaId": "0",
-      "name": "Jesús Carbajal",
-      "dorsal": "JESUS",
-      "nationality": "MX",
-      "position": "POR"
-    }
-  ],
-  "AAG": [
-    {
-      "kamaId": "0",
-      "name": "Daniel Lopez",
-      "dorsal": "DANIEL",
-      "nationality": "MX",
-      "position": "DEF"
-    }
-  ],
-  "AAH": [
-    {
-      "kamaId": "0",
-      "name": "Jorge Escamilla",
-      "dorsal": "JORGE",
-      "nationality": "MX",
-      "position": "MED"
-    }
-  ],
-  "AAI": [
-    {
-      "kamaId": "0",
-      "name": "Emilio Tadeo",
-      "dorsal": "EMILIO",
-      "nationality": "MX",
-      "position": "MED"
-    }
-  ],
-  "AAJ": [
-    {
-      "kamaId": "0",
-      "name": "Diego SanJuan",
-      "dorsal": "SANJUAN",
-      "nationality": "MX",
-      "position": "DEF"
-    }
-  ]
+    "AAA": {
+        "kamaId": "0",
+        "name": "Eli Saadia",
+        "dorsal": "SAADIA",
+        "nationality": "MXFR",
+        "position": "POR"
+    },
+    "AAB":
+      {
+        "kamaId": "0",
+        "name": "Santiago Lagarde",
+        "dorsal": "LAGARDE",
+        "nationality": "MX",
+        "position": "MED"
+      },
+    "AAC": {
+        "kamaId": "0",
+        "name": "Alfonso Rosales",
+        "dorsal": "CACHITA",
+        "nationality": "MX",
+        "position": "MED"
+      },
+    "AAD": {
+        "kamaId": "0",
+        "name": "Eder López",
+        "dorsal": "EDER",
+        "nationality": "MX",
+        "position": "MED"
+      },
+    "AAE": {
+        "kamaId": "0",
+        "name": "Manuel Viniegra",
+        "dorsal": "MANUEL",
+        "nationality": "MX",
+        "position": "MED"
+      },
+    "AAF": {
+        "kamaId": "0",
+        "name": "Jesús Carbajal",
+        "dorsal": "JESUS",
+        "nationality": "MX",
+        "position": "POR"
+      },
+    "AAG": {
+        "kamaId": "0",
+        "name": "Daniel Lopez",
+        "dorsal": "DANIEL",
+        "nationality": "MX",
+        "position": "DEF"
+      }
+    "AAH": {
+        "kamaId": "0",
+        "name": "Jorge Escamilla",
+        "dorsal": "JORGE",
+        "nationality": "MX",
+        "position": "MED"
+      }
+    "AAI": {
+        "kamaId": "0",
+        "name": "Emilio Tadeo",
+        "dorsal": "EMILIO",
+        "nationality": "MX",
+        "position": "MED"
+      }
+    "AAJ": {
+        "kamaId": "0",
+        "name": "Diego SanJuan",
+        "dorsal": "SANJUAN",
+        "nationality": "MX",
+        "position": "DEF"
+      }
 }
 
