@@ -1,93 +1,73 @@
 {
-  "AJA": [
-    {
-      "kamaId": "0",
-      "name": "Baruc Mateos",
-      "dorsal": "BARUC",
-      "nationality": "MX",
-      "position": "POR"
+    "AJA": {
+        "kamaId": "0",
+        "name": "Baruc Mateos",
+        "dorsal": "BARUC",
+        "nationality": "MX",
+        "position": "POR"
+    },
+    "AJB": {
+        "kamaId": "0",
+        "name": "Jesús Pérez",
+        "dorsal": "CHUY",
+        "nationality": "MX",
+        "position": "MED"
+    },
+    "AJC": {
+        "kamaId": "0",
+        "name": "Iñaki Domínguez",
+        "dorsal": "IÑAKI",
+        "nationality": "MXES",
+        "position": "MED"
+    },
+    "AJD": {
+        "kamaId": "0",
+        "name": "Rafael González",
+        "dorsal": "RAFA",
+        "nationality": "MX",
+        "position": "MED"
+    },
+    "AJE": {
+        "kamaId": "0",
+        "name": "Jacob Morales",
+        "dorsal": "LOBO",
+        "nationality": "MX",
+        "position": "DEL"
+    },
+    "AJF": {
+        "kamaId": "0",
+        "name": "Edgar Martínez",
+        "dorsal": "EDGAR",
+        "nationality": "MX",
+        "position": "DEL"
+    },
+    "AJG": {
+        "kamaId": "0",
+        "name": "Jorge Meléndez",
+        "dorsal": "MELENDEZ",
+        "nationality": "MX",
+        "position": "MED"
+    },
+    "AJH": {
+        "kamaId": "0",
+        "name": "Kevin Valdez",
+        "dorsal": "VALDEZ",
+        "nationality": "MX",
+        "position": "DEF"
+    },
+    "AJI": {
+        "kamaId": "0",
+        "name": "Alejandro Carrillo",
+        "dorsal": "CARILLO",
+        "nationality": "MX",
+        "position": "POR"
+    },
+    "AJJ": {
+        "kamaId": "0",
+        "name": "Brayam Nazarit",
+        "dorsal": "NAZA",
+        "nationality": "CO",
+        "position": "MED"
     }
-  ],
-  "AJB": [
-    {
-      "kamaId": "0",
-      "name": "Jesús Pérez",
-      "dorsal": "CHUY",
-      "nationality": "MX",
-      "position": "MED"
-    }
-  ],
-  "AJC": [
-    {
-      "kamaId": "0",
-      "name": "Iñaki Domínguez",
-      "dorsal": "IÑAKI",
-      "nationality": "MXES",
-      "position": "MED"
-    }
-  ],
-  "AJD": [
-    {
-      "kamaId": "0",
-      "name": "Rafael González",
-      "dorsal": "RAFA",
-      "nationality": "MX",
-      "position": "MED"
-    }
-  ],
-  "AJE": [
-    {
-      "kamaId": "0",
-      "name": "Jacob Morales",
-      "dorsal": "LOBO",
-      "nationality": "MX",
-      "position": "DEL"
-    }
-  ],
-  "AJF": [
-    {
-      "kamaId": "0",
-      "name": "Edgar Martínez",
-      "dorsal": "EDGAR",
-      "nationality": "MX",
-      "position": "DEL"
-    }
-  ],
-  "AJG": [
-    {
-      "kamaId": "0",
-      "name": "Jorge Meléndez",
-      "dorsal": "MELENDEZ",
-      "nationality": "MX",
-      "position": "MED"
-    }
-  ],
-  "AJH": [
-    {
-      "kamaId": "0",
-      "name": "Kevin Valdez",
-      "dorsal": "VALDEZ",
-      "nationality": "MX",
-      "position": "DEF"
-    }
-  ],
-  "AJI": [
-    {
-      "kamaId": "0",
-      "name": "Alejandro Carrillo",
-      "dorsal": "CARILLO",
-      "nationality": "MX",
-      "position": "POR"
-    }
-  ],
-  "AJJ": [
-    {
-      "kamaId": "0",
-      "name": "Brayam Nazarit",
-      "dorsal": "NAZA",
-      "nationality": "CO",
-      "position": "MED"
-    }
-  ]
 }
 

@@ -1,93 +1,73 @@
 {
-  "AJA": [
-    {
-      "kamaId": "0",
-      "name": "Ricardo Ferriño",
-      "dorsal": "FRRIÑO",
-      "nationality": "MX",
-      "position": "POR"
+    "AJA": {
+        "kamaId": "0",
+        "name": "Ricardo Ferriño",
+        "dorsal": "FRRIÑO",
+        "nationality": "MX",
+        "position": "POR"
+    },
+    "AJB": {
+        "kamaId": "0",
+        "name": "César Bernal",
+        "dorsal": "BERNAL",
+        "nationality": "MX",
+        "position": "DEF"
+    },
+    "AJC": {
+        "kamaId": "0",
+        "name": "Pablo Sámano",
+        "dorsal": "PALLO",
+        "nationality": "MX",
+        "position": "MED"
+    },
+    "AJD": {
+        "kamaId": "0",
+        "name": "Abner Monreal",
+        "dorsal": "MONREAL",
+        "nationality": "MX",
+        "position": "MED"
+    },
+    "AJE": {
+        "kamaId": "0",
+        "name": "Brayan Hernández",
+        "dorsal": "BRAYAN",
+        "nationality": "MX",
+        "position": "MED"
+    },
+    "AJF": {
+        "kamaId": "0",
+        "name": "Gerardo Lugo",
+        "dorsal": "LUGO",
+        "nationality": "MX",
+        "position": "MED"
+    },
+    "AJG": {
+        "kamaId": "0",
+        "name": "Abdoulaye Bangoura",
+        "dorsal": "ABDOULAYE",
+        "nationality": "MX",
+        "position": "DEL"
+    },
+    "AJH": {
+        "kamaId": "0",
+        "name": "Denilson Lobon",
+        "dorsal": "LOBON",
+        "nationality": "CO",
+        "position": "DEF"
+    },
+    "AJI": {
+        "kamaId": "0",
+        "name": "Diego Reynoso",
+        "dorsal": "REYNOSO",
+        "nationality": "MX",
+        "position": "POR"
+    },
+    "AJJ": {
+        "kamaId": "0",
+        "name": "Stephan D'Alessandro",
+        "dorsal": "STEPAHN",
+        "nationality": "DO",
+        "position": "MED"
     }
-  ],
-  "AJB": [
-    {
-      "kamaId": "0",
-      "name": "César Bernal",
-      "dorsal": "BERNAL",
-      "nationality": "MX",
-      "position": "DEF"
-    }
-  ],
-  "AJC": [
-    {
-      "kamaId": "0",
-      "name": "Pablo Sámano",
-      "dorsal": "PALLO",
-      "nationality": "MX",
-      "position": "MED"
-    }
-  ],
-  "AJD": [
-    {
-      "kamaId": "0",
-      "name": "Abner Monreal",
-      "dorsal": "MONREAL",
-      "nationality": "MX",
-      "position": "MED"
-    }
-  ],
-  "AJE": [
-    {
-      "kamaId": "0",
-      "name": "Brayan Hernández",
-      "dorsal": "BRAYAN",
-      "nationality": "MX",
-      "position": "MED"
-    }
-  ],
-  "AJF": [
-    {
-      "kamaId": "0",
-      "name": "Gerardo Lugo",
-      "dorsal": "LUGO",
-      "nationality": "MX",
-      "position": "MED"
-    }
-  ],
-  "AJG": [
-    {
-      "kamaId": "0",
-      "name": "Abdoulaye Bangoura",
-      "dorsal": "ABDOULAYE",
-      "nationality": "MX",
-      "position": "DEL"
-    }
-  ],
-  "AJH": [
-    {
-      "kamaId": "0",
-      "name": "Denilson Lobon",
-      "dorsal": "LOBON",
-      "nationality": "CO",
-      "position": "DEF"
-    }
-  ],
-  "AJI": [
-    {
-      "kamaId": "0",
-      "name": "Diego Reynoso",
-      "dorsal": "REYNOSO",
-      "nationality": "MX",
-      "position": "POR"
-    }
-  ],
-  "AJJ": [
-    {
-      "kamaId": "0",
-      "name": "Stephan D'Alessandro",
-      "dorsal": "STEPAHN",
-      "nationality": "DO",
-      "position": "MED"
-    }
-  ]
 }
 
