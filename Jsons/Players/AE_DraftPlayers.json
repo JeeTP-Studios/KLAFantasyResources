@@ -1,93 +1,73 @@
 {
-  "AEA": [
-    {
-      "kamaId": "0",
-      "name": "Hugo Murga",
-      "dorsal": "MURGA",
-      "nationality": "MX",
-      "position": "POR"
+    "AEA": {
+        "kamaId": "0",
+        "name": "Hugo Murga",
+        "dorsal": "MURGA",
+        "nationality": "MX",
+        "position": "POR"
+    },
+    "AEB": {
+        "kamaId": "0",
+        "name": "José Rochín",
+        "dorsal": "ROCHIN",
+        "nationality": "MX",
+        "position": "DEL"
+    },
+    "AEC": {
+        "kamaId": "0",
+        "name": "Yair Arias",
+        "dorsal": "ARIAS",
+        "nationality": "CO",
+        "position": "MED"
+    },
+    "AED": {
+        "kamaId": "0",
+        "name": "César Romo",
+        "dorsal": "ROMO",
+        "nationality": "MX",
+        "position": "MED"
+    },
+    "AEE": {
+        "kamaId": "0",
+        "name": "Baruc Ochoa",
+        "dorsal": "OCHOA",
+        "nationality": "MX",
+        "position": "DEL"
+    },
+    "AEF": {
+        "kamaId": "0",
+        "name": "Sebastian Saez",
+        "dorsal": "SAEZ",
+        "nationality": "CO",
+        "position": "DEF"
+    },
+    "AEG": {
+        "kamaId": "0",
+        "name": "Leonardo Duque",
+        "dorsal": "DUQUE",
+        "nationality": "MX",
+        "position": "DEL"
+    },
+    "AEH": {
+        "kamaId": "0",
+        "name": "Rircardo Vaca",
+        "dorsal": "VACA",
+        "nationality": "MX",
+        "position": "MED"
+    },
+    "AEI": {
+        "kamaId": "0",
+        "name": "Victor Perez",
+        "dorsal": "VICTOR",
+        "nationality": "MX",
+        "position": "MED"
+    },
+    "AEJ": {
+        "kamaId": "0",
+        "name": "Brayan Gonzalez",
+        "dorsal": "BRAYAN",
+        "nationality": "CO",
+        "position": "MED"
     }
-  ],
-  "AEB": [
-    {
-      "kamaId": "0",
-      "name": "José Rochín",
-      "dorsal": "ROCHIN",
-      "nationality": "MX",
-      "position": "DEL"
-    }
-  ],
-  "AEC": [
-    {
-      "kamaId": "0",
-      "name": "Yair Arias",
-      "dorsal": "ARIAS",
-      "nationality": "CO",
-      "position": "MED"
-    }
-  ],
-  "AED": [
-    {
-      "kamaId": "0",
-      "name": "César Romo",
-      "dorsal": "ROMO",
-      "nationality": "MX",
-      "position": "MED"
-    }
-  ],
-  "AEE": [
-    {
-      "kamaId": "0",
-      "name": "Baruc Ochoa",
-      "dorsal": "OCHOA",
-      "nationality": "MX",
-      "position": "DEL"
-    }
-  ],
-  "AEF": [
-    {
-      "kamaId": "0",
-      "name": "Sebastian Saez",
-      "dorsal": "SAEZ",
-      "nationality": "CO",
-      "position": "DEF"
-    }
-  ],
-  "AEG": [
-    {
-      "kamaId": "0",
-      "name": "Leonardo Duque",
-      "dorsal": "DUQUE",
-      "nationality": "MX",
-      "position": "DEL"
-    }
-  ],
-  "AEH": [
-    {
-      "kamaId": "0",
-      "name": "Rircardo Vaca",
-      "dorsal": "VACA",
-      "nationality": "MX",
-      "position": "MED"
-    }
-  ],
-  "AEI": [
-    {
-      "kamaId": "0",
-      "name": "Victor Perez",
-      "dorsal": "VICTOR",
-      "nationality": "MX",
-      "position": "MED"
-    }
-  ],
-  "AEJ": [
-    {
-      "kamaId": "0",
-      "name": "Brayan Gonzalez",
-      "dorsal": "BRAYAN",
-      "nationality": "CO",
-      "position": "MED"
-    }
-  ]
 }
 
