@@ -1,88 +1,87 @@
 {
-  "AGA": {
-      "kamaId": "0",
-      "name": "Justo Islas",
-      "dorsal": "ISLAS",
-      "nationality": "MX",
-      "position": "MED"
+    "AGA": {
+        "kamaId": "0",
+        "name": "Justo Islas",
+        "dorsal": "ISLAS",
+        "nationality": "MX",
+        "position": "MED"
     },
-  "AGB": {
-      "kamaId": "0",
-      "name": "Rafael Cid",
-      "dorsal": "RAFAEL",
-      "nationality": "MXES",
-      "position": "DEF"
+    "AGB": {
+        "kamaId": "0",
+        "name": "Rafael Cid",
+        "dorsal": "RAFAEL",
+        "nationality": "MXES",
+        "position": "DEF"
     },
-  "AGC": {
-      "kamaId": "0",
-      "name": "Fernando Olmedo",
-      "dorsal": "OLMEDO",
-      "nationality": "MXFR",
-      "position": "DEL"
+    "AGC": {
+        "kamaId": "0",
+        "name": "Fernando Olmedo",
+        "dorsal": "OLMEDO",
+        "nationality": "MXFR",
+        "position": "DEL"
     },
-  "AGD": {
-      "kamaId": "0",
-      "name": "Luis González",
-      "dorsal": "MENON",
-      "nationality": "MX",
-      "position": "DEL"
+    "AGD": {
+        "kamaId": "0",
+        "name": "Luis González",
+        "dorsal": "MENON",
+        "nationality": "MX",
+        "position": "DEL"
     },
-  "AGE": {
-      "kamaId": "0",
-      "name": "José Miramontes",
-      "dorsal": "MIRAMONTES",
-      "nationality": "MX",
-      "position": "MED"
+    "AGE": {
+        "kamaId": "0",
+        "name": "José Miramontes",
+        "dorsal": "MIRAMONTES",
+        "nationality": "MX",
+        "position": "MED"
     },
-  "AGF": {
-      "kamaId": "0",
-      "name": "Sergio Meza",
-      "dorsal": "SERGIO",
-      "nationality": "MX",
-      "position": "DEL"
+    "AGF": {
+        "kamaId": "0",
+        "name": "Sergio Meza",
+        "dorsal": "SERGIO",
+        "nationality": "MX",
+        "position": "DEL"
     },
-  "AGG": {
-      "kamaId": "0",
-      "name": "Adrian Marín ",
-      "dorsal": "MARIN",
-      "nationality": "MX",
-      "position": "MD"
+    "AGG": {
+        "kamaId": "0",
+        "name": "Adrian Marín ",
+        "dorsal": "MARIN",
+        "nationality": "MX",
+        "position": "MD"
     },
-  "AGH": {
-      "kamaId": "0",
-      "name": "Diego Vivian",
-      "dorsal": "VIVIAN",
-      "nationality": "MX",
-      "position": "DEL"
+    "AGH": {
+        "kamaId": "0",
+        "name": "Diego Vivian",
+        "dorsal": "VIVIAN",
+        "nationality": "MX",
+        "position": "DEL"
     },
-  "AGI": {
-      "kamaId": "0",
-      "name": "Juan Cisneros",
-      "dorsal": "CISNEROS",
-      "nationality": "MX",
-      "position": "MED"
+    "AGI": {
+        "kamaId": "0",
+        "name": "Juan Cisneros",
+        "dorsal": "CISNEROS",
+        "nationality": "MX",
+        "position": "MED"
     },
-  "AGJ": {
-      "kamaId": "0",
-      "name": "Lawrence Lonsdale",
-      "dorsal": "LONSDALE",
-      "nationality": "",
-      "position": "DEF"
+    "AGJ": {
+        "kamaId": "0",
+        "name": "Lawrence Lonsdale",
+        "dorsal": "LONSDALE",
+        "nationality": "",
+        "position": "DEF"
     },
-  "AGK": {
-      "kamaId": "0",
-      "name": "Antonio Monterde",
-      "dorsal": "MONTERDE",
-      "nationality": "MX",
-      "position": "POR"
+    "AGK": {
+        "kamaId": "0",
+        "name": "Antonio Monterde",
+        "dorsal": "MONTERDE",
+        "nationality": "MX",
+        "position": "POR"
     },
-  "AGL": [
-    {
-      "kamaId": "0",
-      "name": "Obed Martínez",
-      "dorsal": "OBED",
-      "nationality": "MX",
-      "position": "MED"
+    "AGL": {
+        "kamaId": "0",
+        "name": "Obed Martínez",
+        "dorsal": "OBED",
+        "nationality": "MX",
+        "position": "MED"
     }
 }
 

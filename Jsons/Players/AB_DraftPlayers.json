@@ -1,93 +1,73 @@
 {
-  "ABA": [
-    {
-      "kamaId": "0",
-      "name": "Diego Flores",
-      "dorsal": "FLORES",
-      "nationality": "MX",
-      "position": "DEF"
+    "ABA": {
+        "kamaId": "0",
+        "name": "Diego Flores",
+        "dorsal": "FLORES",
+        "nationality": "MX",
+        "position": "DEF"
+    },
+    "ABB": {
+        "kamaId": "0",
+        "name": "Paul Cruz",
+        "dorsal": "PAUL",
+        "nationality": "MX",
+        "position": "POR"
+    },
+    "ABC": {
+        "kamaId": "0",
+        "name": "Alain Villanueva",
+        "dorsal": "ALAIN",
+        "nationality": "MXCO",
+        "position": "MED"
+    },
+    "ABD": {
+        "kamaId": "0",
+        "name": "Donovan Martínez",
+        "dorsal": "DONOVAN",
+        "nationality": "MX",
+        "position": "MED"
+    },
+    "ABE": {
+        "kamaId": "0",
+        "name": "Diego Gutiérrez",
+        "dorsal": "DIEGO",
+        "nationality": "MX",
+        "position": "DEL"
+    },
+    "ABF": {
+        "kamaId": "0",
+        "name": "Javier Gallegos",
+        "dorsal": "JAVIER",
+        "nationality": "MX",
+        "position": "MED"
+    },
+    "ABG": {
+        "kamaId": "0",
+        "name": "Jorge Leal",
+        "dorsal": "JORGE",
+        "nationality": "MX",
+        "position": "MED"
+    },
+    "ABH": {
+        "kamaId": "0",
+        "name": "Enrique Ciprian",
+        "dorsal": "CIPRIAN",
+        "nationality": "MX",
+        "position": "MED"
+    },
+    "ABI": {
+        "kamaId": "0",
+        "name": "Martin Lara",
+        "dorsal": "MARTIN",
+        "nationality": "MX",
+        "position": "MED"
+    },
+    "ABJ": {
+        "kamaId": "0",
+        "name": "Angel Rascón",
+        "dorsal": "RASCON",
+        "nationality": "MX",
+        "position": "DEL"
     }
-  ],
-  "ABB": [
-    {
-      "kamaId": "0",
-      "name": "Paul Cruz",
-      "dorsal": "PAUL",
-      "nationality": "MX",
-      "position": "POR"
-    }
-  ],
-  "ABC": [
-    {
-      "kamaId": "0",
-      "name": "Alain Villanueva",
-      "dorsal": "ALAIN",
-      "nationality": "MXCO",
-      "position": "MED"
-    }
-  ],
-  "ABD": [
-    {
-      "kamaId": "0",
-      "name": "Donovan Martínez",
-      "dorsal": "DONOVAN",
-      "nationality": "MX",
-      "position": "MED"
-    }
-  ],
-  "ABE": [
-    {
-      "kamaId": "0",
-      "name": "Diego Gutiérrez",
-      "dorsal": "DIEGO",
-      "nationality": "MX",
-      "position": "DEL"
-    }
-  ],
-  "ABF": [
-    {
-      "kamaId": "0",
-      "name": "Javier Gallegos",
-      "dorsal": "JAVIER",
-      "nationality": "MX",
-      "position": "MED"
-    }
-  ],
-  "ABG": [
-    {
-      "kamaId": "0",
-      "name": "Jorge Leal",
-      "dorsal": "JORGE",
-      "nationality": "MX",
-      "position": "MED"
-    }
-  ],
-  "ABH": [
-    {
-      "kamaId": "0",
-      "name": "Enrique Ciprian",
-      "dorsal": "CIPRIAN",
-      "nationality": "MX",
-      "position": "MED"
-    }
-  ],
-  "ABI": [
-    {
-      "kamaId": "0",
-      "name": "Martin Lara",
-      "dorsal": "MARTIN",
-      "nationality": "MX",
-      "position": "MED"
-    }
-  ],
-  "ABJ": [
-    {
-      "kamaId": "0",
-      "name": "Angel Rascón",
-      "dorsal": "RASCON",
-      "nationality": "MX",
-      "position": "DEL"
-    }
-  ]
 }
 

@@ -1,93 +1,73 @@
 {
-  "AJA": [
-    {
-      "kamaId": "0",
-      "name": "Diego Arriaga",
-      "dorsal": "MASKARA",
-      "nationality": "MX",
-      "position": "POR"
+    "AJA": {
+        "kamaId": "0",
+        "name": "Diego Arriaga",
+        "dorsal": "MASKARA",
+        "nationality": "MX",
+        "position": "POR"
+    },
+    "AJB": {
+        "kamaId": "0",
+        "name": "Diego Franco",
+        "dorsal": "FRANCO",
+        "nationality": "MX",
+        "position": "MED"
+    },
+    "AJC": {
+        "kamaId": "0",
+        "name": "Jairo Tapie",
+        "dorsal": "JAIRO",
+        "nationality": "CO",
+        "position": "MED"
+    },
+    "AJD": {
+        "kamaId": "0",
+        "name": "POR REEMPLAZAR",
+        "dorsal": "JUGADOR 4",
+        "nationality": "",
+        "position": ""
+    },
+    "AJE": {
+        "kamaId": "0",
+        "name": "Alejandro Díaz",
+        "dorsal": "DIAZ",
+        "nationality": "MX",
+        "position": "MED"
+    },
+    "AJF": {
+        "kamaId": "0",
+        "name": "Gabriel Avilés",
+        "dorsal": "AVILES",
+        "nationality": "MX",
+        "position": "DEF"
+    },
+    "AJG": {
+        "kamaId": "0",
+        "name": "Andres Rugeles",
+        "dorsal": "RUGE",
+        "nationality": "CO",
+        "position": "MED"
+    },
+    "AJH": {
+        "kamaId": "0",
+        "name": "José Vizcarra",
+        "dorsal": "VISCARRA",
+        "nationality": "MX",
+        "position": "DEL"
+    },
+    "AJI": {
+        "kamaId": "0",
+        "name": "Abayubá Duché",
+        "dorsal": "ABUYABA",
+        "nationality": "MX",
+        "position": "MED"
+    },
+    "AJJ": {
+        "kamaId": "0",
+        "name": "Marco Millán",
+        "dorsal": "MILLAN",
+        "nationality": "MX",
+        "position": "POR"
     }
-  ],
-  "AJB": [
-    {
-      "kamaId": "0",
-      "name": "Diego Franco",
-      "dorsal": "FRANCO",
-      "nationality": "MX",
-      "position": "MED"
-    }
-  ],
-  "AJC": [
-    {
-      "kamaId": "0",
-      "name": "Jairo Tapie",
-      "dorsal": "JAIRO",
-      "nationality": "CO",
-      "position": "MED"
-    }
-  ],
-  "AJD": [
-    {
-      "kamaId": "0",
-      "name": "POR REEMPLAZAR",
-      "dorsal": "JUGADOR 4",
-      "nationality": "",
-      "position": ""
-    }
-  ],
-  "AJE": [
-    {
-      "kamaId": "0",
-      "name": "Alejandro Díaz",
-      "dorsal": "DIAZ",
-      "nationality": "MX",
-      "position": "MED"
-    }
-  ],
-  "AJF": [
-    {
-      "kamaId": "0",
-      "name": "Gabriel Avilés",
-      "dorsal": "AVILES",
-      "nationality": "MX",
-      "position": "DEF"
-    }
-  ],
-  "AJG": [
-    {
-      "kamaId": "0",
-      "name": "Andres Rugeles",
-      "dorsal": "RUGE",
-      "nationality": "CO",
-      "position": "MED"
-    }
-  ],
-  "AJH": [
-    {
-      "kamaId": "0",
-      "name": "José Vizcarra",
-      "dorsal": "VISCARRA",
-      "nationality": "MX",
-      "position": "DEL"
-    }
-  ],
-  "AJI": [
-    {
-      "kamaId": "0",
-      "name": "Abayubá Duché",
-      "dorsal": "ABUYABA",
-      "nationality": "MX",
-      "position": "MED"
-    }
-  ],
-  "AJJ": [
-    {
-      "kamaId": "0",
-      "name": "Marco Millán",
-      "dorsal": "MILLAN",
-      "nationality": "MX",
-      "position": "POR"
-    }
-  ]
 }
 
