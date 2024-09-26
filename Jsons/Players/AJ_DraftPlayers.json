@@ -21,11 +21,11 @@
         "position": "MED"
     },
     "AJD": {
-        "kamaId": "0",
+        "kamaId": "1",
         "name": "POR REEMPLAZAR",
         "dorsal": "JUGADOR 4",
-        "nationality": "",
-        "position": ""
+        "nationality": " ",
+        "position": " "
     },
     "AJE": {
         "kamaId": "1006",

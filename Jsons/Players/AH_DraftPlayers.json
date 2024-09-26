@@ -68,6 +68,27 @@
         "dorsal": "TORRES",
         "nationality": "AR",
         "position": "MED"
+    },
+    "AHK": {
+        "kamaId": "1",
+        "name": "George Corral",
+        "dorsal": "GEORGE",
+        "nationality": "MX",
+        "position": "DEF"
+    },
+    "AHL": {
+        "kamaId": "33244",
+        "name": "Diego Martínez",
+        "dorsal": "DIEGO",
+        "nationality": "MX",
+        "position": "MED"
+    },
+    "AHM": {
+        "kamaId": "1",
+        "name": "Braian Argento",
+        "dorsal": "BRAIAN",
+        "nationality": "AR",
+        "position": "DL"
     }
 }
 
