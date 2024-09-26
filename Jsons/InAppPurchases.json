@@ -4,8 +4,8 @@
     "title": "30 Coronas",
     "description": "El paquete más pequeño, perfecto para empezar con algunas coronas.",
     "imageId": "crowns_1",
-    "price": "1.99",
-    "currency": "USD",
+    "price": "199",
+    "currency": "usd",
     "appleProductId": "30CROWNS",
     "androidProductId": "0"
   },
@@ -14,8 +14,8 @@
     "title": "80 Coronas",
     "description": "Para los jugadores que quieren comenzar a tomar protagonismo.",
     "imageId": "crowns_2",
-    "price": "4.99",
-    "currency": "USD",
+    "price": "499",
+    "currency": "usd",
     "appleProductId": "80CROWNS",
     "androidProductId": "0"
   },
@@ -24,8 +24,8 @@
     "title": "170 Coronas",
     "description": "Ideal para quienes buscan más recursos para dominar.",
     "imageId": "crowns_3",
-    "price": "9.99",
-    "currency": "USD",
+    "price": "999",
+    "currency": "usd",
     "appleProductId": "170CROWNS",
     "androidProductId": "0"
   },
@@ -34,8 +34,8 @@
     "title": "360 Coronas",
     "description": "Paquete premium para aquellos que desean estar un paso por delante.",
     "imageId": "crowns_4",
-    "price": "19.99",
-    "currency": "USD",
+    "price": "1999",
+    "currency": "usd",
     "appleProductId": "360CROWNS",
     "androidProductId": "0"
   },
@@ -44,8 +44,8 @@
     "title": "950 Coronas",
     "description": "Perfecto para los jugadores más ambiciosos.",
     "imageId": "crowns_5",
-    "price": "49.99",
-    "currency": "USD",
+    "price": "4999",
+    "currency": "usd",
     "appleProductId": "950CROWNS",
     "androidProductId": "0"
   },
@@ -54,8 +54,8 @@
     "title": "2000 Coronas",
     "description": "El paquete más exclusivo, para aquellos que desean reinar en la liga.",
     "imageId": "crowns_6",
-    "price": "99.99",
-    "currency": "USD",
+    "price": "9999",
+    "currency": "usd",
     "appleProductId": "2000CROWNS",
     "androidProductId": "0"
   }
