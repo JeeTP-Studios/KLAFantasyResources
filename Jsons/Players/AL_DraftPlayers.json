@@ -1,68 +1,68 @@
 {
-    "AJA": {
+    "ALA": {
         "kamaId": "0",
         "name": "Baruc Mateos",
         "dorsal": "BARUC",
         "nationality": "MX",
         "position": "POR"
     },
-    "AJB": {
+    "ALB": {
         "kamaId": "0",
         "name": "Jesús Pérez",
         "dorsal": "CHUY",
         "nationality": "MX",
         "position": "MED"
     },
-    "AJC": {
+    "ALC": {
         "kamaId": "0",
         "name": "Iñaki Domínguez",
         "dorsal": "IÑAKI",
         "nationality": "MXES",
         "position": "MED"
     },
-    "AJD": {
+    "ALD": {
         "kamaId": "0",
         "name": "Rafael González",
         "dorsal": "RAFA",
         "nationality": "MX",
         "position": "MED"
     },
-    "AJE": {
+    "ALE": {
         "kamaId": "0",
         "name": "Jacob Morales",
         "dorsal": "LOBO",
         "nationality": "MX",
         "position": "DEL"
     },
-    "AJF": {
+    "ALF": {
         "kamaId": "0",
         "name": "Edgar Martínez",
         "dorsal": "EDGAR",
         "nationality": "MX",
         "position": "DEL"
     },
-    "AJG": {
+    "ALG": {
         "kamaId": "0",
         "name": "Jorge Meléndez",
         "dorsal": "MELENDEZ",
         "nationality": "MX",
         "position": "MED"
     },
-    "AJH": {
+    "ALH": {
         "kamaId": "0",
         "name": "Kevin Valdez",
         "dorsal": "VALDEZ",
         "nationality": "MX",
         "position": "DEF"
     },
-    "AJI": {
+    "ALI": {
         "kamaId": "0",
         "name": "Alejandro Carrillo",
         "dorsal": "CARILLO",
         "nationality": "MX",
         "position": "POR"
     },
-    "AJJ": {
+    "ALJ": {
         "kamaId": "0",
         "name": "Brayam Nazarit",
         "dorsal": "NAZA",
