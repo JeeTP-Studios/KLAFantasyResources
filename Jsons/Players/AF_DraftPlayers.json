@@ -1,69 +1,69 @@
 {
     "AFA": {
-        "kamaId": "0",
-        "name": "Moisés Dabbah",
+        "kamaId": "3616",
+        "name": "Moises Dabbah",
         "dorsal": "DABBAH",
         "nationality": "MX",
         "position": "POR"
     },
     "AFB": {
-        "kamaId": "0",
-        "name": "Juan Martínez",
+        "kamaId": "9654",
+        "name": "Juan Martinez",
         "dorsal": "JUAN",
         "nationality": "MX",
         "position": "DEF"
     },
     "AFC": {
-        "kamaId": "0",
+        "kamaId": "28523",
         "name": "William Rojas",
         "dorsal": "WILLIAM",
         "nationality": "CO",
         "position": "MED"
     },
     "AFD": {
-        "kamaId": "0",
+        "kamaId": "32291",
         "name": "Juan Celada",
         "dorsal": "CELADA",
         "nationality": "MX",
         "position": "DEL"
     },
     "AFE": {
-        "kamaId": "0",
-        "name": "César Villaluz",
+        "kamaId": "17966",
+        "name": "Cesar Villaluz",
         "dorsal": "VILLALUZ",
         "nationality": "MX",
         "position": "MED"
     },
     "AFF": {
-        "kamaId": "0",
+        "kamaId": "61580",
         "name": "Fernando Morales",
         "dorsal": "MORALES",
         "nationality": "MX",
         "position": "MED"
     },
     "AFG": {
-        "kamaId": "0",
-        "name": "José Sastoque",
+        "kamaId": "66576",
+        "name": "Jose Sastoque",
         "dorsal": "SASTOQUE",
         "nationality": "CO",
         "position": "MED"
     },
     "AFH": {
-        "kamaId": "0",
+        "kamaId": "59630",
         "name": "Isaac Mora",
         "dorsal": "MORA",
         "nationality": "MX",
         "position": "MED"
     },
     "AFI": {
-        "kamaId": "0",
+        "kamaId": "18746",
         "name": "Julio Torres",
         "dorsal": "LEGOLAS",
         "nationality": "MX",
         "position": "POR"
     },
     "AFJ": {
-        "kamaId": "0",
+        "kamaId": "59629",
         "name": "Erick Madrigal",
         "dorsal": "MADRIGAL",
         "nationality": "MX",

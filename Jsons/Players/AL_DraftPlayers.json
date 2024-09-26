@@ -1,69 +1,69 @@
 {
     "ALA": {
-        "kamaId": "0",
-        "name": "Baruc Mateos",
+        "kamaId": "13773",
+        "name": "Jonathan Mateos",
         "dorsal": "BARUC",
         "nationality": "MX",
         "position": "POR"
     },
     "ALB": {
-        "kamaId": "0",
-        "name": "Jesús Pérez",
+        "kamaId": "16797",
+        "name": "Jesus Perez",
         "dorsal": "CHUY",
         "nationality": "MX",
         "position": "MED"
     },
     "ALC": {
-        "kamaId": "0",
-        "name": "Iñaki Domínguez",
+        "kamaId": "6343",
+        "name": "Iñaki Dominguez",
         "dorsal": "IÑAKI",
         "nationality": "MXES",
         "position": "MED"
     },
     "ALD": {
-        "kamaId": "0",
-        "name": "Rafael González",
+        "kamaId": "18350",
+        "name": "Rafael Gonzalez",
         "dorsal": "RAFA",
         "nationality": "MX",
         "position": "MED"
     },
     "ALE": {
-        "kamaId": "0",
+        "kamaId": "18985",
         "name": "Jacob Morales",
         "dorsal": "LOBO",
         "nationality": "MX",
         "position": "DEL"
     },
     "ALF": {
-        "kamaId": "0",
-        "name": "Edgar Martínez",
+        "kamaId": "59578",
+        "name": "Edgar Martinez",
         "dorsal": "EDGAR",
         "nationality": "MX",
         "position": "DEL"
     },
     "ALG": {
-        "kamaId": "0",
-        "name": "Jorge Meléndez",
+        "kamaId": "64211",
+        "name": "Jorge Melendez",
         "dorsal": "MELENDEZ",
         "nationality": "MX",
         "position": "MED"
     },
     "ALH": {
-        "kamaId": "0",
+        "kamaId": "61583",
         "name": "Kevin Valdez",
         "dorsal": "VALDEZ",
         "nationality": "MX",
         "position": "DEF"
     },
     "ALI": {
-        "kamaId": "0",
+        "kamaId": "59683",
         "name": "Alejandro Carrillo",
         "dorsal": "CARILLO",
         "nationality": "MX",
         "position": "POR"
     },
     "ALJ": {
-        "kamaId": "0",
+        "kamaId": "60268",
         "name": "Brayam Nazarit",
         "dorsal": "NAZA",
         "nationality": "CO",

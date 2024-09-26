@@ -1,69 +1,69 @@
 {
     "AIA": {
-        "kamaId": "0",
+        "kamaId": "16666",
         "name": "Omar Lascari",
         "dorsal": "LASCARI",
         "nationality": "MX",
         "position": "POR"
     },
     "AIB": {
-        "kamaId": "0",
-        "name": "Martín Rodríguez",
+        "kamaId": "12831",
+        "name": "Martin Rodriguez",
         "dorsal": "CANI",
         "nationality": "",
         "position": "MED"
     },
     "AIC": {
-        "kamaId": "0",
+        "kamaId": "18034",
         "name": "Edson Trejo",
         "dorsal": "EDSON",
         "nationality": "MX",
         "position": "MED"
     },
     "AID": {
-        "kamaId": "0",
+        "kamaId": "7959",
         "name": "Javier Meraz",
         "dorsal": "MERAZ",
         "nationality": "MX",
         "position": "DEL"
     },
     "AIE": {
-        "kamaId": "0",
+        "kamaId": "60040",
         "name": "Ricardo Valencia",
         "dorsal": "VALENCIA",
         "nationality": "CO",
         "position": "MED"
     },
     "AIF": {
-        "kamaId": "0",
+        "kamaId": "61254",
         "name": "Erik Fraire",
         "dorsal": "FRAIRE",
         "nationality": "MX",
         "position": "POR"
     },
     "AIG": {
-        "kamaId": "0",
+        "kamaId": "61191",
         "name": "Christian Lagunas",
         "dorsal": "LAGUNAS",
         "nationality": "MX",
         "position": "MED"
     },
     "AIH": {
-        "kamaId": "0",
+        "kamaId": "60041",
         "name": "Pabel Montes",
         "dorsal": "PABEL",
         "nationality": "MX",
         "position": "MED"
     },
     "AII": {
-        "kamaId": "0",
+        "kamaId": "64269",
         "name": "Eder Uscanga",
         "dorsal": "USCANGA",
         "nationality": "MX",
         "position": "MED"
     },
     "AIJ": {
-        "kamaId": "0",
+        "kamaId": "60121",
         "name": "Diego Perez",
         "dorsal": "DIEGO",
         "nationality": "MX",

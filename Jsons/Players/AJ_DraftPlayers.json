@@ -1,20 +1,20 @@
 {
     "AJA": {
-        "kamaId": "0",
+        "kamaId": "985",
         "name": "Diego Arriaga",
         "dorsal": "MASKARA",
         "nationality": "MX",
         "position": "POR"
     },
     "AJB": {
-        "kamaId": "0",
+        "kamaId": "27748",
         "name": "Diego Franco",
         "dorsal": "FRANCO",
         "nationality": "MX",
         "position": "MED"
     },
     "AJC": {
-        "kamaId": "0",
+        "kamaId": "1565",
         "name": "Jairo Tapie",
         "dorsal": "JAIRO",
         "nationality": "CO",
@@ -28,43 +28,43 @@
         "position": ""
     },
     "AJE": {
-        "kamaId": "0",
-        "name": "Alejandro Díaz",
+        "kamaId": "1006",
+        "name": "Alejandro Diaz",
         "dorsal": "DIAZ",
         "nationality": "MX",
         "position": "MED"
     },
     "AJF": {
-        "kamaId": "0",
-        "name": "Gabriel Avilés",
+        "kamaId": "62006",
+        "name": "Gabriel Aviles",
         "dorsal": "AVILES",
         "nationality": "MX",
         "position": "DEF"
     },
     "AJG": {
-        "kamaId": "0",
+        "kamaId": "66774",
         "name": "Andres Rugeles",
         "dorsal": "RUGE",
         "nationality": "CO",
         "position": "MED"
     },
     "AJH": {
-        "kamaId": "0",
-        "name": "José Vizcarra",
+        "kamaId": "60098",
+        "name": "Jose Vizcarra",
         "dorsal": "VISCARRA",
         "nationality": "MX",
         "position": "DEL"
     },
     "AJI": {
-        "kamaId": "0",
-        "name": "Abayubá Duché",
+        "kamaId": "64544",
+        "name": "Abayuba Duche",
         "dorsal": "ABUYABA",
         "nationality": "MX",
         "position": "MED"
     },
     "AJJ": {
-        "kamaId": "0",
-        "name": "Marco Millán",
+        "kamaId": "66898",
+        "name": "Marco Millan",
         "dorsal": "MILLAN",
         "nationality": "MX",
         "position": "POR"

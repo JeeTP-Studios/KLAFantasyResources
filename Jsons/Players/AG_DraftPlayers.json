@@ -1,84 +1,84 @@
 {
     "AGA": {
-        "kamaId": "0",
+        "kamaId": "27716",
         "name": "Justo Islas",
         "dorsal": "ISLAS",
         "nationality": "MX",
         "position": "MED"
     },
     "AGB": {
-        "kamaId": "0",
+        "kamaId": "27740",
         "name": "Rafael Cid",
         "dorsal": "RAFAEL",
         "nationality": "MXES",
         "position": "DEF"
     },
     "AGC": {
-        "kamaId": "0",
+        "kamaId": "20139",
         "name": "Fernando Olmedo",
         "dorsal": "OLMEDO",
         "nationality": "MXFR",
         "position": "DEL"
     },
     "AGD": {
-        "kamaId": "0",
-        "name": "Luis González",
+        "kamaId": "30818",
+        "name": "Luis Gonzalez",
         "dorsal": "MENON",
         "nationality": "MX",
         "position": "DEL"
     },
     "AGE": {
-        "kamaId": "0",
-        "name": "José Miramontes",
+        "kamaId": "7315",
+        "name": "Jose Miramontes",
         "dorsal": "MIRAMONTES",
         "nationality": "MX",
         "position": "MED"
     },
     "AGF": {
-        "kamaId": "0",
+        "kamaId": "63946",
         "name": "Sergio Meza",
         "dorsal": "SERGIO",
         "nationality": "MX",
         "position": "DEL"
     },
     "AGG": {
-        "kamaId": "0",
-        "name": "Adrian Marín ",
+        "kamaId": "63646",
+        "name": "Adrian Marin ",
         "dorsal": "MARIN",
         "nationality": "MX",
         "position": "MD"
     },
     "AGH": {
-        "kamaId": "0",
+        "kamaId": "26320",
         "name": "Diego Vivian",
         "dorsal": "VIVIAN",
         "nationality": "MX",
         "position": "DEL"
     },
     "AGI": {
-        "kamaId": "0",
+        "kamaId": "61733",
         "name": "Juan Cisneros",
         "dorsal": "CISNEROS",
         "nationality": "MX",
         "position": "MED"
     },
     "AGJ": {
-        "kamaId": "0",
+        "kamaId": "66074",
         "name": "Lawrence Lonsdale",
         "dorsal": "LONSDALE",
         "nationality": "",
         "position": "DEF"
     },
     "AGK": {
-        "kamaId": "0",
+        "kamaId": "33172",
         "name": "Antonio Monterde",
         "dorsal": "MONTERDE",
         "nationality": "MX",
         "position": "POR"
     },
     "AGL": {
-        "kamaId": "0",
-        "name": "Obed Martínez",
+        "kamaId": "34764",
+        "name": "Obed Martinez",
         "dorsal": "OBED",
         "nationality": "MX",
         "position": "MED"

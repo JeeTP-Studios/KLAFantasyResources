@@ -1,69 +1,69 @@
 {
     "AKA": {
-        "kamaId": "0",
+        "kamaId": "27276",
         "name": "Ricardo Ferriño",
         "dorsal": "FRRIÑO",
         "nationality": "MX",
         "position": "POR"
     },
     "AKB": {
-        "kamaId": "0",
-        "name": "César Bernal",
+        "kamaId": "27040",
+        "name": "Cesar Bernal",
         "dorsal": "BERNAL",
         "nationality": "MX",
         "position": "DEF"
     },
     "AKC": {
-        "kamaId": "0",
-        "name": "Pablo Sámano",
+        "kamaId": "18386",
+        "name": "Pablo Samano",
         "dorsal": "PALLO",
         "nationality": "MX",
         "position": "MED"
     },
     "AKD": {
-        "kamaId": "0",
+        "kamaId": "27025",
         "name": "Abner Monreal",
         "dorsal": "MONREAL",
         "nationality": "MX",
         "position": "MED"
     },
     "AKE": {
-        "kamaId": "0",
-        "name": "Brayan Hernández",
+        "kamaId": "29190",
+        "name": "Brayan Hernandez",
         "dorsal": "BRAYAN",
         "nationality": "MX",
         "position": "MED"
     },
     "AKF": {
-        "kamaId": "0",
+        "kamaId": "26969",
         "name": "Gerardo Lugo",
         "dorsal": "LUGO",
         "nationality": "MX",
         "position": "MED"
     },
     "AKG": {
-        "kamaId": "0",
+        "kamaId": "59905",
         "name": "Abdoulaye Bangoura",
         "dorsal": "ABDOULAYE",
         "nationality": "MX",
         "position": "DEL"
     },
     "AKH": {
-        "kamaId": "0",
+        "kamaId": "59819",
         "name": "Denilson Lobon",
         "dorsal": "LOBON",
         "nationality": "CO",
         "position": "DEF"
     },
     "AKI": {
-        "kamaId": "0",
+        "kamaId": "63620",
         "name": "Diego Reynoso",
         "dorsal": "REYNOSO",
         "nationality": "MX",
         "position": "POR"
     },
     "AKJ": {
-        "kamaId": "0",
+        "kamaId": "61533",
         "name": "Stephan D'Alessandro",
         "dorsal": "STEPAHN",
         "nationality": "DO",

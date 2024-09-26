@@ -1,62 +1,62 @@
 {
     "ACA": {
-        "kamaId": "0",
+        "kamaId": "2206",
         "name": "Patricio Arias",
         "dorsal": "ARIAS",
         "nationality": "MX",
         "position": "DEF"
     },
     "ACB": {
-        "kamaId": "0",
-        "name": "César Marín",
+        "kamaId": "16158",
+        "name": "Cesar Marin",
         "dorsal": "MARIN",
         "nationality": "MX",
         "position": "DEF"
     },
     "ACC": {
-        "kamaId": "0",
+        "kamaId": "11060",
         "name": "Didier Uribe",
         "dorsal": "DIDIER",
         "nationality": "MX",
         "position": "MED"
     },
     "ACD": {
-        "kamaId": "0",
-        "name": "Iker Treviño",
+        "kamaId": "20249",
+        "name": "Iker Trevino",
         "dorsal": "REKI",
         "nationality": "MX",
         "position": "MED"
     },
     "ACE": {
-        "kamaId": "0",
-        "name": "Brihan Gutiérrez",
+        "kamaId": "30301",
+        "name": "Brihan Gutierrez",
         "dorsal": "GUTI",
         "nationality": "CO",
         "position": "MED"
     },
     "ACF": {
-        "kamaId": "0",
+        "kamaId": "67229",
         "name": "Emmanuel Sierra",
         "dorsal": "SIERRA",
         "nationality": "CO",
         "position": "MED"
     },
     "ACG": {
-        "kamaId": "0",
+        "kamaId": "8315",
         "name": "Erik Lugo",
         "dorsal": "ERIK",
         "nationality": "MX",
         "position": "POR"
     },
     "ACH": {
-        "kamaId": "0",
+        "kamaId": "64291",
         "name": "Jair Perez",
         "dorsal": "PEREZ",
         "nationality": "CO",
         "position": "DEL"
     },
     "ACI": {
-        "kamaId": "0",
+        "kamaId": "66202",
         "name": "Michel Cardenas",
         "dorsal": "MICEL",
         "nationality": "CO",

@@ -1,69 +1,69 @@
 {
     "ADA": {
-        "kamaId": "0",
-        "name": "Óscar Medina",
+        "kamaId": "26984",
+        "name": "Oscar Medina",
         "dorsal": "PLATANO",
         "nationality": "MX",
         "position": "POR"
     },
     "ADB": {
-        "kamaId": "0",
-        "name": "Juan Marín",
+        "kamaId": "18545",
+        "name": "Juan Marin",
         "dorsal": "MARIN",
         "nationality": "MX",
         "position": "MED"
     },
     "ADC": {
-        "kamaId": "0",
+        "kamaId": "15614",
         "name": "Anferny Rebollar",
         "dorsal": "ANFER",
         "nationality": "MX",
         "position": "DEF"
     },
     "ADD": {
-        "kamaId": "0",
+        "kamaId": "27363",
         "name": "Alfonso Nieto",
         "dorsal": "NIETO",
         "nationality": "MX",
         "position": "DEL"
     },
     "ADE": {
-        "kamaId": "0",
-        "name": "Gustavo Guillén",
+        "kamaId": "32381",
+        "name": "Gustavo Guillen",
         "dorsal": "FURBY",
         "nationality": "MX",
         "position": "MED"
     },
     "ADF": {
-        "kamaId": "0",
+        "kamaId": "31998",
         "name": "Tirso Trueba",
         "dorsal": "TRUEBA",
         "nationality": "MX",
         "position": "POR"
     },
     "ADG": {
-        "kamaId": "0",
+        "kamaId": "67208",
         "name": "Daniel Mendoza",
         "dorsal": "DANIEL",
         "nationality": "CO",
         "position": "DEF"
     },
     "ADH": {
-        "kamaId": "0",
+        "kamaId": "59684",
         "name": "Samuel Pascoe",
         "dorsal": "PASCOE",
         "nationality": "MX",
         "position": "MED"
     },
     "ADI": {
-        "kamaId": "0",
+        "kamaId": "63799",
         "name": "Alexis Benitez",
         "dorsal": "BENNY",
         "nationality": "PY",
         "position": "DEL"
     },
     "ADJ": {
-        "kamaId": "0",
+        "kamaId": "60567",
         "name": "Felipe Gomez",
         "dorsal": "FELIPE",
         "nationality": "MX",
