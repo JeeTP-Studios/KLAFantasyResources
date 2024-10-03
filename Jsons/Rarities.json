@@ -25,7 +25,7 @@
     "secundaryColor": "#C28124"
   },
   "F": {
-    "name": "Épica",
+    "name": "Epica",
     "primaryColor": "#7B4B76",
     "secundaryColor": "#BA4888"
   },
@@ -35,12 +35,12 @@
     "secundaryColor": "#5A86B9"
   },
   "H": {
-    "name": "Poco Común",
+    "name": "Poco Comun",
     "primaryColor": "#578B38",
     "secundaryColor": "#83C466"
   },
   "I": {
-    "name": "Común",
+    "name": "Comun",
     "primaryColor": "#82A09E",
     "secundaryColor": "#A1B1AF"
   }
