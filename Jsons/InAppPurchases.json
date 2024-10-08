@@ -2,7 +2,7 @@
   "0": {
     "referenceName": "Lote del Escudero",
     "title": "30 Coronas",
-    "description": "El paquete más pequeño, perfecto para empezar con algunas coronas.",
+    "description": "El paquete mas pequeño, perfecto para empezar con algunas coronas.",
     "imageId": "crowns_1",
     "price": "199",
     "currency": "usd",
@@ -20,9 +20,9 @@
     "androidProductId": "0"
   },
   "2": {
-    "referenceName": "Bolsa del Barón",
+    "referenceName": "Bolsa del Baron",
     "title": "170 Coronas",
-    "description": "Ideal para quienes buscan más recursos para dominar.",
+    "description": "Ideal para quienes buscan mas recursos para dominar.",
     "imageId": "crowns_3",
     "price": "999",
     "currency": "usd",
@@ -40,9 +40,9 @@
     "androidProductId": "0"
   },
   "4": {
-    "referenceName": "Cofre del Príncipe",
+    "referenceName": "Cofre del Principe",
     "title": "950 Coronas",
-    "description": "Perfecto para los jugadores más ambiciosos.",
+    "description": "Perfecto para los jugadores mas ambiciosos.",
     "imageId": "crowns_5",
     "price": "4999",
     "currency": "usd",
@@ -52,7 +52,7 @@
   "5": {
     "referenceName": "Cofre del Rey",
     "title": "2000 Coronas",
-    "description": "El paquete más exclusivo, para aquellos que desean reinar en la liga.",
+    "description": "El paquete mas exclusivo, para aquellos que desean reinar en la liga.",
     "imageId": "crowns_6",
     "price": "9999",
     "currency": "usd",
