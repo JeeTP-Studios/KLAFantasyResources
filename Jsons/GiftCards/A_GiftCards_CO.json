@@ -10,6 +10,537 @@
             "categories": [
                 "Cash & Prepaid Card"
             ]
+        },
+        {
+            "id": 65779,
+            "name": "Champion",
+            "ticketsPrice": 1000,
+            "denomination": 50000,
+            "currency": "COP",
+            "quantity": 1,
+            "categories": [
+                "Sports",
+                "Fashion & Lifestyle"
+            ]
+        },
+        {
+            "id": 52233,
+            "name": "Prochampions",
+            "ticketsPrice": 1000,
+            "denomination": 30000,
+            "currency": "COP",
+            "quantity": 1,
+            "categories": [
+                "Sports",
+                "Fashion & Lifestyle"
+            ]
+        },
+        {
+            "id": 52233,
+            "name": "Prochampions",
+            "ticketsPrice": 1000,
+            "denomination": 40000,
+            "currency": "COP",
+            "quantity": 1,
+            "categories": [
+                "Sports",
+                "Fashion & Lifestyle"
+            ]
+        },
+        {
+            "id": 52233,
+            "name": "Prochampions",
+            "ticketsPrice": 1000,
+            "denomination": 100000,
+            "currency": "COP",
+            "quantity": 1,
+            "categories": [
+                "Sports",
+                "Fashion & Lifestyle"
+            ]
+        },
+        {
+            "id": 65771,
+            "name": "Tenis",
+            "ticketsPrice": 1000,
+            "denomination": 30000,
+            "currency": "COP",
+            "quantity": 1,
+            "categories": [
+                "Sports",
+                "Fashion & Lifestyle"
+            ]
+        },
+        {
+            "id": 65771,
+            "name": "Tenis",
+            "ticketsPrice": 1000,
+            "denomination": 50000,
+            "currency": "COP",
+            "quantity": 1,
+            "categories": [
+                "Sports",
+                "Fashion & Lifestyle"
+            ]
+        },
+        {
+            "id": 65771,
+            "name": "Tenis",
+            "ticketsPrice": 1000,
+            "denomination": 100000,
+            "currency": "COP",
+            "quantity": 1,
+            "categories": [
+                "Sports",
+                "Fashion & Lifestyle"
+            ]
+        },
+        {
+            "id": 65769,
+            "name": "Koaj",
+            "ticketsPrice": 1000,
+            "denomination": 30000,
+            "currency": "COP",
+            "quantity": 1,
+            "categories": [
+                "Fashion & Lifestyle"
+            ]
+        },
+        {
+            "id": 65769,
+            "name": "Koaj",
+            "ticketsPrice": 1000,
+            "denomination": 50000,
+            "currency": "COP",
+            "quantity": 1,
+            "categories": [
+                "Fashion & Lifestyle"
+            ]
+        },
+        {
+            "id": 65769,
+            "name": "Koaj",
+            "ticketsPrice": 1000,
+            "denomination": 100000,
+            "currency": "COP",
+            "quantity": 1,
+            "categories": [
+                "Fashion & Lifestyle"
+            ]
+        },
+        {
+            "id": 65772,
+            "name": "Patprimo",
+            "ticketsPrice": 1000,
+            "denomination": 30000,
+            "currency": "COP",
+            "quantity": 1,
+            "categories": [
+                "Fashion & Lifestyle"
+            ]
+        },
+        {
+            "id": 65772,
+            "name": "Patprimo",
+            "ticketsPrice": 1000,
+            "denomination": 50000,
+            "currency": "COP",
+            "quantity": 1,
+            "categories": [
+                "Fashion & Lifestyle"
+            ]
+        },
+        {
+            "id": 65772,
+            "name": "Patprimo",
+            "ticketsPrice": 1000,
+            "denomination": 100000,
+            "currency": "COP",
+            "quantity": 1,
+            "categories": [
+                "Fashion & Lifestyle"
+            ]
+        },
+        {
+            "id": 52189,
+            "name": "BOSI",
+            "ticketsPrice": 1000,
+            "denomination": 30000,
+            "currency": "COP",
+            "quantity": 1,
+            "categories": [
+                "Fashion & Lifestyle"
+            ]
+        },
+        {
+            "id": 52189,
+            "name": "BOSI",
+            "ticketsPrice": 1000,
+            "denomination": 50000,
+            "currency": "COP",
+            "quantity": 1,
+            "categories": [
+                "Fashion & Lifestyle"
+            ]
+        },
+        {
+            "id": 52189,
+            "name": "BOSI",
+            "ticketsPrice": 1000,
+            "denomination": 100000,
+            "currency": "COP",
+            "quantity": 1,
+            "categories": [
+                "Fashion & Lifestyle"
+            ]
+        },
+        {
+            "id": 52190,
+            "name": "Vans",
+            "ticketsPrice": 1000,
+            "denomination": 50000,
+            "currency": "COP",
+            "quantity": 1,
+            "categories": [
+                "Sports",
+                "Fashion & Lifestyle"
+            ]
+        },
+        {
+            "id": 52190,
+            "name": "Vans",
+            "ticketsPrice": 1000,
+            "denomination": 100000,
+            "currency": "COP",
+            "quantity": 1,
+            "categories": [
+                "Sports",
+                "Fashion & Lifestyle"
+            ]
+        },
+        {
+            "id": 52185,
+            "name": "The North Face",
+            "ticketsPrice": 1000,
+            "denomination": 50000,
+            "currency": "COP",
+            "quantity": 1,
+            "categories": [
+                "Sports",
+                "Fashion & Lifestyle"
+            ]
+        },
+        {
+            "id": 52185,
+            "name": "The North Face",
+            "ticketsPrice": 1000,
+            "denomination": 100000,
+            "currency": "COP",
+            "quantity": 1,
+            "categories": [
+                "Sports",
+                "Fashion & Lifestyle"
+            ]
+        },
+        {
+            "id": 65778,
+            "name": "New Balance",
+            "ticketsPrice": 1000,
+            "denomination": 50000,
+            "currency": "COP",
+            "quantity": 1,
+            "categories": [
+                "Sports",
+                "Fashion & Lifestyle"
+            ]
+        },
+        {
+            "id": 65778,
+            "name": "New Balance",
+            "ticketsPrice": 1000,
+            "denomination": 100000,
+            "currency": "COP",
+            "quantity": 1,
+            "categories": [
+                "Sports",
+                "Fashion & Lifestyle"
+            ]
+        },
+        {
+            "id": 55667,
+            "name": "Uber Eats",
+            "ticketsPrice": 1000,
+            "denomination": 15000,
+            "currency": "COP",
+            "quantity": 1,
+            "categories": [
+                "Food & Restaurant"
+            ]
+        },
+        {
+            "id": 55667,
+            "name": "Uber Eats",
+            "ticketsPrice": 1000,
+            "denomination": 25000,
+            "currency": "COP",
+            "quantity": 1,
+            "categories": [
+                "Food & Restaurant"
+            ]
+        },
+        {
+            "id": 55667,
+            "name": "Uber Eats",
+            "ticketsPrice": 1000,
+            "denomination": 40000,
+            "currency": "COP",
+            "quantity": 1,
+            "categories": [
+                "Food & Restaurant"
+            ]
+        },
+        {
+            "id": 52197,
+            "name": "Crepes & Wafles",
+            "ticketsPrice": 1000,
+            "denomination": 20000,
+            "currency": "COP",
+            "quantity": 1,
+            "categories": [
+                "Food & Restaurant"
+            ]
+        },
+        {
+            "id": 52197,
+            "name": "Crepes & Wafles",
+            "ticketsPrice": 1000,
+            "denomination": 100000,
+            "currency": "COP",
+            "quantity": 1,
+            "categories": [
+                "Food & Restaurant"
+            ]
+        },
+        {
+            "id": 52198,
+            "name": "Frisby",
+            "ticketsPrice": 1000,
+            "denomination": 20000,
+            "currency": "COP",
+            "quantity": 1,
+            "categories": [
+                "Food & Restaurant"
+            ]
+        },
+        {
+            "id": 52198,
+            "name": "Frisby",
+            "ticketsPrice": 1000,
+            "denomination": 35000,
+            "currency": "COP",
+            "quantity": 1,
+            "categories": [
+                "Food & Restaurant"
+            ]
+        },
+        {
+            "id": 52198,
+            "name": "Frisby",
+            "ticketsPrice": 1000,
+            "denomination": 50000,
+            "currency": "COP",
+            "quantity": 1,
+            "categories": [
+                "Food & Restaurant"
+            ]
+        },
+        {
+            "id": 65790,
+            "name": "KonFood",
+            "ticketsPrice": 1000,
+            "denomination": 30000,
+            "currency": "COP",
+            "quantity": 1,
+            "categories": [
+                "Food & Restaurant"
+            ]
+        },
+        {
+            "id": 65790,
+            "name": "KonFood",
+            "ticketsPrice": 1000,
+            "denomination": 50000,
+            "currency": "COP",
+            "quantity": 1,
+            "categories": [
+                "Food & Restaurant"
+            ]
+        },
+        {
+            "id": 55552,
+            "name": "Uber",
+            "ticketsPrice": 1000,
+            "denomination": 20000,
+            "currency": "COP",
+            "quantity": 1,
+            "categories": [
+                "Travel & Entertainment"
+            ]
+        },
+        {
+            "id": 55552,
+            "name": "Uber",
+            "ticketsPrice": 1000,
+            "denomination": 30000,
+            "currency": "COP",
+            "quantity": 1,
+            "categories": [
+                "Travel & Entertainment"
+            ]
+        },
+        {
+            "id": 55552,
+            "name": "Uber",
+            "ticketsPrice": 1000,
+            "denomination": 40000,
+            "currency": "COP",
+            "quantity": 1,
+            "categories": [
+                "Travel & Entertainment"
+            ]
+        },
+        {
+            "id": 65795,
+            "name": "Direct TV Go",
+            "ticketsPrice": 1000,
+            "denomination": 59000,
+            "currency": "COP",
+            "quantity": 1,
+            "categories": [
+                "Travel & Entertainment"
+            ]
+        },
+        {
+            "id": 65793,
+            "name": "Netflix",
+            "ticketsPrice": 1000,
+            "denomination": 20000,
+            "currency": "COP",
+            "quantity": 1,
+            "categories": [
+                "Travel & Entertainment"
+            ]
+        },
+        {
+            "id": 65793,
+            "name": "Netflix",
+            "ticketsPrice": 1000,
+            "denomination": 30000,
+            "currency": "COP",
+            "quantity": 1,
+            "categories": [
+                "Travel & Entertainment"
+            ]
+        },
+        {
+            "id": 65793,
+            "name": "Netflix",
+            "ticketsPrice": 1000,
+            "denomination": 40000,
+            "currency": "COP",
+            "quantity": 1,
+            "categories": [
+                "Travel & Entertainment"
+            ]
+        },
+        {
+            "id": 65794,
+            "name": "Paramount+",
+            "ticketsPrice": 1000,
+            "denomination": 13900,
+            "currency": "COP",
+            "quantity": 1,
+            "categories": [
+                "Travel & Entertainment"
+            ]
+        },
+        {
+            "id": 65794,
+            "name": "Paramount+",
+            "ticketsPrice": 1000,
+            "denomination": 35900,
+            "currency": "COP",
+            "quantity": 1,
+            "categories": [
+                "Travel & Entertainment"
+            ]
+        },
+        {
+            "id": 53988,
+            "name": "Crunchyroll",
+            "ticketsPrice": 1000,
+            "denomination": 8,
+            "currency": "USD",
+            "quantity": 1,
+            "categories": [
+                "Travel & Entertainment",
+                "Gaming"
+            ]
+        },
+        {
+            "id": 53988,
+            "name": "Discord",
+            "ticketsPrice": 1000,
+            "denomination": 4.99,
+            "currency": "USD",
+            "quantity": 1,
+            "categories": [
+                "Gaming"
+            ]
+        },
+        {
+            "id": 77254,
+            "name": "Discord",
+            "ticketsPrice": 1000,
+            "denomination": 99.99,
+            "currency": "USD",
+            "quantity": 1,
+            "categories": [
+                "Gaming"
+            ]
+        },
+        {
+            "id": 65798,
+            "name": "Xbox",
+            "ticketsPrice": 1000,
+            "denomination": 79900,
+            "currency": "COP",
+            "quantity": 1,
+            "categories": [
+                "Gaming"
+            ]
+        },
+        {
+            "id": 65798,
+            "name": "Xbox",
+            "ticketsPrice": 1000,
+            "denomination": 224900,
+            "currency": "COP",
+            "quantity": 1,
+            "categories": [
+                "Gaming"
+            ]
+        },
+        {
+            "id": 65799,
+            "name": "Xbox Game Pass",
+            "ticketsPrice": 1000,
+            "denomination": 134900,
+            "currency": "COP",
+            "quantity": 1,
+            "categories": [
+                "Gaming"
+            ]
         }
     ]
 }
