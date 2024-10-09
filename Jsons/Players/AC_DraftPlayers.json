@@ -68,6 +68,27 @@
         "dorsal": "YOVAN",
         "nationality": "CO",
         "position": "POR"
+    },
+    "ACK": {
+        "kamaId": "33169",
+        "name": "Angellot Pelaez",
+        "dorsal": "ANGELLOT",
+        "nationality": "ES",
+        "position": "MED"
+    },
+    "ACL": {
+        "kamaId": "67832",
+        "name": "Julio Perea",
+        "dorsal": "JULIO",
+        "nationality": "CO",
+        "position": "DEL"
+    },
+    "ACM": {
+        "kamaId": "44190",
+        "name": "Manu Lanzarote",
+        "dorsal": "MANU",
+        "nationality": "ES",
+        "position": "MED"
     }
 }
 

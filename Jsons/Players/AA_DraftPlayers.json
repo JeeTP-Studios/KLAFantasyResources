@@ -68,6 +68,29 @@
         "dorsal": "SANJUAN",
         "nationality": "MX",
         "position": "DEF"
+    },
+    "AAK": {
+        "kamaId": "67818",
+        "name": "Genaro Castillo",
+        "dorsal": "GENARO",
+        "nationality": "MX",
+        "position": "DEL"
+    }
+    ,
+    "AAL": {
+        "kamaId": "67822",
+        "name": "Fernando Cruz",
+        "dorsal": "CRUZ",
+        "nationality": "MX",
+        "position": "DEL"
+    }
+    ,
+    "AAM": {
+        "kamaId": "33234",
+        "name": "Jose Askenazi",
+        "dorsal": "ASKENAZI",
+        "nationality": "MX",
+        "position": "DEL"
     }
 }
 

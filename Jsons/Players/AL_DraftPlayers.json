@@ -68,6 +68,27 @@
         "dorsal": "NAZA",
         "nationality": "CO",
         "position": "MED"
+    },
+    "ALK": {
+        "kamaId": "33184",
+        "name": "Marco Bueno",
+        "dorsal": "BUENO",
+        "nationality": "MX",
+        "position": "DEL"
+    },
+    "ALL": {
+        "kamaId": "33206",
+        "name": "Mario Osuna",
+        "dorsal": "OSUNA",
+        "nationality": "MX",
+        "position": "DEF"
+    },
+    "ALM": {
+        "kamaId": "67842",
+        "name": "Victor Milke",
+        "dorsal": "VICTOR",
+        "nationality": "MX",
+        "position": "DEF"
     }
 }
 

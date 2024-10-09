@@ -68,6 +68,41 @@
         "dorsal": "MADRIGAL",
         "nationality": "MX",
         "position": "MED"
+    },
+    "AFK": {
+        "kamaId": "67838",
+        "name": "Jhon Palacios",
+        "dorsal": "JHON",
+        "nationality": "CO",
+        "position": "MED"
+    },
+    "AFL": {
+        "kamaId": "67840",
+        "name": "Sebastian Abello",
+        "dorsal": "HANS",
+        "nationality": "CO",
+        "position": "DEF"
+    },
+    "AFM": {
+        "kamaId": "67841",
+        "name": "Ernesto Reyes Cruz",
+        "dorsal": "REYES",
+        "nationality": "MX",
+        "position": "DEL"
+    },
+    "AFN": {
+        "kamaId": "67860",
+        "name": "Alejandro Ramirez",
+        "dorsal": "ALEJANDRO",
+        "nationality": "MX",
+        "position": "DEL"
+    },
+    "AFO": {
+        "kamaId": "67859",
+        "name": "Alexander Rodriguez",
+        "dorsal": "ALEXANDER",
+        "nationality": "MX",
+        "position": "MED"
     }
 }
 

@@ -68,6 +68,34 @@
         "dorsal": "BRAYAN",
         "nationality": "CO",
         "position": "MED"
+    },
+    "AEK": {
+        "kamaId": "67794",
+        "name": "Axur Quintero",
+        "dorsal": "FIERA",
+        "nationality": "CO",
+        "position": "MED"
+    },
+    "AEL": {
+        "kamaId": "67797",
+        "name": "Jean Cob Ramirez",
+        "dorsal": "JEAN",
+        "nationality": "MX",
+        "position": "POR"
+    },
+    "AEM": {
+        "kamaId": "67795",
+        "name": "Aldo Gomez",
+        "dorsal": "ALDO",
+        "nationality": "MX",
+        "position": "MED"
+    },
+    "AEN": {
+        "kamaId": "67861",
+        "name": "Angel Castro",
+        "dorsal": "ANGEL",
+        "nationality": "MX",
+        "position": "MED"
     }
 }
 

@@ -68,6 +68,27 @@
         "dorsal": "MILLAN",
         "nationality": "MX",
         "position": "POR"
+    },
+    "AJK": {
+        "kamaId": "67774",
+        "name": "Tonatiuh Mejia",
+        "dorsal": "MEJIA",
+        "nationality": "MX",
+        "position": "DEF"
+    },
+    "AJL": {
+        "kamaId": "67776",
+        "name": "Milton Lemus",
+        "dorsal": "LEMUS",
+        "nationality": "MX",
+        "position": "DEL"
+    },
+    "AJM": {
+        "kamaId": "67775",
+        "name": "Samuel Morales",
+        "dorsal": "SAMUEL",
+        "nationality": "MX",
+        "position": "MED"
     }
 }
 

@@ -82,6 +82,13 @@
         "dorsal": "OBED",
         "nationality": "MX",
         "position": "MED"
+    },
+    "AGM": {
+        "kamaId": "67854",
+        "name": " Manuel Rojo",
+        "dorsal": "MANUEL",
+        "nationality": "MX",
+        "position": "DEF"
     }
 }
 

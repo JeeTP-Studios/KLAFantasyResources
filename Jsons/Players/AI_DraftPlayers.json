@@ -68,6 +68,27 @@
         "dorsal": "DIEGO",
         "nationality": "MX",
         "position": "MED"
+    },
+    "AIK": {
+        "kamaId": "33258",
+        "name": "Alberto Garcia",
+        "dorsal": "ALBERTO",
+        "nationality": "MX",
+        "position": "DEL"
+    },
+    "AIL": {
+        "kamaId": "67804",
+        "name": "Ailton da Silva",
+        "dorsal": "AILTON",
+        "nationality": "BR",
+        "position": "DEF"
+    },
+    "AIM": {
+        "kamaId": "67803",
+        "name": "Mathias Vidangossy",
+        "dorsal": "MATHI",
+        "nationality": "CL",
+        "position": "MED"
     }
 }
 

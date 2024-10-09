@@ -68,6 +68,27 @@
         "dorsal": "STEPAHN",
         "nationality": "DO",
         "position": "MED"
+    },
+    "AKK": {
+        "kamaId": "33208",
+        "name": "Daviz Junco",
+        "dorsal": "JUNCO",
+        "nationality": "MX",
+        "position": "DEL"
+    },
+    "AKL": {
+        "kamaId": "67777",
+        "name": "Edgar Gonzalez",
+        "dorsal": "EDGAR",
+        "nationality": "MX",
+        "position": "DEL"
+    },
+    "AKM": {
+        "kamaId": "67778",
+        "name": "Jorge Cortez",
+        "dorsal": "JORGE",
+        "nationality": "MX",
+        "position": "DEF"
     }
 }
 

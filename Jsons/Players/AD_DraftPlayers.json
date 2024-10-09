@@ -68,6 +68,27 @@
         "dorsal": "FELIPE",
         "nationality": "MX",
         "position": "DEF"
+    },
+    "ADK": {
+        "kamaId": "67827",
+        "name": "Alan Mendoza",
+        "dorsal": "ALAN",
+        "nationality": "MX",
+        "position": "MED"
+    },
+    "ADL": {
+        "kamaId": "34717",
+        "name": "Miguel Rebollo",
+        "dorsal": "REBOLLO",
+        "nationality": "MX",
+        "position": "DEL"
+    },
+    "ADM": {
+        "kamaId": "67826",
+        "name": "Gabriel Costa",
+        "dorsal": "COSTA",
+        "nationality": "BR",
+        "position": "MED"
     }
 }
 

@@ -68,6 +68,34 @@
         "dorsal": "RASCON",
         "nationality": "MX",
         "position": "DEL"
+    },
+    "ABK": {
+        "kamaId": "67814",
+        "name": "Román Ramirez",
+        "dorsal": "ROMAN",
+        "nationality": "MX",
+        "position": "DEL"
+    },
+    "ABL": {
+        "kamaId": "67815",
+        "name": "Irvin Mojica",
+        "dorsal": "IRVIN",
+        "nationality": "MX",
+        "position": "MED"
+    },
+    "ABM": {
+        "kamaId": "67817",
+        "name": "Jose Carlos Van Rankin",
+        "dorsal": "RANKIN",
+        "nationality": "MX",
+        "position": "DEF"
+    },
+    "ABN": {
+        "kamaId": "67849",
+        "name": "Paul Aguilar",
+        "dorsal": "PAUL",
+        "nationality": "MX",
+        "position": "DEF"
     }
 }
 
