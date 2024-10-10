@@ -89,6 +89,13 @@
         "dorsal": "VICTOR",
         "nationality": "MX",
         "position": "DEF"
+    },
+    "ALN": {
+        "kamaId": "33185",
+        "name": "Jose Martinez Valadez",
+        "dorsal": "SHAGGY",
+        "nationality": "MX",
+        "position": "DEF"
     }
 }
 
