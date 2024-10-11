@@ -89,6 +89,13 @@
         "dorsal": "MATHI",
         "nationality": "CL",
         "position": "MED"
+    },
+    "AIN": {
+        "kamaId": "5295",
+        "name": "Edgar Alvarez",
+        "dorsal": "EDGAR",
+        "nationality": "MX",
+        "position": "POR"
     }
 }
 
