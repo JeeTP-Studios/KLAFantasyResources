@@ -90,5 +90,13 @@
         "nationality": "MX",
         "position": "MED"
     }
+    ,
+    "AJN": {
+        "kamaId": "33210",
+        "name": "Mauricio Huitron",
+        "dorsal": "HUITRON",
+        "nationality": "MX",
+        "position": "MED"
+    }
 }
 
