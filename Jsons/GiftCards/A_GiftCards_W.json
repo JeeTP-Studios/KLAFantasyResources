@@ -3,7 +3,7 @@
         {
             "id": 81146,
             "name": "Universal Prepaid Mastercard",
-            "ticketsPrice": 1000,
+            "ticketsPrice": 5000,
             "denomination": 50,
             "currency": "USD",
             "quantity": 1,

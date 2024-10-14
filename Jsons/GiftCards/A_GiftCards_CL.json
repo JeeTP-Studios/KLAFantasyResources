@@ -3,7 +3,7 @@
         {
             "id": 81146,
             "name": "Universal Prepaid Mastercard",
-            "ticketsPrice": 1000,
+            "ticketsPrice": 5000,
             "denomination": 50,
             "currency": "USD",
             "quantity": 1,
@@ -14,7 +14,7 @@
         {
             "id": 55666,
             "name": "Uber Eats",
-            "ticketsPrice": 1000,
+            "ticketsPrice": 5000,
             "denomination": 50000,
             "currency": "CLP",
             "quantity": 1,
@@ -25,7 +25,7 @@
         {
             "id": 55666,
             "name": "Uber Eats",
-            "ticketsPrice": 1000,
+            "ticketsPrice": 5000,
             "denomination": 100000,
             "currency": "CLP",
             "quantity": 1,
@@ -36,7 +36,7 @@
         {
             "id": 55550,
             "name": "Uber",
-            "ticketsPrice": 1000,
+            "ticketsPrice": 5000,
             "denomination": 50000,
             "currency": "CLP",
             "quantity": 1,
@@ -47,7 +47,7 @@
         {
             "id": 55550,
             "name": "Uber",
-            "ticketsPrice": 1000,
+            "ticketsPrice": 5000,
             "denomination": 100000,
             "currency": "CLP",
             "quantity": 1,
@@ -58,7 +58,7 @@
         {
             "id": 53988,
             "name": "Crynchyroll",
-            "ticketsPrice": 1000,
+            "ticketsPrice": 5000,
             "denomination": 8,
             "currency": "USD",
             "quantity": 1,
@@ -70,7 +70,7 @@
         {
             "id": 77254,
             "name": "Discord",
-            "ticketsPrice": 1000,
+            "ticketsPrice": 5000,
             "denomination": 4.99,
             "currency": "USD",
             "quantity": 1,
@@ -81,7 +81,7 @@
         {
             "id": 77254,
             "name": "Discord",
-            "ticketsPrice": 1000,
+            "ticketsPrice": 5000,
             "denomination": 99.99,
             "currency": "USD",
             "quantity": 1,
@@ -92,7 +92,7 @@
         {
             "id": 77276,
             "name": "PUBG",
-            "ticketsPrice": 1000,
+            "ticketsPrice": 5000,
             "denomination": 9.99,
             "currency": "USD",
             "quantity": 1,
@@ -103,7 +103,7 @@
         {
             "id": 77276,
             "name": "PUBG",
-            "ticketsPrice": 1000,
+            "ticketsPrice": 5000,
             "denomination": 24.99,
             "currency": "USD",
             "quantity": 1,
@@ -114,7 +114,7 @@
         {
             "id": 77276,
             "name": "PUBG",
-            "ticketsPrice": 1000,
+            "ticketsPrice": 5000,
             "denomination": 49.99,
             "currency": "USD",
             "quantity": 1,
