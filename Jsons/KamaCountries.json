@@ -1,23 +1,27 @@
 {
-  "Mexico": [
-    {
-      "id": "MX",
-      "kamaId": "0",
-      "name": "Mexico"
-    }
-  ],
-  "United States": [
-    {
+    "Mexico": {
+        "id": "MX",
+        "kamaId": "57",
+        "name": "Mexico"
+    },
+    "United States": {
       "id": "US",
       "kamaId": "0",
       "name": "United States"
-    }
-  ],
-  "Peru": [
-      {
+    },
+    "Peru": {
         "id": "PE",
         "kamaId": "0",
         "name": "Peru"
-      }
-    ],
+    },
+    "Espana": {
+        "id": "ES",
+        "kamaId": "13",
+        "name": "Espana"
+    },
+    "Colombia": {
+        "id": "COL",
+        "kamaId": "0",
+        "name": "Colombia"
+    },
 }
