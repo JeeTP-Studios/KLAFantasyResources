@@ -23,17 +23,6 @@
             ]
         },
         {
-            "id": 81147,
-            "name": "Mastercard - eCode",
-            "ticketsPrice": 5000,
-            "denomination": 5000,
-            "currency": "USD",
-            "quantity": 1,
-            "categories": [
-                "Cash & Prepaid Card"
-            ]
-        },
-        {
             "id": 81146,
             "name": "Universal Prepaid Mastercard",
             "ticketsPrice": 5000,
@@ -75,21 +64,6 @@
             ]
         },
         {
-            "id": 27222,
-            "name": "Amazon.com - Gift Card",
-            "ticketsPrice": 5000,
-            "denomination": 250,
-            "currency": "USD",
-            "quantity": 1,
-            "categories": [
-              "Sports",
-              "Fashion & Lifestyle",
-              "Electronics",
-              "Travel & Entertainment",
-              "Gaming"
-            ]
-        },
-        {
             "id": 54372,
             "name": "Amazon - eGift Card",
             "ticketsPrice": 5000,
@@ -109,21 +83,6 @@
             "name": "Amazon - eGift Card",
             "ticketsPrice": 5000,
             "denomination": 100,
-            "currency": "USD",
-            "quantity": 1,
-            "categories": [
-              "Sports",
-              "Fashion & Lifestyle",
-              "Electronics",
-              "Travel & Entertainment",
-              "Gaming"
-            ]
-        },
-        {
-            "id": 54372,
-            "name": "Amazon - eGift Card",
-            "ticketsPrice": 5000,
-            "denomination": 250,
             "currency": "USD",
             "quantity": 1,
             "categories": [
@@ -159,18 +118,6 @@
             ]
         },
         {
-            "id": 46772,
-            "name": "Top Golf",
-            "ticketsPrice": 5000,
-            "denomination": 250,
-            "currency": "USD",
-            "quantity": 1,
-            "categories": [
-                "Entertainment",
-                "Sports"
-            ]
-        },
-        {
             "id": 51042,
             "name": "Nascar.com",
             "ticketsPrice": 5000,
@@ -186,17 +133,6 @@
             "name": "Nascar.com",
             "ticketsPrice": 5000,
             "denomination": 100,
-            "currency": "USD",
-            "quantity": 1,
-            "categories": [
-                "Sports"
-            ]
-        },
-        {
-            "id": 51042,
-            "name": "Nascar.com",
-            "ticketsPrice": 5000,
-            "denomination": 250,
             "currency": "USD",
             "quantity": 1,
             "categories": [
@@ -220,18 +156,6 @@
             "name": "Adidas",
             "ticketsPrice": 5000,
             "denomination": 100,
-            "currency": "USD",
-            "quantity": 1,
-            "categories": [
-                "Sports",
-                "Fashion & Lifestyle"
-            ]
-        },
-        {
-            "id": 46761,
-            "name": "Adidas",
-            "ticketsPrice": 5000,
-            "denomination": 250,
             "currency": "USD",
             "quantity": 1,
             "categories": [
@@ -264,18 +188,6 @@
             ]
         },
         {
-            "id": 29894,
-            "name": "Nike - eGift Voucher",
-            "ticketsPrice": 5000,
-            "denomination": 250,
-            "currency": "USD",
-            "quantity": 1,
-            "categories": [
-                "Sports",
-                "Fashion & Lifestyle"
-            ]
-        },
-        {
             "id": 43200,
             "name": "Under Armour",
             "ticketsPrice": 5000,
@@ -292,18 +204,6 @@
             "name": "Under Armour",
             "ticketsPrice": 5000,
             "denomination": 100,
-            "currency": "USD",
-            "quantity": 1,
-            "categories": [
-                "Sports",
-                "Fashion & Lifestyle"
-            ]
-        },
-        {
-            "id": 43200,
-            "name": "Under Armour",
-            "ticketsPrice": 5000,
-            "denomination": 250,
             "currency": "USD",
             "quantity": 1,
             "categories": [
@@ -334,17 +234,6 @@
             ]
         },
         {
-            "id": 40871,
-            "name": "Dicks Sporting Goods",
-            "ticketsPrice": 5000,
-            "denomination": 250,
-            "currency": "USD",
-            "quantity": 1,
-            "categories": [
-                "Sports"
-            ]
-        },
-        {
             "id": 63775,
             "name": "Sportsmans Warehouse",
             "ticketsPrice": 5000,
@@ -360,17 +249,6 @@
             "name": "Sportsmans Warehouse",
             "ticketsPrice": 5000,
             "denomination": 250,
-            "currency": "USD",
-            "quantity": 1,
-            "categories": [
-                "Sports"
-            ]
-        },
-        {
-            "id": 63775,
-            "name": "Sportsmans Warehouse",
-            "ticketsPrice": 5000,
-            "denomination": 500,
             "currency": "USD",
             "quantity": 1,
             "categories": [
@@ -400,17 +278,6 @@
             ]
         },
         {
-            "id": 56101,
-            "name": "NBA Store",
-            "ticketsPrice": 5000,
-            "denomination": 500,
-            "currency": "USD",
-            "quantity": 1,
-            "categories": [
-                "Sports"
-            ]
-        },
-        {
             "id": 63723,
             "name": "MLB",
             "ticketsPrice": 5000,
@@ -426,17 +293,6 @@
             "name": "MLB",
             "ticketsPrice": 5000,
             "denomination": 250,
-            "currency": "USD",
-            "quantity": 1,
-            "categories": [
-                "Sports"
-            ]
-        },
-        {
-            "id": 63723,
-            "name": "MLB",
-            "ticketsPrice": 5000,
-            "denomination": 500,
             "currency": "USD",
             "quantity": 1,
             "categories": [
@@ -459,17 +315,6 @@
             "name": "NFL - eGift Voucher",
             "ticketsPrice": 5000,
             "denomination": 100,
-            "currency": "USD",
-            "quantity": 1,
-            "categories": [
-                "Sports"
-            ]
-        },
-        {
-            "id": 29897,
-            "name": "NFL - eGift Voucher",
-            "ticketsPrice": 5000,
-            "denomination": 250,
             "currency": "USD",
             "quantity": 1,
             "categories": [
@@ -503,19 +348,6 @@
             ]
         },
         {
-            "id": 27221,
-            "name": "Walmart",
-            "ticketsPrice": 5000,
-            "denomination": 250,
-            "currency": "USD",
-            "quantity": 1,
-            "categories": [
-                "Sports",
-                "Fashion & Lifestyle",
-                "Electronics"
-            ]
-        },
-        {
             "id": 51002,
             "name": "H&M",
             "ticketsPrice": 5000,
@@ -531,17 +363,6 @@
             "name": "H&M",
             "ticketsPrice": 5000,
             "denomination": 100,
-            "currency": "USD",
-            "quantity": 1,
-            "categories": [
-                "Fashion & Lifestyle"
-            ]
-        },
-        {
-            "id": 51002,
-            "name": "H&M",
-            "ticketsPrice": 5000,
-            "denomination": 250,
             "currency": "USD",
             "quantity": 1,
             "categories": [
@@ -571,17 +392,6 @@
             ]
         },
         {
-            "id": 63679,
-            "name": "Forever 21",
-            "ticketsPrice": 5000,
-            "denomination": 250,
-            "currency": "USD",
-            "quantity": 1,
-            "categories": [
-                "Fashion & Lifestyle"
-            ]
-        },
-        {
             "id": 29884,
             "name": "Sephora - eGift Card",
             "ticketsPrice": 5000,
@@ -597,17 +407,6 @@
             "name": "Sephora - eGift Card",
             "ticketsPrice": 5000,
             "denomination": 100,
-            "currency": "USD",
-            "quantity": 1,
-            "categories": [
-                "Fashion & Lifestyle"
-            ]
-        },
-        {
-            "id": 29884,
-            "name": "Sephora - eGift Card",
-            "ticketsPrice": 5000,
-            "denomination": 250,
             "currency": "USD",
             "quantity": 1,
             "categories": [
@@ -637,17 +436,6 @@
             ]
         },
         {
-            "id": 40753,
-            "name": "American Eagle",
-            "ticketsPrice": 5000,
-            "denomination": 250,
-            "currency": "USD",
-            "quantity": 1,
-            "categories": [
-                "Fashion & Lifestyle"
-            ]
-        },
-        {
             "id": 67625,
             "name": "Abercrombie & Fitch - eGift",
             "ticketsPrice": 5000,
@@ -663,17 +451,6 @@
             "name": "Abercrombie & Fitch - eGift",
             "ticketsPrice": 5000,
             "denomination": 100,
-            "currency": "USD",
-            "quantity": 1,
-            "categories": [
-                "Fashion & Lifestyle"
-            ]
-        },
-        {
-            "id": 67625,
-            "name": "Abercrombie & Fitch - eGift",
-            "ticketsPrice": 5000,
-            "denomination": 250,
             "currency": "USD",
             "quantity": 1,
             "categories": [
@@ -705,18 +482,6 @@
             ]
         },
         {
-            "id": 29889,
-            "name": "Fanatics - eGift Voucher",
-            "ticketsPrice": 5000,
-            "denomination": 500,
-            "currency": "USD",
-            "quantity": 1,
-            "categories": [
-                "Sports",
-                "Fashion & Lifestyle"
-            ]
-        },
-        {
             "id": 58600,
             "name": "Uber Eats",
             "ticketsPrice": 5000,
@@ -732,17 +497,6 @@
             "name": "Uber Eats",
             "ticketsPrice": 5000,
             "denomination": 100,
-            "currency": "USD",
-            "quantity": 1,
-            "categories": [
-                "Food & Restaurant"
-            ]
-        },
-        {
-            "id": 58600,
-            "name": "Uber Eats",
-            "ticketsPrice": 5000,
-            "denomination": 250,
             "currency": "USD",
             "quantity": 1,
             "categories": [
@@ -772,17 +526,6 @@
             ]
         },
         {
-            "id": 27317,
-            "name": "Starbucks - eGift Card",
-            "ticketsPrice": 5000,
-            "denomination": 100,
-            "currency": "USD",
-            "quantity": 1,
-            "categories": [
-                "Food & Restaurant"
-            ]
-        },
-        {
             "id": 46800,
             "name": "Krispy Kreme",
             "ticketsPrice": 5000,
@@ -798,17 +541,6 @@
             "name": "Krispy Kreme",
             "ticketsPrice": 5000,
             "denomination": 50,
-            "currency": "USD",
-            "quantity": 1,
-            "categories": [
-                "Food & Restaurant"
-            ]
-        },
-        {
-            "id": 46800,
-            "name": "Krispy Kreme",
-            "ticketsPrice": 5000,
-            "denomination": 100,
             "currency": "USD",
             "quantity": 1,
             "categories": [
@@ -838,17 +570,6 @@
             ]
         },
         {
-            "id": 29877,
-            "name": "Dominos - eCard",
-            "ticketsPrice": 5000,
-            "denomination": 100,
-            "currency": "USD",
-            "quantity": 1,
-            "categories": [
-                "Food & Restaurant"
-            ]
-        },
-        {
             "id": 74038,
             "name": "Shake Shack",
             "ticketsPrice": 5000,
@@ -864,17 +585,6 @@
             "name": "Shake Shack",
             "ticketsPrice": 5000,
             "denomination": 50,
-            "currency": "USD",
-            "quantity": 1,
-            "categories": [
-                "Food & Restaurant"
-            ]
-        },
-        {
-            "id": 74038,
-            "name": "Shake Shack",
-            "ticketsPrice": 5000,
-            "denomination": 100,
             "currency": "USD",
             "quantity": 1,
             "categories": [
@@ -904,17 +614,6 @@
             ]
         },
         {
-            "id": 63735,
-            "name": "Panda Express",
-            "ticketsPrice": 5000,
-            "denomination": 100,
-            "currency": "USD",
-            "quantity": 1,
-            "categories": [
-                "Food & Restaurant"
-            ]
-        },
-        {
             "id": 29831,
             "name": "Applebees - eGift Voucher",
             "ticketsPrice": 5000,
@@ -930,17 +629,6 @@
             "name": "Applebees - eGift Voucher",
             "ticketsPrice": 5000,
             "denomination": 50,
-            "currency": "USD",
-            "quantity": 1,
-            "categories": [
-                "Food & Restaurant"
-            ]
-        },
-        {
-            "id": 29831,
-            "name": "Applebees - eGift Voucher",
-            "ticketsPrice": 5000,
-            "denomination": 100,
             "currency": "USD",
             "quantity": 1,
             "categories": [
@@ -970,17 +658,6 @@
             ]
         },
         {
-            "id": 51077,
-            "name": "The Cheescake Factory",
-            "ticketsPrice": 5000,
-            "denomination": 100,
-            "currency": "USD",
-            "quantity": 1,
-            "categories": [
-                "Food & Restaurant"
-            ]
-        },
-        {
             "id": 29930,
             "name": "Apple - Gift Card",
             "ticketsPrice": 5000,
@@ -1003,17 +680,6 @@
             ]
         },
         {
-            "id": 29930,
-            "name": "Apple - Gift Card",
-            "ticketsPrice": 5000,
-            "denomination": 100,
-            "currency": "USD",
-            "quantity": 1,
-            "categories": [
-                "Electronics"
-            ]
-        },
-        {
             "id": 29911,
             "name": "Google Play - Gift Code",
             "ticketsPrice": 5000,
@@ -1029,17 +695,6 @@
             "name": "Google Play - Gift Code",
             "ticketsPrice": 5000,
             "denomination": 50,
-            "currency": "USD",
-            "quantity": 1,
-            "categories": [
-                "Electronics"
-            ]
-        },
-        {
-            "id": 29911,
-            "name": "Google Play - Gift Code",
-            "ticketsPrice": 5000,
-            "denomination": 100,
             "currency": "USD",
             "quantity": 1,
             "categories": [
@@ -1066,19 +721,7 @@
             "currency": "USD",
             "quantity": 1,
             "categories": [
-                "Fashion & Lifestyle"
-                "Electronics"
-            ]
-        },
-        {
-            "id": 29864,
-            "name": "Target",
-            "ticketsPrice": 5000,
-            "denomination": 250,
-            "currency": "USD",
-            "quantity": 1,
-            "categories": [
-                "Fashion & Lifestyle"
+                "Fashion & Lifestyle",
                 "Electronics"
             ]
         },
@@ -1105,17 +748,6 @@
             ]
         },
         {
-            "id": 54926,
-            "name": "Best Buy",
-            "ticketsPrice": 5000,
-            "denomination": 500,
-            "currency": "USD",
-            "quantity": 1,
-            "categories": [
-                "Electronics"
-            ]
-        },
-        {
             "id": 29888,
             "name": "Office Depot",
             "ticketsPrice": 5000,
@@ -1131,17 +763,6 @@
             "name": "Office Depot",
             "ticketsPrice": 5000,
             "denomination": 250,
-            "currency": "USD",
-            "quantity": 1,
-            "categories": [
-                "Electronics"
-            ]
-        },
-        {
-            "id": 29888,
-            "name": "Office Depot",
-            "ticketsPrice": 5000,
-            "denomination": 500,
             "currency": "USD",
             "quantity": 1,
             "categories": [
@@ -1193,17 +814,6 @@
             ]
         },
         {
-            "id": 54731,
-            "name": "Virgin Experiences Gifts",
-            "ticketsPrice": 5000,
-            "denomination": 1500,
-            "currency": "USD",
-            "quantity": 1,
-            "categories": [
-                "Travel & Entertainment"
-            ]
-        },
-        {
             "id": 46883,
             "name": "Airbnb - Gift Voucher",
             "ticketsPrice": 5000,
@@ -1226,17 +836,6 @@
             ]
         },
         {
-            "id": 46883,
-            "name": "Airbnb - Gift Voucher",
-            "ticketsPrice": 5000,
-            "denomination": 500,
-            "currency": "USD",
-            "quantity": 1,
-            "categories": [
-                "Travel & Entertainment"
-            ]
-        },
-        {
             "id": 74021,
             "name": "Marriot",
             "ticketsPrice": 5000,
@@ -1252,17 +851,6 @@
             "name": "Marriot",
             "ticketsPrice": 5000,
             "denomination": 250,
-            "currency": "USD",
-            "quantity": 1,
-            "categories": [
-                "Travel & Entertainment"
-            ]
-        },
-        {
-            "id": 74021,
-            "name": "Marriot",
-            "ticketsPrice": 5000,
-            "denomination": 500,
             "currency": "USD",
             "quantity": 1,
             "categories": [
@@ -1292,17 +880,6 @@
             ]
         },
         {
-            "id": 47838,
-            "name": "Fairmont Hotels & Resorts",
-            "ticketsPrice": 5000,
-            "denomination": 100,
-            "currency": "USD",
-            "quantity": 1,
-            "categories": [
-                "Travel & Entertainment"
-            ]
-        },
-        {
             "id": 43201,
             "name": "Uber",
             "ticketsPrice": 5000,
@@ -1318,17 +895,6 @@
             "name": "Uber",
             "ticketsPrice": 5000,
             "denomination": 100,
-            "currency": "USD",
-            "quantity": 1,
-            "categories": [
-                "Travel & Entertainment"
-            ]
-        },
-        {
-            "id": 43201,
-            "name": "Uber",
-            "ticketsPrice": 5000,
-            "denomination": 250,
             "currency": "USD",
             "quantity": 1,
             "categories": [
@@ -1358,17 +924,6 @@
             ]
         },
         {
-            "id": 50324,
-            "name": "Spotify",
-            "ticketsPrice": 5000,
-            "denomination": 60,
-            "currency": "USD",
-            "quantity": 1,
-            "categories": [
-                "Travel & Entertainment"
-            ]
-        },
-        {
             "id": 67558,
             "name": "Disney+",
             "ticketsPrice": 5000,
@@ -1391,17 +946,6 @@
             ]
         },
         {
-            "id": 67558,
-            "name": "Disney+",
-            "ticketsPrice": 5000,
-            "denomination": 100,
-            "currency": "USD",
-            "quantity": 1,
-            "categories": [
-                "Travel & Entertainment"
-            ]
-        },
-        {
             "id": 56090,
             "name": "Paramount+",
             "ticketsPrice": 5000,
@@ -1417,17 +961,6 @@
             "name": "Paramount+",
             "ticketsPrice": 5000,
             "denomination": 50,
-            "currency": "USD",
-            "quantity": 1,
-            "categories": [
-                "Travel & Entertainment"
-            ]
-        },
-        {
-            "id": 56090,
-            "name": "Paramount+",
-            "ticketsPrice": 5000,
-            "denomination": 100,
             "currency": "USD",
             "quantity": 1,
             "categories": [
@@ -1506,17 +1039,6 @@
             "name": "Playstation - eGift Voucher",
             "ticketsPrice": 5000,
             "denomination": 50,
-            "currency": "USD",
-            "quantity": 1,
-            "categories": [
-                "Gaming"
-            ]
-        },
-        {
-            "id": 29873,
-            "name": "Playstation - eGift Voucher",
-            "ticketsPrice": 5000,
-            "denomination": 100,
             "currency": "USD",
             "quantity": 1,
             "categories": [
