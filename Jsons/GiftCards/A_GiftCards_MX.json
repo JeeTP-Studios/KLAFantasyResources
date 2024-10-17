@@ -40,7 +40,7 @@
         "id": 49866,
         "name": "Amazon",
         "ticketsPrice": 6636,
-        "denomination": 5000,
+        "denomination": 1000,
         "currency": "MXN",
         "quantity": 1,
         "categories": ["Sports","Fashion & Lifestyle","Electronics","Travel & Entertainment","Gaming"]
@@ -48,7 +48,7 @@
       {
         "id": 49853,
         "name": "Innovasport",
-        "ticketsPrice": 3318,
+        "ticketsPrice": 6636,
         "denomination": 500,
         "currency": "MXN",
         "quantity": 1,
@@ -57,8 +57,8 @@
       {
         "id": 49853,
         "name": "Innovasport",
-        "ticketsPrice": 5000,
-        "denomination": 6636,
+        "ticketsPrice": 6636,
+        "denomination": 1000,
         "currency": "MXN",
         "quantity": 1,
         "categories": ["Sports","Fashion & Lifestyle"]
@@ -76,7 +76,7 @@
         "id": 55718,
         "name": "Uber Eats",
         "ticketsPrice": 6636,
-        "denomination": 5000,
+        "denomination": 1000,
         "currency": "MXN",
         "quantity": 1,
         "categories": ["Food & Restaurant"]
@@ -112,7 +112,7 @@
         "id": 51672,
         "name": "Uber",
         "ticketsPrice": 6636,
-        "denomination": 5000,
+        "denomination": 1000,
         "currency": "MXN",
         "quantity": 1,
         "categories": ["Travel & Entertainment"]
