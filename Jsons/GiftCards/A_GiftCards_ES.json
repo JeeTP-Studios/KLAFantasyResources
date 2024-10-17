@@ -3,7 +3,7 @@
         {
             "id": 81146,
             "name": "Universal Prepaid Mastercard",
-            "ticketsPrice": 5000,
+            "ticketsPrice": 6636,
             "denomination": 50,
             "currency": "USD",
             "quantity": 1,
@@ -14,7 +14,7 @@
         {
             "id": 24577,
             "name": "Amazon - eGift Voucher",
-            "ticketsPrice": 5000,
+            "ticketsPrice": 6636,
             "denomination": 50,
             "currency": "USD",
             "quantity": 1,
@@ -29,23 +29,8 @@
         {
             "id": 24577,
             "name": "Amazon - eGift Voucher",
-            "ticketsPrice": 5000,
+            "ticketsPrice": 13272,
             "denomination": 100,
-            "currency": "USD",
-            "quantity": 1,
-            "categories": [
-              "Sports",
-              "Fashion & Lifestyle",
-              "Electronics",
-              "Travel & Entertainment",
-              "Gaming"
-            ]
-        },
-        {
-            "id": 24577,
-            "name": "Amazon - eGift Voucher",
-            "ticketsPrice": 5000,
-            "denomination": 250,
             "currency": "USD",
             "quantity": 1,
             "categories": [
