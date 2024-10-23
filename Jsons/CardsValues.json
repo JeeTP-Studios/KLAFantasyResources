@@ -1,0 +1,42 @@
+{
+    "K": {
+      "crowns": 20,
+      "tickets": 40
+    },
+    "A": {
+      "crowns": 150,
+      "tickets": 300
+    },
+    "B": {
+      "crowns": 125,
+      "tickets": 250
+    },
+    "C": {
+      "crowns": 100,
+      "tickets": 200
+    },
+    "D": {
+      "crowns": 75,
+      "tickets": 150
+    },
+    "E": {
+      "crowns": 50,
+      "tickets": 100
+    },
+    "F": {
+      "crowns": 25,
+      "tickets": 50
+    },
+    "G": {
+      "crowns": 15,
+      "tickets": 30
+    },
+    "H": {
+      "crowns": 10,
+      "tickets": 20
+    },
+    "I": {
+      "crowns": 5,
+      "tickets": 10
+    }
+}
