@@ -96,6 +96,13 @@
         "dorsal": "PAUL",
         "nationality": "MX",
         "position": "DEF"
+    },
+    "ABO": {
+        "kamaId": "11001",
+        "name": "Martin Bravo",
+        "dorsal": "MARTIN",
+        "nationality": "MX",
+        "position": "DEL"
     }
 }
 
