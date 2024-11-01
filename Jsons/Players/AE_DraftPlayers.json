@@ -96,6 +96,27 @@
         "dorsal": "ANGEL",
         "nationality": "MX",
         "position": "MED"
+    },
+    "AEO": {
+        "kamaId": "67861",
+        "name": "Alberto Mendez",
+        "dorsal": "MENDEZ",
+        "nationality": "MX",
+        "position": "DEF"
+    },
+    "AEP": {
+        "kamaId": "67861",
+        "name": "Yajarmabet Moreno",
+        "dorsal": "YAJAR",
+        "nationality": "MX",
+        "position": "DEL"
+    },
+    "AEQ": {
+        "kamaId": "25859",
+        "name": "Luis Lozoya",
+        "dorsal": "LOZOYA",
+        "nationality": "MX",
+        "position": "DEF"
     }
 }
 
