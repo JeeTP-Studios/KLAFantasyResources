@@ -66,7 +66,7 @@
     "matchId_4": 1184,
     "matchId_5": 1185,
     "matchId_6": 1186,
-    "availableDate": "2024-11-02T18:00:00.000Z",
+    "availableDate": "2024-11-06T18:00:00.000Z",
     "locked": true
   },
   "Matchday 8": {
@@ -76,7 +76,7 @@
     "matchId_4": 1190,
     "matchId_5": 1191,
     "matchId_6": 1192,
-    "availableDate": "2024-11-06T18:00:00.000Z",
+    "availableDate": "2024-11-13T18:00:00.000Z",
     "locked": true
   },
   "Matchday 9": {
@@ -86,7 +86,7 @@
     "matchId_4": 1196,
     "matchId_5": 1197,
     "matchId_6": 1198,
-    "availableDate": "2024-11-13T18:00:00.000Z",
+    "availableDate": "2024-11-20T18:00:00.000Z",
     "locked": true
   },
   "Matchday 10": {
@@ -96,7 +96,7 @@
     "matchId_4": 1202,
     "matchId_5": 1203,
     "matchId_6": 1204,
-    "availableDate": "2024-11-20T18:00:00.000Z",
+    "availableDate": "2024-11-27T18:00:00.000Z",
     "locked": true
   },
   "Matchday 11": {
@@ -106,7 +106,7 @@
     "matchId_4": 1208,
     "matchId_5": 1209,
     "matchId_6": 1210,
-    "availableDate": "2024-11-27T18:00:00.000Z",
+    "availableDate": "2024-12-04T18:00:00.000Z",
     "locked": true
   }
 }
