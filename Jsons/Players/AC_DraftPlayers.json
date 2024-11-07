@@ -89,6 +89,13 @@
         "dorsal": "MANU",
         "nationality": "ES",
         "position": "MED"
+    },
+    "ACN": {
+        "kamaId": "67916",
+        "name": "Victor Yanez",
+        "dorsal": "YANEZ",
+        "nationality": "CO",
+        "position": "DEF"
     }
 }
 
