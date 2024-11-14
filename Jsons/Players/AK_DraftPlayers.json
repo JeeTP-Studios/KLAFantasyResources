@@ -90,5 +90,12 @@
         "nationality": "MX",
         "position": "DEF"
     }
+    "AKN": {
+        "kamaId": "64072",
+        "name": "Angel Espinoza",
+        "dorsal": "ANGEL",
+        "nationality": "MX",
+        "position": "POR"
+    }
 }
 

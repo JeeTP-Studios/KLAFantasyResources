@@ -83,13 +83,19 @@
         "dorsal": "CRUZ",
         "nationality": "MX",
         "position": "DEL"
-    }
-    ,
+    },
     "AAM": {
         "kamaId": "33234",
         "name": "Jose Askenazi",
         "dorsal": "ASKENAZI",
         "nationality": "MX",
+        "position": "DEL"
+    },
+    "AAN": {
+        "kamaId": "67944",
+        "name": "Adriano Nunez",
+        "dorsal": "ADRIANO",
+        "nationality": "BR",
         "position": "DEL"
     }
 }

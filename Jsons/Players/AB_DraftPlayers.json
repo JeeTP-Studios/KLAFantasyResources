@@ -103,6 +103,13 @@
         "dorsal": "MARTIN",
         "nationality": "MX",
         "position": "DEL"
+    },
+    "ABP": {
+        "kamaId": "67943",
+        "name": "Fausto Aleman",
+        "dorsal": "FAUSTO",
+        "nationality": "MX",
+        "position": "MED"
     }
 }
 
