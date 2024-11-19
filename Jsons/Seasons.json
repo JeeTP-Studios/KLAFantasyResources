@@ -5,7 +5,8 @@
       "kamaId": "17",
       "name": "Season",
       "launchDate": "2024-10-08T23:00:00.000Z",
-      "current": true
+      "current": true,
+      "currentWeek": 9
     }
   ]
 }
