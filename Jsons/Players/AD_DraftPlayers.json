@@ -89,6 +89,13 @@
         "dorsal": "COSTA",
         "nationality": "BR",
         "position": "MED"
+    },
+    "ADN": {
+        "kamaId": "52953",
+        "name": "Cesar Vallejo",
+        "dorsal": "CESAR",
+        "nationality": "MX",
+        "position": "DEL"
     }
 }
 

@@ -96,6 +96,13 @@
         "dorsal": "YANEZ",
         "nationality": "CO",
         "position": "DEF"
+    },
+    "ACO": {
+        "kamaId": "33173",
+        "name": "Luis Moreno",
+        "dorsal": "MORENO",
+        "nationality": "CO",
+        "position": "DEF"
     }
 }
 
