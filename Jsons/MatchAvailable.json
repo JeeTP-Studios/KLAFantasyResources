@@ -27,7 +27,7 @@
     "matchId_5": 1161,
     "matchId_6": 1162,
     "availableDate": "2024-10-11T01:45:00.000Z",
-    "locked": false
+    "locked": true
   },
   "Matchday 4": {
     "matchId_1": 1163,
@@ -37,7 +37,7 @@
     "matchId_5": 1167,
     "matchId_6": 1168,
     "availableDate": "2024-10-19T23:00:00.000Z",
-    "locked": false
+    "locked": true
   },
   "Matchday 5": {
     "matchId_1": 1169,
@@ -106,7 +106,7 @@
     "matchId_4": 1208,
     "matchId_5": 1209,
     "matchId_6": 1210,
-    "availableDate": "2024-12-04T18:00:00.000Z",
-    "locked": true
+    "availableDate": "2024-12-04T23:59:00.000Z",
+    "locked": false
   }
 }
