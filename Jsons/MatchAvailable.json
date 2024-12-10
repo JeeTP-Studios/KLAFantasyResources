@@ -108,5 +108,35 @@
     "matchId_6": 1210,
     "availableDate": "2024-12-05T02:00:00.000Z",
     "locked": false
+  },
+  "Quarter Finals": {
+    "matchId_1": 1205,
+    "matchId_2": 1299,
+    "matchId_3": 1300,
+    "matchId_4": 1301,
+    "matchId_5": 0,
+    "matchId_6": 0,
+    "availableDate": "2024-12-11T23:00:00.000Z",
+    "locked": true
+  },
+  "Semifinals": {
+    "matchId_1": 1308,
+    "matchId_2": 1309,
+    "matchId_3": 0,
+    "matchId_4": 0,
+    "matchId_5": 0,
+    "matchId_6": 0,
+    "availableDate": "2024-12-11T23:00:00.000Z",
+    "locked": true
+  },
+  "Final": {
+    "matchId_1": 1310,
+    "matchId_2": 0,
+    "matchId_3": 0,
+    "matchId_4": 0,
+    "matchId_5": 0,
+    "matchId_6": 0,
+    "availableDate": "2024-12-16T32:00:00.000Z",
+    "locked": true
   }
 }
