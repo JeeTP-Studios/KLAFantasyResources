@@ -110,10 +110,10 @@
     "locked": false
   },
   "Quarter Finals": {
-    "matchId_1": 1205,
-    "matchId_2": 1299,
-    "matchId_3": 1300,
-    "matchId_4": 1301,
+    "matchId_1": 1299,
+    "matchId_2": 1300,
+    "matchId_3": 1301,
+    "matchId_4": 0,
     "matchId_5": 0,
     "matchId_6": 0,
     "availableDate": "2024-12-11T23:00:00.000Z",
