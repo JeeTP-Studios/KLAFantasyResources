@@ -127,7 +127,7 @@
     "matchId_5": 0,
     "matchId_6": 0,
     "availableDate": "2024-12-15T02:00:00.000Z",
-    "locked": true
+    "locked": false
   },
   "Matchday 14": {
     "matchId_1": 1310,
