@@ -3,10 +3,14 @@
     {
       "id": "A",
       "kamaId": "17",
-      "name": "Season",
-      "launchDate": "2024-10-08T23:00:00.000Z",
-      "current": true,
-      "currentWeek": 9
+      "name": "Split 2",
+      "current": false
+    },
+    {
+      "id": "B",
+      "kamaId": "31",
+      "name": "Split 3",
+      "current": true
     }
   ]
 }

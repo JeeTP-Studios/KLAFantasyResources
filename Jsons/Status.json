@@ -1,4 +1,3 @@
 {
-    "mobileInMaintenance": false,
-    "desktopInMaintenance": true
+    "inMaintenance": false
 }
