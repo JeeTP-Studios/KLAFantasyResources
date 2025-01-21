@@ -1,0 +1,114 @@
+{
+  "Matchday 1": {
+    "matchId_1": 1145,
+    "matchId_2": 1146,
+    "matchId_3": 1147,
+    "matchId_4": 1148,
+    "matchId_5": 1149,
+    "matchId_6": 1150
+  },
+  "Matchday 2": {
+    "matchId_1": 1151,
+    "matchId_2": 1152,
+    "matchId_3": 1153,
+    "matchId_4": 1154,
+    "matchId_5": 1155,
+    "matchId_6": 1156
+  },
+  "Matchday 3": {
+    "matchId_1": 1157,
+    "matchId_2": 1158,
+    "matchId_3": 1159,
+    "matchId_4": 1160,
+    "matchId_5": 1161,
+    "matchId_6": 1162
+  },
+  "Matchday 4": {
+    "matchId_1": 1163,
+    "matchId_2": 1164,
+    "matchId_3": 1214,
+    "matchId_4": 1166,
+    "matchId_5": 1167,
+    "matchId_6": 1168
+  },
+  "Matchday 5": {
+    "matchId_1": 1169,
+    "matchId_2": 1170,
+    "matchId_3": 1171,
+    "matchId_4": 1172,
+    "matchId_5": 1173,
+    "matchId_6": 1174
+  },
+  "Matchday 6": {
+    "matchId_1": 1175,
+    "matchId_2": 1176,
+    "matchId_3": 1177,
+    "matchId_4": 1178,
+    "matchId_5": 1179,
+    "matchId_6": 1180
+  },
+  "Matchday 7": {
+    "matchId_1": 1181,
+    "matchId_2": 1182,
+    "matchId_3": 1183,
+    "matchId_4": 1184,
+    "matchId_5": 1185,
+    "matchId_6": 1186
+  },
+  "Matchday 8": {
+    "matchId_1": 1187,
+    "matchId_2": 1188,
+    "matchId_3": 1189,
+    "matchId_4": 1190,
+    "matchId_5": 1191,
+    "matchId_6": 1192
+  },
+  "Matchday 9": {
+    "matchId_1": 1193,
+    "matchId_2": 1194,
+    "matchId_3": 1195,
+    "matchId_4": 1196,
+    "matchId_5": 1197,
+    "matchId_6": 1198
+  },
+  "Matchday 10": {
+    "matchId_1": 1199,
+    "matchId_2": 1200,
+    "matchId_3": 1201,
+    "matchId_4": 1202,
+    "matchId_5": 1203,
+    "matchId_6": 1204
+  },
+  "Matchday 11": {
+    "matchId_1": 1205,
+    "matchId_2": 1206,
+    "matchId_3": 1207,
+    "matchId_4": 1208,
+    "matchId_5": 1209,
+    "matchId_6": 1210
+  },
+  "Playoffs": {
+    "matchId_1": 1299,
+    "matchId_2": 1300,
+    "matchId_3": 1301,
+    "matchId_4": 0,
+    "matchId_5": 0,
+    "matchId_6": 0,
+  },
+  "Semifinals": {
+    "matchId_1": 1308,
+    "matchId_2": 1309,
+    "matchId_3": 0,
+    "matchId_4": 0,
+    "matchId_5": 0,
+    "matchId_6": 0
+  },
+  "Finals": {
+    "matchId_1": 1310,
+    "matchId_2": 0,
+    "matchId_3": 0,
+    "matchId_4": 0,
+    "matchId_5": 0,
+    "matchId_6": 0
+  }
+}

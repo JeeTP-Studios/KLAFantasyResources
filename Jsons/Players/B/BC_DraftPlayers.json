@@ -1,0 +1,94 @@
+{
+    "BCA": {
+        "kamaId": "0",
+        "name": "Jugador",
+        "dorsal": "JUGADOR",
+        "nationality": "MX",
+        "position": "POR"
+    },
+    "BCB": {
+        "kamaId": "0",
+        "name": "Jugador",
+        "dorsal": "JUGADOR",
+        "nationality": "MX",
+        "position": "POR"
+    },
+    "BCC": {
+        "kamaId": "0",
+        "name": "Jugador",
+        "dorsal": "JUGADOR",
+        "nationality": "MX",
+        "position": "POR"
+    },
+    "BCD": {
+        "kamaId": "0",
+        "name": "Jugador",
+        "dorsal": "JUGADOR",
+        "nationality": "MX",
+        "position": "POR"
+    },
+    "BCE": {
+        "kamaId": "0",
+        "name": "Jugador",
+        "dorsal": "JUGADOR",
+        "nationality": "MX",
+        "position": "POR"
+    },
+    "BCF": {
+        "kamaId": "0",
+        "name": "Jugador",
+        "dorsal": "JUGADOR",
+        "nationality": "MX",
+        "position": "POR"
+    },
+    "BCG": {
+        "kamaId": "0",
+        "name": "Jugador",
+        "dorsal": "JUGADOR",
+        "nationality": "MX",
+        "position": "POR"
+    },
+    "BCH": {
+        "kamaId": "0",
+        "name": "Jugador",
+        "dorsal": "JUGADOR",
+        "nationality": "MX",
+        "position": "POR"
+    },
+    "BCI": {
+        "kamaId": "0",
+        "name": "Jugador",
+        "dorsal": "JUGADOR",
+        "nationality": "MX",
+        "position": "POR"
+    },
+    "BCJ": {
+        "kamaId": "23268",
+        "name": "Diego SanJuan",
+        "dorsal": "SANJUAN",
+        "nationality": "MX",
+        "position": "DEF"
+    },
+    "BCK": {
+        "kamaId": "0",
+        "name": "Jugador",
+        "dorsal": "JUGADOR",
+        "nationality": "MX",
+        "position": "POR"
+    },
+    "BCL": {
+        "kamaId": "0",
+        "name": "Jugador",
+        "dorsal": "JUGADOR",
+        "nationality": "MX",
+        "position": "POR"
+    },
+    "BCM": {
+        "kamaId": "0",
+        "name": "Jugador",
+        "dorsal": "JUGADOR",
+        "nationality": "MX",
+        "position": "POR"
+    }
+}
+
