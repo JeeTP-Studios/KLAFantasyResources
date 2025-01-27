@@ -1,42 +1,52 @@
 {
     "K": {
       "crowns": 20,
-      "tickets": 40
+      "tickets": 40,
+      "xp": 100
     },
     "A": {
       "crowns": 150,
-      "tickets": 300
+      "tickets": 300,
+      "xp": 90
     },
     "B": {
       "crowns": 125,
-      "tickets": 250
+      "tickets": 250,
+      "xp": 80
     },
     "C": {
       "crowns": 100,
-      "tickets": 200
+      "tickets": 200,
+      "xp": 70
     },
     "D": {
       "crowns": 75,
-      "tickets": 150
+      "tickets": 150,
+      "xp": 60
     },
     "E": {
       "crowns": 50,
-      "tickets": 100
+      "tickets": 100,
+      "xp": 50
     },
     "F": {
       "crowns": 25,
-      "tickets": 50
+      "tickets": 50,
+      "xp": 40
     },
     "G": {
       "crowns": 15,
-      "tickets": 30
+      "tickets": 30,
+      "xp": 30
     },
     "H": {
       "crowns": 10,
-      "tickets": 20
+      "tickets": 20,
+      "xp": 20
     },
     "I": {
       "crowns": 5,
-      "tickets": 10
+      "tickets": 10,
+      "xp": 10
     }
 }
