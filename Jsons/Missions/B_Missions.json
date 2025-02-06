@@ -1,201 +1,186 @@
-[
-    {
-      "id": "BMAA",
-      "title": "Inicio de Sesión Diario",
-      "description": "Inicia sesión cada día",
-      "type": "diary",
-      "category": "General",
-      "reward": {"xp": 200},
-      "repeatable": true
-    },
-    {
-      "id": "BMBA",
-      "title": "Director Técnico",
-      "description": "Crea alineaciones de partidos en cualquier modo de juego",
-      "type": "progressive",
-      "category": "Gameplay",
-      "milestones": [
-        {"level": 1, "target": 1, "reward": {"xp": 100}},
-        {"level": 2, "target": 5, "reward": {"xp": 500}},
-        {"level": 3, "target": 10, "reward": {"xp": 1000}},
-        {"level": 4, "target": 25, "reward": {"xp": 2500}},
-        {"level": 5, "target": 50, "reward": {"xp": 5000}}
-      ]
-    },
-    {
-      "id": "BMCA",
-      "title": "Plata",
-      "description": "Abre sobres plata",
-      "type": "progressive",
-      "category": "Packs",
-      "milestones": [
-        {"level": 1, "target": 1, "reward": {"xp": 250}},
-        {"level": 2, "target": 5, "reward": {"xp": 1000}},
-        {"level": 3, "target": 10, "reward": {"xp": 2000}},
-        {"level": 4, "target": 25, "reward": {"xp": 5000}},
-        {"level": 5, "target": 50, "reward": {"xp": 10000}}
-      ]
-    },
-    {
-      "id": "BMCB",
-      "title": "Oro",
-      "description": "Abre sobres oro",
-      "type": "progressive",
-      "category": "Packs",
-      "milestones": [
-        {"level": 1, "target": 1, "reward": {"xp": 500}},
-        {"level": 2, "target": 5, "reward": {"xp": 2000}},
-        {"level": 3, "target": 10, "reward": {"xp": 4000}},
-        {"level": 4, "target": 25, "reward": {"xp": 10000}},
-        {"level": 5, "target": 50, "reward": {"xp": 20000}}
-      ]
-    },
-    {
-      "id": "BMDCC",
-      "title": "Diamante",
-      "description": "Abre sobres diamantes",
-      "type": "progressive",
-      "category": "Packs",
-      "milestones": [
-        {"level": 1, "target": 1, "reward": {"xp": 1000}},
-        {"level": 2, "target": 5, "reward": {"xp": 4000}},
-        {"level": 3, "target": 10, "reward": {"xp": 8000}},
-        {"level": 4, "target": 25, "reward": {"xp": 20000}},
-        {"level": 5, "target": 50, "reward": {"xp": 40000}}
-      ]
-    },
-    {
-      "id": "BMDA",
-      "title": "Recolección del Pueblo",
-      "description": "Colecciona cartas de rareza común",
-      "type": "progressive",
-      "category": "Collection",
-      "milestones": [
-        {"level": 1, "target": 1, "reward": {"xp": 50}},
-        {"level": 2, "target": 5, "reward": {"xp": 250}},
-        {"level": 3, "target": 10, "reward": {"xp": 500}},
-        {"level": 4, "target": 25, "reward": {"xp": 1250}},
-        {"level": 5, "target": 50, "reward": {"xp": 2500}}
-      ]
-    },
-    {
-      "id": "BMDB",
-      "title": "Expedición del Aventurero",
-      "description": "Colecciona cartas de rareza poco común",
-      "type": "progressive",
-      "category": "Collection",
-      "milestones": [
-        {"level": 1, "target": 1, "reward": {"xp": 100}},
-        {"level": 2, "target": 5, "reward": {"xp": 500}},
-        {"level": 3, "target": 10, "reward": {"xp": 1000}},
-        {"level": 4, "target": 25, "reward": {"xp": 2500}},
-        {"level": 5, "target": 50, "reward": {"xp": 5000}}
-      ]
-    },
-    {
-      "id": "BMDC",
-      "title": "Descubrimiento del Raro",
-      "description": "Colecciona cartas de rareza rara",
-      "type": "progressive",
-      "category": "Collection",
-      "milestones": [
-        {"level": 1, "target": 1, "reward": {"xp": 200}},
-        {"level": 2, "target": 5, "reward": {"xp": 1000}},
-        {"level": 3, "target": 10, "reward": {"xp": 2000}},
-        {"level": 4, "target": 25, "reward": {"xp": 5000}},
-        {"level": 5, "target": 50, "reward": {"xp": 10000}}
-      ]
-    },
-    {
-      "id": "BMDD",
-      "title": "Hazaña Épica",
-      "description": "Colecciona cartas de rareza épica",
-      "type": "progressive",
-      "category": "Collection",
-      "milestones": [
-        {"level": 1, "target": 1, "reward": {"xp": 400}},
-        {"level": 2, "target": 5, "reward": {"xp": 2000}},
-        {"level": 3, "target": 10, "reward": {"xp": 4000}},
-        {"level": 4, "target": 25, "reward": {"xp": 10000}},
-        {"level": 5, "target": 50, "reward": {"xp": 20000}}
-      ]
-    },
-    {
-      "id": "BMDE",
-      "title": "Conquista de Leyendas",
-      "description": "Colecciona cartas de rareza legendaria",
-      "type": "progressive",
-      "category": "Collection",
-      "milestones": [
-        {"level": 1, "target": 1, "reward": {"xp": 800}},
-        {"level": 2, "target": 5, "reward": {"xp": 4000}},
-        {"level": 3, "target": 10, "reward": {"xp": 8000}},
-        {"level": 4, "target": 25, "reward": {"xp": 20000}},
-        {"level": 5, "target": 50, "reward": {"xp": 40000}}
-      ]
-    },
-    {
-      "id": "BMDF",
-      "title": "Ascenso Divino",
-      "description": "Colecciona cartas de rareza celestial",
-      "type": "progressive",
-      "category": "Collection",
-      "milestones": [
-        {"level": 1, "target": 1, "reward": {"xp": 1600}},
-        {"level": 2, "target": 5, "reward": {"xp": 8000}},
-        {"level": 3, "target": 10, "reward": {"xp": 16000}},
-        {"level": 4, "target": 25, "reward": {"xp": 40000}},
-        {"level": 5, "target": 50, "reward": {"xp": 80000}}
-      ]
-    },
-    {
-      "id": "BMDG",
-      "title": "Desafío del Imperio",
-      "description": "Colecciona cartas de rareza imperial",
-      "type": "progressive",
-      "category": "Collection",
-      "milestones": [
-        {"level": 1, "target": 1, "reward": {"xp": 3200}},
-        {"level": 2, "target": 5, "reward": {"xp": 16000}},
-        {"level": 3, "target": 10, "reward": {"xp": 32000}},
-        {"level": 4, "target": 25, "reward": {"xp": 80000}},
-        {"level": 5, "target": 50, "reward": {"xp": 160000}}
-      ]
-    },
-    {
-      "id": "BMDH",
-      "title": "La Corona Suprema",
-      "description": "Colecciona cartas de rareza realeza",
-      "type": "progressive",
-      "category": "Collection",
-      "milestones": [
-        {"level": 1, "target": 1, "reward": {"xp": 6400}},
-        {"level": 2, "target": 5, "reward": {"xp": 32000}},
-        {"level": 3, "target": 10, "reward": {"xp": 160000}}
-      ]
-    },
-    {
-      "id": "BMEA",
-      "title": "Acuerdo de Nobles",
-      "description": "Realiza intercambios con otros usuarios",
-      "type": "progressive",
-      "category": "Exchanges",
-      "milestones": [
-        {"level": 1, "target": 1, "reward": {"xp": 1000}},
-        {"level": 2, "target": 5, "reward": {"xp": 5000}},
-        {"level": 3, "target": 10, "reward": {"xp": 10000}}
-      ]
-    },
-    {
-      "id": "BMEB",
-      "title": "Pacto de Caballeros",
-      "description": "Intercambia cartas de mayor rareza por cartas de menor rareza",
-      "type": "progressive",
-      "category": "Exchanges",
-      "milestones": [
-        {"level": 1, "target": 1, "reward": {"xp": 2000}},
-        {"level": 2, "target": 5, "reward": {"xp": 10000}},
-        {"level": 3, "target": 10, "reward": {"xp": 20000}}
-      ]
-    }
-]
+{
+  "BMAA": {
+    "title": "Inicio de Sesión Diario",
+    "description": "Inicia sesión cada día",
+    "type": "diary",
+    "category": "General",
+    "reward": {"xp": 200},
+    "repeatable": true
+  },
+  "BMBA": {
+    "title": "Director Técnico",
+    "description": "Crea alineaciones de partidos en cualquier modo de juego",
+    "type": "progressive",
+    "category": "Gameplay",
+    "milestones": [
+      {"level": 1, "target": 1, "reward": {"xp": 100}},
+      {"level": 2, "target": 5, "reward": {"xp": 500}},
+      {"level": 3, "target": 10, "reward": {"xp": 1000}},
+      {"level": 4, "target": 25, "reward": {"xp": 2500}},
+      {"level": 5, "target": 50, "reward": {"xp": 5000}}
+    ]
+  },
+  "BMCA": {
+    "title": "Plata",
+    "description": "Abre sobres plata",
+    "type": "progressive",
+    "category": "Packs",
+    "milestones": [
+      {"level": 1, "target": 1, "reward": {"xp": 250}},
+      {"level": 2, "target": 5, "reward": {"xp": 1000}},
+      {"level": 3, "target": 10, "reward": {"xp": 2000}},
+      {"level": 4, "target": 25, "reward": {"xp": 5000}},
+      {"level": 5, "target": 50, "reward": {"xp": 10000}}
+    ]
+  },
+  "BMCB": {
+    "title": "Oro",
+    "description": "Abre sobres oro",
+    "type": "progressive",
+    "category": "Packs",
+    "milestones": [
+      {"level": 1, "target": 1, "reward": {"xp": 500}},
+      {"level": 2, "target": 5, "reward": {"xp": 2000}},
+      {"level": 3, "target": 10, "reward": {"xp": 4000}},
+      {"level": 4, "target": 25, "reward": {"xp": 10000}},
+      {"level": 5, "target": 50, "reward": {"xp": 20000}}
+    ]
+  },
+  "BMCC": {
+    "title": "Diamante",
+    "description": "Abre sobres diamantes",
+    "type": "progressive",
+    "category": "Packs",
+    "milestones": [
+      {"level": 1, "target": 1, "reward": {"xp": 1000}},
+      {"level": 2, "target": 5, "reward": {"xp": 4000}},
+      {"level": 3, "target": 10, "reward": {"xp": 8000}},
+      {"level": 4, "target": 25, "reward": {"xp": 20000}},
+      {"level": 5, "target": 50, "reward": {"xp": 40000}}
+    ]
+  },
+  "BMDA": {
+    "title": "Recolección del Pueblo",
+    "description": "Colecciona cartas de rareza común",
+    "type": "progressive",
+    "category": "Collection",
+    "milestones": [
+      {"level": 1, "target": 1, "reward": {"xp": 50}},
+      {"level": 2, "target": 5, "reward": {"xp": 250}},
+      {"level": 3, "target": 10, "reward": {"xp": 500}},
+      {"level": 4, "target": 25, "reward": {"xp": 1250}},
+      {"level": 5, "target": 50, "reward": {"xp": 2500}}
+    ]
+  },
+  "BMDB": {
+    "title": "Expedición del Aventurero",
+    "description": "Colecciona cartas de rareza poco común",
+    "type": "progressive",
+    "category": "Collection",
+    "milestones": [
+      {"level": 1, "target": 1, "reward": {"xp": 100}},
+      {"level": 2, "target": 5, "reward": {"xp": 500}},
+      {"level": 3, "target": 10, "reward": {"xp": 1000}},
+      {"level": 4, "target": 25, "reward": {"xp": 2500}},
+      {"level": 5, "target": 50, "reward": {"xp": 5000}}
+    ]
+  },
+  "BMDC": {
+    "title": "Descubrimiento del Raro",
+    "description": "Colecciona cartas de rareza rara",
+    "type": "progressive",
+    "category": "Collection",
+    "milestones": [
+      {"level": 1, "target": 1, "reward": {"xp": 200}},
+      {"level": 2, "target": 5, "reward": {"xp": 1000}},
+      {"level": 3, "target": 10, "reward": {"xp": 2000}},
+      {"level": 4, "target": 25, "reward": {"xp": 5000}},
+      {"level": 5, "target": 50, "reward": {"xp": 10000}}
+    ]
+  },
+  "BMDD": {
+    "title": "Hazaña Épica",
+    "description": "Colecciona cartas de rareza épica",
+    "type": "progressive",
+    "category": "Collection",
+    "milestones": [
+      {"level": 1, "target": 1, "reward": {"xp": 400}},
+      {"level": 2, "target": 5, "reward": {"xp": 2000}},
+      {"level": 3, "target": 10, "reward": {"xp": 4000}},
+      {"level": 4, "target": 25, "reward": {"xp": 10000}},
+      {"level": 5, "target": 50, "reward": {"xp": 20000}}
+    ]
+  },
+  "BMDE": {
+    "title": "Conquista de Leyendas",
+    "description": "Colecciona cartas de rareza legendaria",
+    "type": "progressive",
+    "category": "Collection",
+    "milestones": [
+      {"level": 1, "target": 1, "reward": {"xp": 800}},
+      {"level": 2, "target": 5, "reward": {"xp": 4000}},
+      {"level": 3, "target": 10, "reward": {"xp": 8000}},
+      {"level": 4, "target": 25, "reward": {"xp": 20000}},
+      {"level": 5, "target": 50, "reward": {"xp": 40000}}
+    ]
+  },
+  "BMDF": {
+    "title": "Ascenso Divino",
+    "description": "Colecciona cartas de rareza celestial",
+    "type": "progressive",
+    "category": "Collection",
+    "milestones": [
+      {"level": 1, "target": 1, "reward": {"xp": 1600}},
+      {"level": 2, "target": 5, "reward": {"xp": 8000}},
+      {"level": 3, "target": 10, "reward": {"xp": 16000}},
+      {"level": 4, "target": 25, "reward": {"xp": 40000}},
+      {"level": 5, "target": 50, "reward": {"xp": 80000}}
+    ]
+  },
+  "BMDG": {
+    "title": "Desafío del Imperio",
+    "description": "Colecciona cartas de rareza imperial",
+    "type": "progressive",
+    "category": "Collection",
+    "milestones": [
+      {"level": 1, "target": 1, "reward": {"xp": 3200}},
+      {"level": 2, "target": 5, "reward": {"xp": 16000}},
+      {"level": 3, "target": 10, "reward": {"xp": 32000}},
+      {"level": 4, "target": 25, "reward": {"xp": 80000}},
+      {"level": 5, "target": 50, "reward": {"xp": 160000}}
+    ]
+  },
+  "BMDH": {
+    "title": "La Corona Suprema",
+    "description": "Colecciona cartas de rareza realeza",
+    "type": "progressive",
+    "category": "Collection",
+    "milestones": [
+      {"level": 1, "target": 1, "reward": {"xp": 6400}},
+      {"level": 2, "target": 5, "reward": {"xp": 32000}},
+      {"level": 3, "target": 10, "reward": {"xp": 160000}}
+    ]
+  },
+  "BMEA": {
+    "title": "Acuerdo de Nobles",
+    "description": "Realiza intercambios con otros usuarios",
+    "type": "progressive",
+    "category": "Exchanges",
+    "milestones": [
+      {"level": 1, "target": 1, "reward": {"xp": 1000}},
+      {"level": 2, "target": 5, "reward": {"xp": 5000}},
+      {"level": 3, "target": 10, "reward": {"xp": 10000}}
+    ]
+  },
+  "BMEB": {
+    "title": "Pacto de Caballeros",
+    "description": "Intercambia cartas de mayor rareza por cartas de menor rareza",
+    "type": "progressive",
+    "category": "Exchanges",
+    "milestones": [
+      {"level": 1, "target": 1, "reward": {"xp": 2000}},
+      {"level": 2, "target": 5, "reward": {"xp": 10000}},
+      {"level": 3, "target": 10, "reward": {"xp": 20000}}
+    ]
+  }
+}
