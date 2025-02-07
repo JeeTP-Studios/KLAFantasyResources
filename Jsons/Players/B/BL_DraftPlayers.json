@@ -1,95 +1,58 @@
 {
     "BLA": {
         "kamaId": "0",
-        "name": "Jugador",
-        "dorsal": "JUGADOR",
+        "name": "Tirso Prueba",
+        "dorsal": "TIRSO",
         "nationality": "MX",
         "position": "POR"
     },
     "BLB": {
         "kamaId": "0",
-        "name": "Jugador",
-        "dorsal": "JUGADOR",
+        "name": "Gustavo Guillén",
+        "dorsal": "FURBY",
         "nationality": "MX",
-        "position": "POR"
+        "position": "MED"
     },
     "BLC": {
         "kamaId": "0",
-        "name": "Jugador",
-        "dorsal": "JUGADOR",
-        "nationality": "MX",
-        "position": "POR"
-    },
-    "BLD": {
-        "kamaId": "0",
-        "name": "Jugador",
-        "dorsal": "JUGADOR",
-        "nationality": "MX",
-        "position": "POR"
-    },
-    "BLE": {
-        "kamaId": "0",
-        "name": "Jugador",
-        "dorsal": "JUGADOR",
-        "nationality": "MX",
-        "position": "POR"
-    },
-    "BLF": {
-        "kamaId": "0",
-        "name": "Jugador",
-        "dorsal": "JUGADOR",
-        "nationality": "MX",
-        "position": "POR"
-    },
-    "BLG": {
-        "kamaId": "0",
-        "name": "Jugador",
-        "dorsal": "JUGADOR",
-        "nationality": "MX",
-        "position": "POR"
-    },
-    "BLH": {
-        "kamaId": "0",
-        "name": "Jugador",
-        "dorsal": "JUGADOR",
-        "nationality": "MX",
-        "position": "POR"
-    },
-    "BLI": {
-        "kamaId": "0",
-        "name": "Jugador",
-        "dorsal": "JUGADOR",
-        "nationality": "MX",
-        "position": "POR"
-    },
-    "BLJ": {
-        "kamaId": "23268",
-        "name": "Diego SanJuan",
-        "dorsal": "SANJUAN",
+        "name": "Anferny Rebollar",
+        "dorsal": "ANFERNY",
         "nationality": "MX",
         "position": "DEF"
     },
-    "BLK": {
+    "BLD": {
         "kamaId": "0",
-        "name": "Jugador",
-        "dorsal": "JUGADOR",
+        "name": "Patricio Arias",
+        "dorsal": "Arias",
         "nationality": "MX",
-        "position": "POR"
+        "position": "DEF"
     },
-    "BLL": {
+    "BLE": {
         "kamaId": "0",
-        "name": "Jugador",
-        "dorsal": "JUGADOR",
+        "name": "Didier Uribe",
+        "dorsal": "DIDIER",
         "nationality": "MX",
-        "position": "POR"
+        "position": "MED"
     },
-    "BLM": {
+    "BLF": {
         "kamaId": "0",
-        "name": "Jugador",
-        "dorsal": "JUGADOR",
+        "name": "Brayan Hernández",
+        "dorsal": "BRAYAN",
+        "nationality": "MX",
+        "position": "MED"
+    },
+    "BLG": {
+        "kamaId": "0",
+        "name": "Manuel Viniegra",
+        "dorsal": "MANUEL",
+        "nationality": "MX",
+        "position": "MED"
+    },
+    "BLH": {
+        "kamaId": "0",
+        "name": "Angel Espinoza",
+        "dorsal": "ANGEL",
         "nationality": "MX",
         "position": "POR"
     }
 }
-
-

@@ -1,94 +1,80 @@
 {
     "BBA": {
         "kamaId": "0",
-        "name": "Jugador",
-        "dorsal": "JUGADOR",
+        "name": "Javier Gallegos",
+        "dorsal": "JAVIER",
         "nationality": "MX",
-        "position": "POR"
+        "position": "MED"
     },
     "BBB": {
         "kamaId": "0",
-        "name": "Jugador",
-        "dorsal": "JUGADOR",
+        "name": "José Lara",
+        "dorsal": "LARA",
         "nationality": "MX",
-        "position": "POR"
+        "position": "MED"
     },
     "BBC": {
         "kamaId": "0",
-        "name": "Jugador",
-        "dorsal": "JUGADOR",
+        "name": "Jorge Leal",
+        "dorsal": "LEAL",
         "nationality": "MX",
-        "position": "POR"
+        "position": "MED"
     },
     "BBD": {
         "kamaId": "0",
-        "name": "Jugador",
-        "dorsal": "JUGADOR",
+        "name": "Julio García",
+        "dorsal": "JULIO",
         "nationality": "MX",
-        "position": "POR"
+        "position": "MED"
     },
     "BBE": {
         "kamaId": "0",
-        "name": "Jugador",
-        "dorsal": "JUGADOR",
+        "name": "Enrique Ciprían",
+        "dorsal": "CIPRIAN",
         "nationality": "MX",
-        "position": "POR"
+        "position": "MED"
     },
     "BBF": {
         "kamaId": "0",
-        "name": "Jugador",
-        "dorsal": "JUGADOR",
+        "name": "Cesar Villaluz",
+        "dorsal": "CESAR",
         "nationality": "MX",
-        "position": "POR"
+        "position": "MED"
     },
     "BBG": {
         "kamaId": "0",
-        "name": "Jugador",
-        "dorsal": "JUGADOR",
+        "name": "Paul Cruz",
+        "dorsal": "PAUL",
         "nationality": "MX",
         "position": "POR"
     },
     "BBH": {
         "kamaId": "0",
-        "name": "Jugador",
-        "dorsal": "JUGADOR",
+        "name": "Ángel Rascon",
+        "dorsal": "RASCON",
         "nationality": "MX",
         "position": "POR"
     },
     "BBI": {
         "kamaId": "0",
-        "name": "Jugador",
-        "dorsal": "JUGADOR",
+        "name": "Gerardo Lugo",
+        "dorsal": "LUGO",
         "nationality": "MX",
-        "position": "POR"
+        "position": "MED"
     },
     "BBJ": {
-        "kamaId": "23268",
-        "name": "Diego SanJuan",
-        "dorsal": "SANJUAN",
+        "kamaId": "0",
+        "name": "Erick Madrigal",
+        "dorsal": "ERICK",
         "nationality": "MX",
         "position": "DEF"
     },
     "BBK": {
         "kamaId": "0",
-        "name": "Jugador",
-        "dorsal": "JUGADOR",
+        "name": "Santiago Lagarde",
+        "dorsal": "LAGARDE",
         "nationality": "MX",
-        "position": "POR"
-    },
-    "BBL": {
-        "kamaId": "0",
-        "name": "Jugador",
-        "dorsal": "JUGADOR",
-        "nationality": "MX",
-        "position": "POR"
-    },
-    "BBM": {
-        "kamaId": "0",
-        "name": "Jugador",
-        "dorsal": "JUGADOR",
-        "nationality": "MX",
-        "position": "POR"
+        "position": "MED"
     }
 }
 

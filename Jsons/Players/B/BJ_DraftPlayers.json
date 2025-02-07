@@ -1,94 +1,73 @@
 {
     "BJA": {
         "kamaId": "0",
-        "name": "Jugador",
-        "dorsal": "JUGADOR",
+        "name": "Alejandro Díaz",
+        "dorsal": "TETE",
         "nationality": "MX",
-        "position": "POR"
+        "position": "MED"
     },
     "BJB": {
         "kamaId": "0",
-        "name": "Jugador",
-        "dorsal": "JUGADOR",
+        "name": "Marco Millán",
+        "dorsal": "MILLAN",
         "nationality": "MX",
         "position": "POR"
     },
     "BJC": {
         "kamaId": "0",
-        "name": "Jugador",
-        "dorsal": "JUGADOR",
-        "nationality": "MX",
-        "position": "POR"
+        "name": "Andrés Rugeles",
+        "dorsal": "ANDRES",
+        "nationality": "CO",
+        "position": "MED"
     },
     "BJD": {
         "kamaId": "0",
-        "name": "Jugador",
-        "dorsal": "JUGADOR",
+        "name": "Edwin Cardenas",
+        "dorsal": "EDWIN",
         "nationality": "MX",
-        "position": "POR"
+        "position": "MED"
     },
     "BJE": {
         "kamaId": "0",
-        "name": "Jugador",
-        "dorsal": "JUGADOR",
+        "name": "David Pérez",
+        "dorsal": "PEREZ",
         "nationality": "MX",
-        "position": "POR"
+        "position": "DEL"
     },
     "BJF": {
         "kamaId": "0",
-        "name": "Jugador",
-        "dorsal": "JUGADOR",
+        "name": "Baruc Mateos",
+        "dorsal": "BARUC",
         "nationality": "MX",
         "position": "POR"
     },
     "BJG": {
         "kamaId": "0",
-        "name": "Jugador",
-        "dorsal": "JUGADOR",
+        "name": "Christian Lagunas",
+        "dorsal": "LAGUNAS",
         "nationality": "MX",
-        "position": "POR"
+        "position": "MED"
     },
     "BJH": {
         "kamaId": "0",
-        "name": "Jugador",
-        "dorsal": "JUGADOR",
+        "name": "Diego Pérez",
+        "dorsal": "DIEGO",
         "nationality": "MX",
-        "position": "POR"
+        "position": "MED"
     },
     "BJI": {
         "kamaId": "0",
-        "name": "Jugador",
-        "dorsal": "JUGADOR",
-        "nationality": "MX",
-        "position": "POR"
-    },
-    "BJJ": {
-        "kamaId": "23268",
-        "name": "Diego SanJuan",
-        "dorsal": "SANJUAN",
+        "name": "Daniel Lopez",
+        "dorsal": "DANIEL",
         "nationality": "MX",
         "position": "DEF"
     },
-    "BJK": {
+    "BJJ": {
         "kamaId": "0",
-        "name": "Jugador",
-        "dorsal": "JUGADOR",
+        "name": "Juan Cisneros",
+        "dorsal": "JUAN",
         "nationality": "MX",
-        "position": "POR"
-    },
-    "BJL": {
-        "kamaId": "0",
-        "name": "Jugador",
-        "dorsal": "JUGADOR",
-        "nationality": "MX",
-        "position": "POR"
-    },
-    "BJM": {
-        "kamaId": "0",
-        "name": "Jugador",
-        "dorsal": "JUGADOR",
-        "nationality": "MX",
-        "position": "POR"
+        "position": "MED"
     }
 }
 

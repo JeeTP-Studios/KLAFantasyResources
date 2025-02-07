@@ -1,94 +1,66 @@
 {
     "BDA": {
         "kamaId": "0",
-        "name": "Jugador",
-        "dorsal": "JUGADOR",
+        "name": "Juan Gomez",
+        "dorsal": "JUAN",
         "nationality": "MX",
-        "position": "POR"
+        "position": "DEF"
     },
     "BDB": {
         "kamaId": "0",
-        "name": "Jugador",
-        "dorsal": "JUGADOR",
-        "nationality": "MX",
-        "position": "POR"
+        "name": "Daniel Mendoza",
+        "dorsal": "DANIEL",
+        "nationality": "CO",
+        "position": "DEF"
     },
     "BDC": {
         "kamaId": "0",
-        "name": "Jugador",
-        "dorsal": "JUGADOR",
+        "name": "Edgar Martínez",
+        "dorsal": "EDGAR",
         "nationality": "MX",
-        "position": "POR"
+        "position": "DEL"
     },
     "BDD": {
         "kamaId": "0",
-        "name": "Jugador",
-        "dorsal": "JUGADOR",
+        "name": "Julio Torres",
+        "dorsal": "LEGOLAS",
         "nationality": "MX",
         "position": "POR"
     },
     "BDE": {
         "kamaId": "0",
-        "name": "Jugador",
-        "dorsal": "JUGADOR",
+        "name": "Jorge Meléndez",
+        "dorsal": "JORGE",
         "nationality": "MX",
-        "position": "POR"
+        "position": "MED"
     },
     "BDF": {
         "kamaId": "0",
-        "name": "Jugador",
-        "dorsal": "JUGADOR",
+        "name": "Alejandro Carrillo",
+        "dorsal": "CARRILLO",
         "nationality": "MX",
         "position": "POR"
     },
     "BDG": {
         "kamaId": "0",
-        "name": "Jugador",
-        "dorsal": "JUGADOR",
-        "nationality": "MX",
-        "position": "POR"
+        "name": "Brayam Nazarit",
+        "dorsal": "BRAYAM",
+        "nationality": "CO",
+        "position": "MED"
     },
     "BDH": {
         "kamaId": "0",
-        "name": "Jugador",
-        "dorsal": "JUGADOR",
-        "nationality": "MX",
-        "position": "POR"
-    },
-    "BDI": {
-        "kamaId": "0",
-        "name": "Jugador",
-        "dorsal": "JUGADOR",
-        "nationality": "MX",
-        "position": "POR"
-    },
-    "BDJ": {
-        "kamaId": "23268",
-        "name": "Diego SanJuan",
-        "dorsal": "SANJUAN",
+        "name": "Erik Vera",
+        "dorsal": "VERA",
         "nationality": "MX",
         "position": "DEF"
     },
-    "BDK": {
+    "BDI": {
         "kamaId": "0",
-        "name": "Jugador",
-        "dorsal": "JUGADOR",
+        "name": "Leonardo Duque",
+        "dorsal": "DUQUE",
         "nationality": "MX",
-        "position": "POR"
-    },
-    "BDL": {
-        "kamaId": "0",
-        "name": "Jugador",
-        "dorsal": "JUGADOR",
-        "nationality": "MX",
-        "position": "POR"
-    },
-    "BDM": {
-        "kamaId": "0",
-        "name": "Jugador",
-        "dorsal": "JUGADOR",
-        "nationality": "MX",
-        "position": "POR"
+        "position": "DEL"
     }
 }
 

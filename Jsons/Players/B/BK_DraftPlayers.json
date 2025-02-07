@@ -1,94 +1,73 @@
 {
     "BKA": {
         "kamaId": "0",
-        "name": "Jugador",
-        "dorsal": "JUGADOR",
+        "name": "Stephan D´Alessandro",
+        "dorsal": "STEPHAN",
         "nationality": "MX",
-        "position": "POR"
+        "position": "DO"
     },
     "BKB": {
         "kamaId": "0",
-        "name": "Jugador",
-        "dorsal": "JUGADOR",
+        "name": "Daniel Ríos",
+        "dorsal": "RIOS",
         "nationality": "MX",
-        "position": "POR"
+        "position": "MED"
     },
     "BKC": {
         "kamaId": "0",
-        "name": "Jugador",
-        "dorsal": "JUGADOR",
+        "name": "Fernando Morales",
+        "dorsal": "FERNANDO",
         "nationality": "MX",
-        "position": "POR"
+        "position": "MED"
     },
     "BKD": {
         "kamaId": "0",
-        "name": "Jugador",
-        "dorsal": "JUGADOR",
+        "name": "Moises Dabbah",
+        "dorsal": "DABBAH",
         "nationality": "MX",
         "position": "POR"
     },
     "BKE": {
         "kamaId": "0",
-        "name": "Jugador",
-        "dorsal": "JUGADOR",
-        "nationality": "MX",
-        "position": "POR"
+        "name": "Ricardo Valencia",
+        "dorsal": "RICARDO",
+        "nationality": "CO",
+        "position": "MED"
     },
     "BKF": {
         "kamaId": "0",
-        "name": "Jugador",
-        "dorsal": "JUGADOR",
+        "name": "Justo Islas",
+        "dorsal": "ISLAS",
         "nationality": "MX",
-        "position": "POR"
+        "position": "MED"
     },
     "BKG": {
         "kamaId": "0",
-        "name": "Jugador",
-        "dorsal": "JUGADOR",
+        "name": "Pabel Montes",
+        "dorsal": "PABEL",
         "nationality": "MX",
-        "position": "POR"
+        "position": "MED"
     },
     "BKH": {
         "kamaId": "0",
-        "name": "Jugador",
-        "dorsal": "JUGADOR",
+        "name": "Diego Franco",
+        "dorsal": "FRANCO",
         "nationality": "MX",
-        "position": "POR"
+        "position": "MED"
     },
     "BKI": {
         "kamaId": "0",
-        "name": "Jugador",
-        "dorsal": "JUGADOR",
+        "name": "Rafael Cid",
+        "dorsal": "Rafael",
         "nationality": "MX",
-        "position": "POR"
+        "position": "MXES"
     },
     "BKJ": {
-        "kamaId": "23268",
-        "name": "Diego SanJuan",
-        "dorsal": "SANJUAN",
-        "nationality": "MX",
-        "position": "DEF"
-    },
-    "BKK": {
         "kamaId": "0",
-        "name": "Jugador",
-        "dorsal": "JUGADOR",
-        "nationality": "MX",
-        "position": "POR"
-    },
-    "BKL": {
-        "kamaId": "0",
-        "name": "Jugador",
-        "dorsal": "JUGADOR",
-        "nationality": "MX",
-        "position": "POR"
-    },
-    "BKM": {
-        "kamaId": "0",
-        "name": "Jugador",
-        "dorsal": "JUGADOR",
-        "nationality": "MX",
-        "position": "POR"
+        "name": "Jairo Tapie",
+        "dorsal": "JAIRO",
+        "nationality": "CO",
+        "position": "MED"
     }
 }
 

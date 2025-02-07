@@ -1,92 +1,78 @@
 {
     "BEA": {
         "kamaId": "0",
-        "name": "Jugador",
-        "dorsal": "JUGADOR",
+        "name": "Hugo Murga",
+        "dorsal": "MURGA",
         "nationality": "MX",
         "position": "POR"
     },
     "BEB": {
         "kamaId": "0",
-        "name": "Jugador",
-        "dorsal": "JUGADOR",
+        "name": "Brayan González",
+        "dorsal": "BRAYAN",
         "nationality": "MX",
-        "position": "POR"
+        "position": "MED"
     },
     "BEC": {
         "kamaId": "0",
-        "name": "Jugador",
-        "dorsal": "JUGADOR",
+        "name": "Abner Monreal",
+        "dorsal": "ABNER",
         "nationality": "MX",
-        "position": "POR"
+        "position": "MED"
     },
     "BED": {
         "kamaId": "0",
-        "name": "Jugador",
-        "dorsal": "JUGADOR",
+        "name": "Gabriel Morales",
+        "dorsal": "GABRIEL",
         "nationality": "MX",
-        "position": "POR"
+        "position": "DEL"
     },
     "BEE": {
         "kamaId": "0",
-        "name": "Jugador",
-        "dorsal": "JUGADOR",
+        "name": "Víctor Pérez",
+        "dorsal": "VICTOR",
         "nationality": "MX",
-        "position": "POR"
+        "position": "MED"
     },
     "BEF": {
         "kamaId": "0",
-        "name": "Jugador",
-        "dorsal": "JUGADOR",
+        "name": "Ricardo Vaca",
+        "dorsal": "VACA",
         "nationality": "MX",
-        "position": "POR"
+        "position": "MED"
     },
     "BEG": {
         "kamaId": "0",
-        "name": "Jugador",
-        "dorsal": "JUGADOR",
+        "name": "Eder López",
+        "dorsal": "EDER",
         "nationality": "MX",
-        "position": "POR"
+        "position": "MED"
     },
     "BEH": {
         "kamaId": "0",
-        "name": "Jugador",
-        "dorsal": "JUGADOR",
+        "name": "William Rojas",
+        "dorsal": "WILLIAM",
         "nationality": "MX",
-        "position": "POR"
+        "position": "MED"
     },
     "BEI": {
         "kamaId": "0",
-        "name": "Jugador",
-        "dorsal": "JUGADOR",
-        "nationality": "MX",
-        "position": "POR"
-    },
-    "BEJ": {
-        "kamaId": "23268",
-        "name": "Diego SanJuan",
-        "dorsal": "SANJUAN",
+        "name": "Juan de Dios Martínez",
+        "dorsal": "JUANDE",
         "nationality": "MX",
         "position": "DEF"
     },
+    "BEJ": {
+        "kamaId": "0",
+        "name": "Brihan Gutiérrez",
+        "dorsal": "GUTI",
+        "nationality": "CO",
+        "position": "MED"
+    },
     "BEK": {
         "kamaId": "0",
-        "name": "Jugador",
-        "dorsal": "JUGADOR",
-        "nationality": "MX",
-        "position": "POR"
-    },
-    "BEL": {
-        "kamaId": "0",
-        "name": "Jugador",
-        "dorsal": "JUGADOR",
-        "nationality": "MX",
-        "position": "POR"
-    },
-    "BEM": {
-        "kamaId": "0",
-        "name": "Jugador",
-        "dorsal": "JUGADOR",
+        "name": "Diego Reynoso",
+        "dorsal": "DIEGO",
         "nationality": "MX",
         "position": "POR"
     }

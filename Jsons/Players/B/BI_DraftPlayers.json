@@ -1,95 +1,72 @@
 {
     "BIA": {
         "kamaId": "0",
-        "name": "Jugador",
-        "dorsal": "JUGADOR",
+        "name": "Erik Fraire",
+        "dorsal": "FRAIRE",
         "nationality": "MX",
         "position": "POR"
     },
     "BIB": {
         "kamaId": "0",
-        "name": "Jugador",
-        "dorsal": "JUGADOR",
+        "name": "Martín Rodríguez",
+        "dorsal": "CANI",
         "nationality": "MX",
-        "position": "POR"
+        "position": "DEF"
     },
     "BIC": {
         "kamaId": "0",
-        "name": "Jugador",
-        "dorsal": "JUGADOR",
+        "name": "Javier Meraz",
+        "dorsal": "JAVIER",
         "nationality": "MX",
-        "position": "POR"
+        "position": "MED"
     },
     "BID": {
         "kamaId": "0",
-        "name": "Jugador",
-        "dorsal": "JUGADOR",
-        "nationality": "MX",
-        "position": "POR"
+        "name": "Emmanuel Sierra",
+        "dorsal": "SIERRA",
+        "nationality": "CO",
+        "position": "MED"
     },
     "BIE": {
         "kamaId": "0",
-        "name": "Jugador",
-        "dorsal": "JUGADOR",
+        "name": "Jacob Morales",
+        "dorsal": "LOBO",
         "nationality": "MX",
-        "position": "POR"
+        "position": "DEL"
     },
     "BIF": {
         "kamaId": "0",
-        "name": "Jugador",
-        "dorsal": "JUGADOR",
+        "name": "Diego Castellanos",
+        "dorsal": "DIEGO",
         "nationality": "MX",
-        "position": "POR"
+        "position": "DEL"
     },
     "BIG": {
         "kamaId": "0",
-        "name": "Jugador",
-        "dorsal": "JUGADOR",
+        "name": "Diego Arriaga",
+        "dorsal": "ARRIAGA",
         "nationality": "MX",
         "position": "POR"
     },
     "BIH": {
         "kamaId": "0",
-        "name": "Jugador",
-        "dorsal": "JUGADOR",
+        "name": "David Vizcarra",
+        "dorsal": "VIZCARRA",
         "nationality": "MX",
-        "position": "POR"
+        "position": "DEL"
     },
     "BII": {
         "kamaId": "0",
-        "name": "Jugador",
-        "dorsal": "JUGADOR",
+        "name": "Pablo Sámano",
+        "dorsal": "PALLO",
         "nationality": "MX",
-        "position": "POR"
+        "position": "MED"
     },
     "BIJ": {
-        "kamaId": "23268",
-        "name": "Diego SanJuan",
-        "dorsal": "SANJUAN",
-        "nationality": "MX",
-        "position": "DEF"
-    },
-    "BIK": {
         "kamaId": "0",
-        "name": "Jugador",
-        "dorsal": "JUGADOR",
+        "name": "Rafael González",
+        "dorsal": "RAFAEL",
         "nationality": "MX",
-        "position": "POR"
-    },
-    "BIL": {
-        "kamaId": "0",
-        "name": "Jugador",
-        "dorsal": "JUGADOR",
-        "nationality": "MX",
-        "position": "POR"
-    },
-    "BIM": {
-        "kamaId": "0",
-        "name": "Jugador",
-        "dorsal": "JUGADOR",
-        "nationality": "MX",
-        "position": "POR"
+        "position": "MED"
     }
 }
-
-

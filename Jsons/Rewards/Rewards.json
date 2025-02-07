@@ -1,0 +1,47 @@
+{
+  "A": {
+    "name": "Realeza",
+    "primaryColor": "#3CA5E8",
+    "secundaryColor": "#CB943B"
+  },
+  "B": {
+    "name": "MVP",
+    "primaryColor": "#87B5DF",
+    "secundaryColor": "#F2B13A"
+  },
+  "C": {
+    "name": "Imperial",
+    "primaryColor": "#71414A",
+    "secundaryColor": "#B44751"
+  },
+  "D": {
+    "name": "Celestial",
+    "primaryColor": "#CA64C1",
+    "secundaryColor": "#4899C5"
+  },
+  "E": {
+    "name": "Legendaria",
+    "primaryColor": "#EE6146",
+    "secundaryColor": "#C28124"
+  },
+  "F": {
+    "name": "Epica",
+    "primaryColor": "#7B4B76",
+    "secundaryColor": "#BA4888"
+  },
+  "G": {
+    "name": "Rara",
+    "primaryColor": "#575CA5",
+    "secundaryColor": "#5A86B9"
+  },
+  "H": {
+    "name": "Poco Comun",
+    "primaryColor": "#578B38",
+    "secundaryColor": "#83C466"
+  },
+  "I": {
+    "name": "Comun",
+    "primaryColor": "#82A09E",
+    "secundaryColor": "#A1B1AF"
+  }
+}
