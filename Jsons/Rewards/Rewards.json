@@ -2,106 +2,106 @@
   {
     "name": "Funda Kings League",
     "description": "Funda oficial modelo Escudo de la Kings League por La Casa de las Carcasas",
-    "stock": "25",
-    "ticketsPrice": "500",
+    "stock": 25,
+    "ticketsPrice": 500,
     "image": "https://resources.klfantasyamericas.com/Images/Rewards/FundasEscudoKL.png"
   },
   {
     "name": "Funda Personalizada Kings League",
     "description": "Funda oficial modelo Escudo + Tu nombre de la Kings League por La Casa de las Carcasas",
-    "stock": "20",
-    "ticketsPrice": "600",
+    "stock": 20,
+    "ticketsPrice": 600,
     "image": "https://resources.klfantasyamericas.com/Images/Rewards/FundaEscudoPersoKL.png"
   },
   {
     "name": "Funda Equipo Kings League",
     "description": "Funda oficial modelo Equipo a tu selección de la Kings League Américas por La Casa de las Carcasas",
-    "stock": "15",
-    "ticketsPrice": "750",
+    "stock": 15,
+    "ticketsPrice": 750,
     "image": "https://resources.klfantasyamericas.com/Images/Rewards/FundaEquiposKL.png"
   },
   {
     "name": "Mini Balón La Caprishosa",
     "description": "Balón Adidas semi profesional <La Caprishosa>",
-    "stock": "10",
-    "ticketsPrice": "750",
+    "stock": 10,
+    "ticketsPrice": 750,
     "image": "https://resources.klfantasyamericas.com/Images/Rewards/MiniCaprichosa.png"
   },
   {
     "name": "Balón La Caprishosa Semi Pro",
     "description": "Balón Adidas semi profesional <La Caprishosa>",
-    "stock": "5",
-    "ticketsPrice": "2500",
+    "stock": 5,
+    "ticketsPrice": 2500,
     "image": "https://resources.klfantasyamericas.com/Images/Rewards/CaprichosaSemi.png"
   },
   {
     "name": "Balón La Caprishosa Pro",
     "description": "Balón profesional <La Caprishosa>",
-    "stock": "3",
-    "ticketsPrice": "6000",
+    "stock": 3,
+    "ticketsPrice": 6000,
     "image": "https://resources.klfantasyamericas.com/Images/Rewards/CaprichosaPro.png"
   },
   {
     "name": "Jersey 2025",
     "description": "Jersey oficial de tu equipo favorito de la Kings League Américas",
-    "stock": "10",
-    "ticketsPrice": "3000",
+    "stock": 10,
+    "ticketsPrice": 3000,
     "image": "https://resources.klfantasyamericas.com/Images/Rewards/Jerseys.png"
   },
   {
     "name": "Jersey Stripes",
     "description": "Jersey modelo Stripes por The William Project",
-    "stock": "10",
-    "ticketsPrice": "2500",
+    "stock": 10,
+    "ticketsPrice": 2500,
     "image": "https://resources.klfantasyamericas.com/Images/Rewards/Stripes.png"
   },
   {
     "name": "Jersey Castle",
     "description": "Jersey modelo Castle por The William Project",
-    "stock": "10",
-    "ticketsPrice": "2500",
+    "stock": 10,
+    "ticketsPrice": 2500,
     "image": "https://resources.klfantasyamericas.com/Images/Rewards/Castle.png"
   },
   {
     "name": "Jersey Brushed",
     "description": "Jersey modelo Brushes por The William Project",
-    "stock": "10",
-    "ticketsPrice": "2500",
+    "stock": 10,
+    "ticketsPrice": 2500,
     "image": "https://resources.klfantasyamericas.com/Images/Rewards/Brushes.png"
   },
   {
     "name": "Jersey Spikes",
     "description": "Jersey modelo Brushes por The William Project",
-    "stock": "10",
-    "ticketsPrice": "2500",
+    "stock": 10,
+    "ticketsPrice": 2500,
     "image": "https://resources.klfantasyamericas.com/Images/Rewards/Spikes.png"
   },
   {
     "name": "Amazon Gift Card $500MXN",
     "description": "Tarjeta de regalo de $500MXN para Amazon MX",
-    "stock": "5",
-    "ticketsPrice": "2000",
+    "stock": 5,
+    "ticketsPrice": 2000,
     "image": "https://resources.klfantasyamericas.com/Images/Rewards/Amazon.png"
   },
   {
     "name": "Uber Eats Gift Card $500MXN",
     "description": "Tarjeta de regalo de $500MXN para Amazon MX",
-    "stock": "5",
-    "ticketsPrice": "1500",
+    "stock": 5,
+    "ticketsPrice": 1500,
     "image": "https://resources.klfantasyamericas.com/Images/Rewards/UberEats.png"
   },
   {
     "name": "Discord $4.99 USD",
     "description": "Tarjeta de regalo de $4.99USD para Discord",
-    "stock": "5",
-    "ticketsPrice": "250",
+    "stock": 5,
+    "ticketsPrice": 250,
     "image": "https://resources.klfantasyamericas.com/Images/Rewards/Discord.png"
   },
   {
     "name": "Crunchyroll $8 USD",
     "description": "Tarjeta de regalo de $8.00USD para Crunchyroll",
-    "stock": "5",
-    "ticketsPrice": "300",
+    "stock": 5,
+    "ticketsPrice": 300,
     "image": "https://resources.klfantasyamericas.com/Images/Rewards/Crunchyroll.png"
   }
 ]
