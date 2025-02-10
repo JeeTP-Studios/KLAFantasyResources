@@ -1,47 +1,121 @@
 {
-  "A": {
-    "name": "Realeza",
-    "primaryColor": "#3CA5E8",
-    "secundaryColor": "#CB943B"
+  {
+    "name": "Funda Kings League",
+    "description": "Funda oficial modelo Escudo de la Kings League por La Casa de las Carcasas",
+    "stock": "25",
+    "ticketsPrice": "500",
+    "image": ""
   },
-  "B": {
-    "name": "MVP",
-    "primaryColor": "#87B5DF",
-    "secundaryColor": "#F2B13A"
+  {
+    "name": "Funda Personalizada Kings League",
+    "description": "Funda oficial modelo Escudo + Tu nombre de la Kings League por La Casa de las Carcasas",
+    "stock": "20",
+    "ticketsPrice": "600",
+    "image": ""
   },
-  "C": {
-    "name": "Imperial",
-    "primaryColor": "#71414A",
-    "secundaryColor": "#B44751"
+  {
+    "name": "Funda Equipo Kings League",
+    "description": "Funda oficial modelo Equipo a tu selección de la Kings League Américas por La Casa de las Carcasas",
+    "stock": "15",
+    "ticketsPrice": "750",
+    "image": ""
   },
-  "D": {
-    "name": "Celestial",
-    "primaryColor": "#CA64C1",
-    "secundaryColor": "#4899C5"
+  {
+    "name": "Mini Balón La Caprishosa",
+    "description": "Balón Adidas semi profesional <La Caprishosa>",
+    "stock": "10",
+    "ticketsPrice": "750",
+    "image": ""
   },
-  "E": {
-    "name": "Legendaria",
-    "primaryColor": "#EE6146",
-    "secundaryColor": "#C28124"
+  {
+    "name": "Balón La Caprishosa Semi Pro",
+    "description": "Balón Adidas semi profesional <La Caprishosa>",
+    "stock": "5",
+    "ticketsPrice": "2500",
+    "image": ""
   },
-  "F": {
-    "name": "Epica",
-    "primaryColor": "#7B4B76",
-    "secundaryColor": "#BA4888"
+  {
+    "name": "Balón La Caprishosa Pro",
+    "description": "Balón profesional <La Caprishosa>",
+    "stock": "3",
+    "ticketsPrice": "6000",
+    "image": ""
   },
-  "G": {
-    "name": "Rara",
-    "primaryColor": "#575CA5",
-    "secundaryColor": "#5A86B9"
+  {
+    "name": "Jersey 2025",
+    "description": "Jersey oficial de tu equipo favorito de la Kings League Américas",
+    "stock": "10",
+    "ticketsPrice": "3000",
+    "image": ""
   },
-  "H": {
-    "name": "Poco Comun",
-    "primaryColor": "#578B38",
-    "secundaryColor": "#83C466"
+  {
+    "name": "Jersey Stripes",
+    "description": "Jersey modelo Stripes por The William Project",
+    "stock": "10",
+    "ticketsPrice": "2500",
+    "image": ""
   },
-  "I": {
-    "name": "Comun",
-    "primaryColor": "#82A09E",
-    "secundaryColor": "#A1B1AF"
+  {
+    "name": "Jersey Castle",
+    "description": "Jersey modelo Castle por The William Project",
+    "stock": "10",
+    "ticketsPrice": "2500",
+    "image": ""
+  },
+  {
+    "name": "Jersey Stripes",
+    "description": "Jersey modelo Brushes por The William Project",
+    "stock": "10",
+    "ticketsPrice": "2500",
+    "image": ""
+  },
+  {
+    "name": "Jersey Spikes",
+    "description": "Jersey modelo Brushes por The William Project",
+    "stock": "10",
+    "ticketsPrice": "2500",
+    "image": ""
+  },
+  {
+    "name": "Amazon Gift Card $500MXN",
+    "description": "Tarjeta de regalo de $500MXN para Amazon MX",
+    "stock": "5",
+    "ticketsPrice": "2000",
+    "image": ""
+  },
+  {
+    "name": "Uber Eats Gift Card $500MXN",
+    "description": "Tarjeta de regalo de $500MXN para Amazon MX",
+    "stock": "5",
+    "ticketsPrice": "1500",
+    "image": ""
+  },
+  {
+    "name": "Discord $4.99 USD",
+    "description": "Tarjeta de regalo de $4.99USD para Discord",
+    "stock": "5",
+    "ticketsPrice": "250",
+    "image": ""
+  },
+  {
+    "name": "Crunchyroll $8 USD",
+    "description": "Tarjeta de regalo de $8.00USD para Crunchyroll",
+    "stock": "5",
+    "ticketsPrice": "300",
+    "image": ""
+  },
+  {
+    "name": "Carta Fantasy Personalizada",
+    "description": "Tu Carta fantasy personalizada",
+    "stock": "5",
+    "ticketsPrice": "3500",
+    "image": ""
+  },
+  {
+    "name": "Carta Fantasy Personalizada Gigante",
+    "description": "Tu Carta fantasy personalizada gigante",
+    "stock": "3",
+    "ticketsPrice": "5500",
+    "image": ""
   }
 }
