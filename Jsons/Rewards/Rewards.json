@@ -1,24 +1,24 @@
 [
   {
-    "name": "Funda Kings League",
-    "description": "Funda oficial modelo Escudo de la Kings League por La Casa de las Carcasas",
+    "name": "Funda KLA",
+    "description": "Funda La Casa de las Carcasa modelo Escudo de la Kings League",
     "stock": 25,
     "ticketsPrice": 500,
     "image": "https://resources.klfantasyamericas.com/Images/Rewards/FundasEscudoKL.png"
   },
   {
-    "name": "Funda Personalizada Kings League",
+    "name": "Funda Personalizada KLA",
     "description": "Funda oficial modelo Escudo + Tu nombre de la Kings League por La Casa de las Carcasas",
     "stock": 20,
     "ticketsPrice": 600,
     "image": "https://resources.klfantasyamericas.com/Images/Rewards/FundaEscudoPersoKL.png"
   },
   {
-    "name": "Funda Equipo Kings League",
+    "name": "Funda Equipo KLA",
     "description": "Funda oficial modelo Equipo a tu selección de la Kings League Américas por La Casa de las Carcasas",
     "stock": 15,
     "ticketsPrice": 750,
-    "image": "https://resources.klfantasyamericas.com/Images/Rewards/FundaEquiposKL.png"
+    "image": "https://resources.klfantasyamericas.com/Images/Rewards/FundasEquiposKL.png"
   },
   {
     "name": "Mini Balón La Caprishosa",
@@ -28,7 +28,7 @@
     "image": "https://resources.klfantasyamericas.com/Images/Rewards/MiniCaprichosa.png"
   },
   {
-    "name": "Balón La Caprishosa Semi Pro",
+    "name": "Balón La Caprishosa SemiPro",
     "description": "Balón Adidas semi profesional <La Caprishosa>",
     "stock": 5,
     "ticketsPrice": 2500,
@@ -63,7 +63,7 @@
     "image": "https://resources.klfantasyamericas.com/Images/Rewards/Castle.png"
   },
   {
-    "name": "Jersey Brushed",
+    "name": "Jersey Brushes",
     "description": "Jersey modelo Brushes por The William Project",
     "stock": 10,
     "ticketsPrice": 2500,
@@ -85,7 +85,7 @@
   },
   {
     "name": "Uber Eats Gift Card $500MXN",
-    "description": "Tarjeta de regalo de $500MXN para Amazon MX",
+    "description": "Tarjeta de regalo de $500MXN para UberEats MX",
     "stock": 5,
     "ticketsPrice": 1500,
     "image": "https://resources.klfantasyamericas.com/Images/Rewards/UberEats.png"
