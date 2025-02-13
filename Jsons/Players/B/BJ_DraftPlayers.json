@@ -1,69 +1,69 @@
 {
     "BJA": {
-        "kamaId": "0",
+        "kamaId": "1006",
         "name": "Alejandro Díaz",
         "dorsal": "TETE",
         "nationality": "MX",
         "position": "MED"
     },
     "BJB": {
-        "kamaId": "0",
+        "kamaId": "66898",
         "name": "Marco Millán",
         "dorsal": "MILLAN",
         "nationality": "MX",
         "position": "POR"
     },
     "BJC": {
-        "kamaId": "0",
+        "kamaId": "66774",
         "name": "Andrés Rugeles",
         "dorsal": "ANDRES",
         "nationality": "CO",
         "position": "MED"
     },
     "BJD": {
-        "kamaId": "0",
+        "kamaId": "3078",
         "name": "Edwin Cardenas",
         "dorsal": "EDWIN",
         "nationality": "MX",
         "position": "MED"
     },
     "BJE": {
-        "kamaId": "0",
+        "kamaId": "60019",
         "name": "David Pérez",
-        "dorsal": "PEREZ",
+        "dorsal": "DAVID",
         "nationality": "MX",
         "position": "DEL"
     },
     "BJF": {
-        "kamaId": "0",
+        "kamaId": "13773",
         "name": "Baruc Mateos",
         "dorsal": "BARUC",
         "nationality": "MX",
         "position": "POR"
     },
     "BJG": {
-        "kamaId": "0",
+        "kamaId": "61191",
         "name": "Christian Lagunas",
         "dorsal": "LAGUNAS",
         "nationality": "MX",
         "position": "MED"
     },
     "BJH": {
-        "kamaId": "0",
+        "kamaId": "60121",
         "name": "Diego Pérez",
         "dorsal": "DIEGO",
         "nationality": "MX",
         "position": "MED"
     },
     "BJI": {
-        "kamaId": "0",
+        "kamaId": "60104",
         "name": "Daniel Lopez",
         "dorsal": "DANIEL",
         "nationality": "MX",
         "position": "DEF"
     },
     "BJJ": {
-        "kamaId": "0",
+        "kamaId": "61733",
         "name": "Juan Cisneros",
         "dorsal": "JUAN",
         "nationality": "MX",
