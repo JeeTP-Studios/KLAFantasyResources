@@ -1,114 +1,78 @@
 {
-  "Matchday 1": {
-    "matchId_1": 1145,
-    "matchId_2": 1146,
-    "matchId_3": 1147,
-    "matchId_4": 1148,
-    "matchId_5": 1149,
-    "matchId_6": 1150
-  },
-  "Matchday 2": {
-    "matchId_1": 1151,
-    "matchId_2": 1152,
-    "matchId_3": 1153,
-    "matchId_4": 1154,
-    "matchId_5": 1155,
-    "matchId_6": 1156
-  },
-  "Matchday 3": {
-    "matchId_1": 1157,
-    "matchId_2": 1158,
-    "matchId_3": 1159,
-    "matchId_4": 1160,
-    "matchId_5": 1161,
-    "matchId_6": 1162
-  },
-  "Matchday 4": {
-    "matchId_1": 1163,
-    "matchId_2": 1164,
-    "matchId_3": 1214,
-    "matchId_4": 1166,
-    "matchId_5": 1167,
-    "matchId_6": 1168
-  },
-  "Matchday 5": {
-    "matchId_1": 1169,
-    "matchId_2": 1170,
-    "matchId_3": 1171,
-    "matchId_4": 1172,
-    "matchId_5": 1173,
-    "matchId_6": 1174
-  },
-  "Matchday 6": {
-    "matchId_1": 1175,
-    "matchId_2": 1176,
-    "matchId_3": 1177,
-    "matchId_4": 1178,
-    "matchId_5": 1179,
-    "matchId_6": 1180
-  },
-  "Matchday 7": {
-    "matchId_1": 1181,
-    "matchId_2": 1182,
-    "matchId_3": 1183,
-    "matchId_4": 1184,
-    "matchId_5": 1185,
-    "matchId_6": 1186
-  },
-  "Matchday 8": {
-    "matchId_1": 1187,
-    "matchId_2": 1188,
-    "matchId_3": 1189,
-    "matchId_4": 1190,
-    "matchId_5": 1191,
-    "matchId_6": 1192
-  },
-  "Matchday 9": {
-    "matchId_1": 1193,
-    "matchId_2": 1194,
-    "matchId_3": 1195,
-    "matchId_4": 1196,
-    "matchId_5": 1197,
-    "matchId_6": 1198
-  },
-  "Matchday 10": {
-    "matchId_1": 1199,
-    "matchId_2": 1200,
-    "matchId_3": 1201,
-    "matchId_4": 1202,
-    "matchId_5": 1203,
-    "matchId_6": 1204
-  },
-  "Matchday 11": {
-    "matchId_1": 1205,
-    "matchId_2": 1206,
-    "matchId_3": 1207,
-    "matchId_4": 1208,
-    "matchId_5": 1209,
-    "matchId_6": 1210
-  },
-  "Playoffs": {
-    "matchId_1": 1299,
-    "matchId_2": 1300,
-    "matchId_3": 1301,
-    "matchId_4": 0,
-    "matchId_5": 0,
-    "matchId_6": 0,
-  },
-  "Semifinals": {
-    "matchId_1": 1308,
-    "matchId_2": 1309,
-    "matchId_3": 0,
-    "matchId_4": 0,
-    "matchId_5": 0,
-    "matchId_6": 0
-  },
-  "Finals": {
-    "matchId_1": 1310,
-    "matchId_2": 0,
-    "matchId_3": 0,
-    "matchId_4": 0,
-    "matchId_5": 0,
-    "matchId_6": 0
-  }
+    "matchday1_game1": 1401,
+    "matchday1_game2": 1402,
+    "matchday1_game3": 1403,
+    "matchday1_game4": 1404,
+    "matchday1_game5": 1405,
+    "matchday1_game6": 1406,
+
+    "matchday2_game1": 1407,
+    "matchday2_game2": 1408,
+    "matchday2_game3": 1409,
+    "matchday2_game4": 1410,
+    "matchday2_game5": 1411,
+    "matchday2_game6": 1412,
+
+    "matchday3_game1": 1413,
+    "matchday3_game2": 1414,
+    "matchday3_game3": 1415,
+    "matchday3_game4": 1416,
+    "matchday3_game5": 1417,
+    "matchday3_game6": 1418,
+
+    "matchday4_game1": 1419,
+    "matchday4_game2": 1420,
+    "matchday4_game3": 1421,
+    "matchday4_game4": 1422,
+    "matchday4_game5": 1423,
+    "matchday4_game6": 1424,
+
+    "matchday5_game1": 1425,
+    "matchday5_game2": 1426,
+    "matchday5_game3": 1427,
+    "matchday5_game4": 1428,
+    "matchday5_game5": 1429,
+    "matchday5_game6": 1430,
+
+    "matchday6_game1": 1431,
+    "matchday6_game2": 1432,
+    "matchday6_game3": 1433,
+    "matchday6_game4": 1434,
+    "matchday6_game5": 1435,
+    "matchday6_game6": 1436,
+
+    "matchday7_game1": 1437,
+    "matchday7_game2": 1438,
+    "matchday7_game3": 1439,
+    "matchday7_game4": 1440,
+    "matchday7_game5": 1441,
+    "matchday7_game6": 1442,
+
+    "matchday8_game1": 1443,
+    "matchday8_game2": 1444,
+    "matchday8_game3": 1445,
+    "matchday8_game4": 1446,
+    "matchday8_game5": 1447,
+    "matchday8_game6": 1448,
+
+    "matchday9_game1": 1449,
+    "matchday9_game2": 1450,
+    "matchday9_game3": 1451,
+    "matchday9_game4": 1452,
+    "matchday9_game5": 1453,
+    "matchday9_game6": 1454,
+
+    "matchday10_game1": 1455,
+    "matchday10_game2": 1456,
+    "matchday10_game3": 1457,
+    "matchday10_game4": 1458,
+    "matchday10_game5": 1459,
+    "matchday10_game6": 1460,
+
+    "matchday11_game1": 1461,
+    "matchday11_game2": 1462,
+    "matchday11_game3": 1463,
+    "matchday11_game4": 1464,
+    "matchday11_game5": 1465,
+    "matchday11_game6": 1466
 }
