@@ -4,13 +4,14 @@
       "id": "A",
       "kamaId": "17",
       "name": "Split 2",
-      "current": false
+      "current": false,
+      "currentWeek": 14
     },
     {
       "id": "B",
       "kamaId": "31",
       "name": "Split 3",
-      "current": true
+      "current": 2
     }
   ]
 }
