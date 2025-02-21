@@ -32,7 +32,7 @@
         "name": "César Marín",
         "dorsal": "CESAR",
         "nationality": "MX",
-        "position": "POR"
+        "position": "DEF"
     },
     "BHF": {
         "kamaId": "9968",
@@ -58,7 +58,7 @@
     "BHI": {
         "kamaId": "64291",
         "name": "Jair Pérez",
-        "dorsal": "JUGADOR",
+        "dorsal": "JAIR",
         "nationality": "C0",
         "position": "DEL"
     },
@@ -67,7 +67,7 @@
         "name": "Óscar Medina",
         "dorsal": "PLATANO",
         "nationality": "MX",
-        "position": "DEF"
+        "position": "POR"
     },
     "BHK": {
         "kamaId": "59630",
