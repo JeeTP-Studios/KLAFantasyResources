@@ -36,8 +36,8 @@
     },
     "BHF": {
         "kamaId": "9968",
-        "name": "Yael Rebollar",
-        "dorsal": "REBOLLAR",
+        "name": "Abner Rebollar",
+        "dorsal": "ABNER",
         "nationality": "MX",
         "position": "DEL"
     },
@@ -75,6 +75,27 @@
         "dorsal": "ISAAC",
         "nationality": "MX",
         "position": "MED"
+    },
+    "BHL": {
+        "kamaId": "16810",
+        "name": "Pablo Gómez",
+        "dorsal": "PABLO",
+        "nationality": "AR",
+        "position": "DEL"
+    },
+    "BHM": {
+        "kamaId": "67792",
+        "name": "Diego Martínez",
+        "dorsal": "DIEGO",
+        "nationality": "MX",
+        "position": "MED"
+    },
+    "BHN": {
+        "kamaId": "67793",
+        "name": "George Corral",
+        "dorsal": "CORRAL",
+        "nationality": "MX",
+        "position": "DEF"
     }
 }
 

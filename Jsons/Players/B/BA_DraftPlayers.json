@@ -53,7 +53,7 @@
         "name": "Sergio Herreño",
         "dorsal": "SERGIO",
         "nationality": "MX",
-        "position": "POR"
+        "position": "MED"
     },
     "BAI": {
         "kamaId": "18545",
@@ -68,5 +68,26 @@
         "dorsal": "BERNAL",
         "nationality": "MX",
         "position": "DEF"
+    },
+    "BAK": {
+        "kamaId": "33234",
+        "name": "José Askenazi",
+        "dorsal": "ASKENAZI",
+        "nationality": "MX",
+        "position": "DEL"
+    },
+    "BAL": {
+        "kamaId": "67861",
+        "name": "Ángel Castro",
+        "dorsal": "CURRY",
+        "nationality": "MX",
+        "position": "MED"
+    },
+    "BAM": {
+        "kamaId": "67944",
+        "name": "Adriano Nunes",
+        "dorsal": "ADRIANO",
+        "nationality": "BR",
+        "position": "DEL"
     }
 }

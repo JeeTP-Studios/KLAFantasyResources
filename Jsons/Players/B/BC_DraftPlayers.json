@@ -1,59 +1,86 @@
 {
     "BCA": {
-        "kamaId": "0",
+        "kamaId": "67532",
         "name": "Yovan Cardenas",
         "dorsal": "YOVAN",
         "nationality": "CO",
         "position": "POR"
     },
     "BCB": {
-        "kamaId": "0",
+        "kamaId": "20249",
         "name": "Iker Treviño",
         "dorsal": "REKI",
         "nationality": "MX",
         "position": "MED"
     },
     "BCC": {
-        "kamaId": "0",
+        "kamaId": "59905",
         "name": "Abdoulaye Bangoura",
         "dorsal": "ABDOU",
         "nationality": "MX",
         "position": "DEL"
     },
     "BCD": {
-        "kamaId": "0",
+        "kamaId": "64544",
         "name": "Abayubá Duché",
         "dorsal": "DUCHE",
         "nationality": "MX",
         "position": "MED"
     },
     "BCE": {
-        "kamaId": "0",
+        "kamaId": "59819",
         "name": "Denilson Lobón",
         "dorsal": "LOBON",
         "nationality": "CO",
         "position": "DEF"
     },
     "BCF": {
-        "kamaId": "0",
+        "kamaId": "59684",
         "name": "Samuel Pascoe",
         "dorsal": "PASCOE",
         "nationality": "MX",
         "position": "MED"
     },
     "BCG": {
-        "kamaId": "0",
+        "kamaId": "26320",
         "name": "Diego Vivian",
         "dorsal": "VIVIAN",
         "nationality": "MX",
         "position": "DEL"
     },
     "BCH": {
-        "kamaId": "0",
+        "kamaId": "20686",
         "name": "Alain Villanueva",
         "dorsal": "ZURDO",
         "nationality": "MX",
         "position": "MED"
+    },
+    "BCI": {
+        "kamaId": "33169",
+        "name": "Angellot Caro",
+        "dorsal": "ANGELLOT",
+        "nationality": "CO",
+        "position": "MED"
+    },
+    "BCJ": {
+        "kamaId": "71125",
+        "name": "Camilo Mena",
+        "dorsal": "CAMILO",
+        "nationality": "CO",
+        "position": "POR"
+    },
+    "BCK": {
+        "kamaId": "71817",
+        "name": "Alejandro Chimal",
+        "dorsal": "CHIMAL",
+        "nationality": "MX",
+        "position": "DEF"
+    },
+    "BCL": {
+        "kamaId": "71822",
+        "name": "Jhon Ferney",
+        "dorsal": "FERNEY",
+        "nationality": "CO",
+        "position": "MED"
     }
 }
-

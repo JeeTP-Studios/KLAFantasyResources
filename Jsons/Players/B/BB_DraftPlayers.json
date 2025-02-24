@@ -75,6 +75,27 @@
         "dorsal": "LAGARDE",
         "nationality": "MX",
         "position": "MED"
-    }
+    },
+    "BBL": {
+        "kamaId": "67815",
+        "name": "Irvin Mojica",
+        "dorsal": "MOJICA",
+        "nationality": "MX",
+        "position": "MED"
+    },
+    "BBM": {
+        "kamaId": "67817",
+        "name": "Josecarlos van Rankin",
+        "dorsal": "RANKIN",
+        "nationality": "MX",
+        "position": "DEF"
+    },
+    "BBN": {
+        "kamaId": "67943",
+        "name": "Fausto Alemán",
+        "dorsal": "ALEMAN",
+        "nationality": "MX",
+        "position": "MED"
+    },
 }
 

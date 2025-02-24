@@ -68,5 +68,36 @@
         "dorsal": "RAFAEL",
         "nationality": "MX",
         "position": "MED"
+    },
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    "BIH": {
+        "kamaId": "33258",
+        "name": "Alberto García",
+        "dorsal": "GUAMERU",
+        "nationality": "MX",
+        "position": "DEL"
+    },
+    "BII": {
+        "kamaId": "67803",
+        "name": "Mathías Vidangossy",
+        "dorsal": "MATHIAS",
+        "nationality": "CL",
+        "position": "MED"
+    },
+    "BIJ": {
+        "kamaId": "0",
+        "name": "Ailton Da Silva",
+        "dorsal": "AILTON",
+        "nationality": "BR",
+        "position": "DEF"
     }
 }

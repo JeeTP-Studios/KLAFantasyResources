@@ -1,80 +1,101 @@
 {
     "BEA": {
-        "kamaId": "0",
+        "kamaId": "29836",
         "name": "Hugo Murga",
         "dorsal": "MURGA",
         "nationality": "MX",
         "position": "POR"
     },
     "BEB": {
-        "kamaId": "0",
+        "kamaId": "67137",
         "name": "Brayan González",
         "dorsal": "BRAYAN",
-        "nationality": "MX",
+        "nationality": "CO",
         "position": "MED"
     },
     "BEC": {
-        "kamaId": "0",
+        "kamaId": "27025",
         "name": "Abner Monreal",
         "dorsal": "ABNER",
         "nationality": "MX",
         "position": "MED"
     },
     "BED": {
-        "kamaId": "0",
+        "kamaId": "6137",
         "name": "Gabriel Morales",
         "dorsal": "GABRIEL",
         "nationality": "MX",
         "position": "DEL"
     },
     "BEE": {
-        "kamaId": "0",
+        "kamaId": "60089",
         "name": "Víctor Pérez",
         "dorsal": "VICTOR",
         "nationality": "MX",
         "position": "MED"
     },
     "BEF": {
-        "kamaId": "0",
+        "kamaId": "59631",
         "name": "Ricardo Vaca",
         "dorsal": "VACA",
         "nationality": "MX",
         "position": "MED"
     },
     "BEG": {
-        "kamaId": "0",
+        "kamaId": "15611",
         "name": "Eder López",
         "dorsal": "EDER",
         "nationality": "MX",
         "position": "MED"
     },
     "BEH": {
-        "kamaId": "0",
+        "kamaId": "28523",
         "name": "William Rojas",
         "dorsal": "WILLIAM",
-        "nationality": "MX",
+        "nationality": "CO",
         "position": "MED"
     },
     "BEI": {
-        "kamaId": "0",
-        "name": "Juan de Dios Martínez",
+        "kamaId": "9654",
+        "name": "Juan Martínez",
         "dorsal": "JUANDE",
         "nationality": "MX",
         "position": "DEF"
     },
     "BEJ": {
-        "kamaId": "0",
+        "kamaId": "30301",
         "name": "Brihan Gutiérrez",
         "dorsal": "GUTI",
         "nationality": "CO",
         "position": "MED"
     },
     "BEK": {
-        "kamaId": "0",
+        "kamaId": "63620",
         "name": "Diego Reynoso",
         "dorsal": "DIEGO",
         "nationality": "MX",
         "position": "POR"
+    },
+    "BEL": {
+        "kamaId": "34717",
+        "name": "Miguel Rebollo",
+        "dorsal": "REBOLLO",
+        "nationality": "MX",
+        "position": "DEL"
+    },
+    "BEM": {
+        "kamaId": "59908",
+        "name": "Alexis Silva",
+        "dorsal": "CHINO",
+        "nationality": "MX",
+        "position": "DEF"
+    },
+    "BEN": {
+        "kamaId": "67794",
+        "name": "Axur Quintero",
+        "dorsal": "DIEGO",
+        "nationality": "CO",
+        "position": "MED"
     }
 }
 

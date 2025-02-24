@@ -1,65 +1,93 @@
 {
     "BDA": {
-        "kamaId": "0",
+        "kamaId": "60567",
         "name": "Juan Gomez",
         "dorsal": "JUAN",
         "nationality": "MX",
         "position": "DEF"
     },
     "BDB": {
-        "kamaId": "0",
+        "kamaId": "67208",
         "name": "Daniel Mendoza",
         "dorsal": "DANIEL",
         "nationality": "CO",
         "position": "DEF"
     },
     "BDC": {
-        "kamaId": "0",
+        "kamaId": "59578",
         "name": "Edgar Martínez",
         "dorsal": "EDGAR",
         "nationality": "MX",
         "position": "DEL"
     },
     "BDD": {
-        "kamaId": "0",
+        "kamaId": "18746",
         "name": "Julio Torres",
         "dorsal": "LEGOLAS",
         "nationality": "MX",
         "position": "POR"
     },
     "BDE": {
-        "kamaId": "0",
+        "kamaId": "64211",
         "name": "Jorge Meléndez",
         "dorsal": "JORGE",
         "nationality": "MX",
         "position": "MED"
     },
     "BDF": {
-        "kamaId": "0",
+        "kamaId": "59683",
         "name": "Alejandro Carrillo",
         "dorsal": "CARRILLO",
         "nationality": "MX",
         "position": "POR"
     },
     "BDG": {
-        "kamaId": "0",
+        "kamaId": "60268",
         "name": "Brayam Nazarit",
         "dorsal": "BRAYAM",
         "nationality": "CO",
         "position": "MED"
     },
     "BDH": {
-        "kamaId": "0",
+        "kamaId": "28868",
         "name": "Erik Vera",
         "dorsal": "VERA",
         "nationality": "MX",
         "position": "DEF"
     },
     "BDI": {
-        "kamaId": "0",
+        "kamaId": "61012",
         "name": "Leonardo Duque",
         "dorsal": "DUQUE",
         "nationality": "MX",
+        "position": "DEL"
+    },
+    "BDJ": {
+        "kamaId": "52953",
+        "name": "César Vallejo",
+        "dorsal": "CHIVITA",
+        "nationality": "MX",
+        "position": "DEL"
+    },
+    "BDK": {
+        "kamaId": "67827",
+        "name": "Alan Mendoza",
+        "dorsal": "ALAN",
+        "nationality": "MX",
+        "position": "MED"
+    },
+    "BDL": {
+        "kamaId": "71202",
+        "name": "Juanito Ramírez",
+        "dorsal": "JUANITO",
+        "nationality": "US",
+        "position": "MED"
+    },
+    "BDM": {
+        "kamaId": "71825",
+        "name": "Lucas Cantón",
+        "dorsal": "DUQUE",
+        "nationality": "AR",
         "position": "DEL"
     }
 }
