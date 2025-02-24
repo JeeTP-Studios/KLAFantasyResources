@@ -11,7 +11,8 @@
       "id": "B",
       "kamaId": "31",
       "name": "Split 3",
-      "current": 2
+      "current": true,
+      "currentWeek": 1
     }
   ]
 }
