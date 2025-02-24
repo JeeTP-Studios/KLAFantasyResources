@@ -68,6 +68,27 @@
         "dorsal": "JUAN",
         "nationality": "MX",
         "position": "MED"
+    },
+    "BJK": {
+        "kamaId": "67774",
+        "name": "Tona Mejía",
+        "dorsal": "TONA",
+        "nationality": "MX",
+        "position": "DEF"
+    },
+    "BJL": {
+        "kamaId": "67818",
+        "name": "Genaro Castillo",
+        "dorsal": "GENARO",
+        "nationality": "MX",
+        "position": "DEL"
+    },
+    "BJM": {
+        "kamaId": "67838",
+        "name": "Jhon Palacios",
+        "dorsal": "JHON",
+        "nationality": "CO",
+        "position": "MED"
     }
 }
 

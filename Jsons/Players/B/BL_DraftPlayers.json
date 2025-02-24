@@ -1,58 +1,79 @@
 {
     "BLA": {
-        "kamaId": "0",
-        "name": "Tirso Prueba",
+        "kamaId": "31998",
+        "name": "Tirso Trueba",
         "dorsal": "TIRSO",
         "nationality": "MX",
         "position": "POR"
     },
     "BLB": {
-        "kamaId": "0",
+        "kamaId": "32381",
         "name": "Gustavo Guillén",
         "dorsal": "FURBY",
         "nationality": "MX",
         "position": "MED"
     },
     "BLC": {
-        "kamaId": "0",
+        "kamaId": "15614",
         "name": "Anferny Rebollar",
         "dorsal": "ANFERNY",
         "nationality": "MX",
         "position": "DEF"
     },
     "BLD": {
-        "kamaId": "0",
+        "kamaId": "2206",
         "name": "Patricio Arias",
         "dorsal": "Arias",
         "nationality": "MX",
         "position": "DEF"
     },
     "BLE": {
-        "kamaId": "0",
+        "kamaId": "11060",
         "name": "Didier Uribe",
         "dorsal": "DIDIER",
         "nationality": "MX",
         "position": "MED"
     },
     "BLF": {
-        "kamaId": "0",
+        "kamaId": "29190",
         "name": "Brayan Hernández",
         "dorsal": "BRAYAN",
         "nationality": "MX",
         "position": "MED"
     },
     "BLG": {
-        "kamaId": "0",
+        "kamaId": "25279",
         "name": "Manuel Viniegra",
         "dorsal": "MANUEL",
         "nationality": "MX",
         "position": "MED"
     },
     "BLH": {
-        "kamaId": "0",
+        "kamaId": "64072",
         "name": "Angel Espinoza",
         "dorsal": "ANGEL",
         "nationality": "MX",
         "position": "POR"
+    },
+    "BLI": {
+        "kamaId": "33184",
+        "name": "Marco Bueno",
+        "dorsal": "BUENO",
+        "nationality": "MX",
+        "position": "DEL"
+    },
+    "BLJ": {
+        "kamaId": "33208",
+        "name": "Daviz Junco",
+        "dorsal": "JUNCO",
+        "nationality": "MX",
+        "position": "DEL"
+    },
+    "BLK": {
+        "kamaId": "67842",
+        "name": "Víctor Milke",
+        "dorsal": "MILKE",
+        "nationality": "MX",
+        "position": "DEF"
     }
 }

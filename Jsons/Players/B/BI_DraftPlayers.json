@@ -1,99 +1,89 @@
 {
     "BIA": {
-        "kamaId": "0",
+        "kamaId": "61254",
         "name": "Erik Fraire",
         "dorsal": "FRAIRE",
         "nationality": "MX",
         "position": "POR"
     },
     "BIB": {
-        "kamaId": "0",
+        "kamaId": "12831",
         "name": "Martín Rodríguez",
         "dorsal": "CANI",
         "nationality": "MX",
         "position": "DEF"
     },
     "BIC": {
-        "kamaId": "0",
+        "kamaId": "7959",
         "name": "Javier Meraz",
         "dorsal": "JAVIER",
         "nationality": "MX",
         "position": "MED"
     },
     "BID": {
-        "kamaId": "0",
+        "kamaId": "67229",
         "name": "Emmanuel Sierra",
         "dorsal": "SIERRA",
         "nationality": "CO",
         "position": "MED"
     },
     "BIE": {
-        "kamaId": "0",
+        "kamaId": "18985",
         "name": "Jacob Morales",
         "dorsal": "LOBO",
         "nationality": "MX",
         "position": "DEL"
     },
     "BIF": {
-        "kamaId": "0",
+        "kamaId": "21685",
         "name": "Diego Castellanos",
         "dorsal": "DIEGO",
         "nationality": "MX",
         "position": "DEL"
     },
     "BIG": {
-        "kamaId": "0",
+        "kamaId": "985",
         "name": "Diego Arriaga",
         "dorsal": "ARRIAGA",
         "nationality": "MX",
         "position": "POR"
     },
     "BIH": {
-        "kamaId": "0",
-        "name": "David Vizcarra",
+        "kamaId": "34639",
+        "name": "José Vizcarra",
         "dorsal": "VIZCARRA",
         "nationality": "MX",
         "position": "DEL"
     },
     "BII": {
-        "kamaId": "0",
+        "kamaId": "18386",
         "name": "Pablo Sámano",
         "dorsal": "PALLO",
         "nationality": "MX",
         "position": "MED"
     },
     "BIJ": {
-        "kamaId": "0",
+        "kamaId": "18350",
         "name": "Rafael González",
         "dorsal": "RAFAEL",
         "nationality": "MX",
         "position": "MED"
     },
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    "BIH": {
+    "BIK": {
         "kamaId": "33258",
         "name": "Alberto García",
         "dorsal": "GUAMERU",
         "nationality": "MX",
         "position": "DEL"
     },
-    "BII": {
+    "BIL": {
         "kamaId": "67803",
         "name": "Mathías Vidangossy",
         "dorsal": "MATHIAS",
         "nationality": "CL",
         "position": "MED"
     },
-    "BIJ": {
+    "BIM": {
         "kamaId": "0",
         "name": "Ailton Da Silva",
         "dorsal": "AILTON",
