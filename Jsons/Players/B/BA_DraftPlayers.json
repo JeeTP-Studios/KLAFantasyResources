@@ -4,90 +4,103 @@
         "name": "Rafael Aja",
         "dorsal": "RAFAEL",
         "nationality": "MX",
-        "position": "MED"
+        "position": "MED",
+        "isWildcard": false
     },
     "BAB": {
         "kamaId": "15443",
         "name": "Jesús Carvajal",
         "dorsal": "JESUS",
         "nationality": "MX",
-        "position": "POR"
+        "position": "POR",
+        "isWildcard": false
     },
     "BAC": {
         "kamaId": "63743",
         "name": "David Pérez",
         "dorsal": "DAVID",
         "nationality": "MX",
-        "position": "DEF"
+        "position": "DEF",
+        "isWildcard": false
     },
     "BAD": {
         "kamaId": "63808",
         "name": "Jorge Escamilla",
         "dorsal": "JORGE",
         "nationality": "MX",
-        "position": "MED"
+        "position": "MED",
+        "isWildcard": false
     },
     "BAE": {
         "kamaId": "27363",
         "name": "José Nieto",
         "dorsal": "NIETO",
         "nationality": "MX",
-        "position": "DEL"
+        "position": "DEL",
+        "isWildcard": false
     },
     "BAF": {
         "kamaId": "16666",
         "name": "Omar Láscari",
         "dorsal": "OMAR",
         "nationality": "MX",
-        "position": "POR"
+        "position": "POR",
+        "isWildcard": false
     },
     "BAG": {
         "kamaId": "62006",
         "name": "Gabriel Ávilés",
         "dorsal": "AVILES",
         "nationality": "MX",
-        "position": "DEF"
+        "position": "DEF",
+        "isWildcard": false
     },
     "BAH": {
         "kamaId": "64227",
         "name": "Sergio Herreño",
         "dorsal": "SERGIO",
         "nationality": "MX",
-        "position": "MED"
+        "position": "MED",
+        "isWildcard": false
     },
     "BAI": {
         "kamaId": "18545",
         "name": "Juan Marín",
         "dorsal": "MARIN",
         "nationality": "MX",
-        "position": "MED"
+        "position": "MED",
+        "isWildcard": false
     },
     "BAJ": {
         "kamaId": "27040",
         "name": "César Bernal",
         "dorsal": "BERNAL",
         "nationality": "MX",
-        "position": "DEF"
+        "position": "DEF",
+        "isWildcard": false
     },
     "BAK": {
         "kamaId": "33234",
         "name": "José Askenazi",
         "dorsal": "ASKENAZI",
         "nationality": "MX",
-        "position": "DEL"
+        "position": "DEL",
+        "isWildcard": true
     },
     "BAL": {
         "kamaId": "67861",
         "name": "Ángel Castro",
         "dorsal": "CURRY",
         "nationality": "MX",
-        "position": "MED"
+        "position": "MED",
+        "isWildcard": true
     },
     "BAM": {
         "kamaId": "67944",
         "name": "Adriano Nunes",
         "dorsal": "ADRIANO",
         "nationality": "BR",
-        "position": "DEL"
+        "position": "DEL",
+        "isWildcard": true
     }
 }

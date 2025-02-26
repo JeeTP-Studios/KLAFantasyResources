@@ -4,83 +4,95 @@
         "name": "Yovan Cardenas",
         "dorsal": "YOVAN",
         "nationality": "CO",
-        "position": "POR"
+        "position": "POR",
+        "isWildcard": false
     },
     "BCB": {
         "kamaId": "20249",
         "name": "Iker Treviño",
         "dorsal": "REKI",
         "nationality": "MX",
-        "position": "MED"
+        "position": "MED",
+        "isWildcard": false
     },
     "BCC": {
         "kamaId": "59905",
         "name": "Abdoulaye Bangoura",
         "dorsal": "ABDOU",
         "nationality": "MX",
-        "position": "DEL"
+        "position": "DEL",
+        "isWildcard": false
     },
     "BCD": {
         "kamaId": "64544",
         "name": "Abayubá Duché",
         "dorsal": "DUCHE",
         "nationality": "MX",
-        "position": "MED"
+        "position": "MED",
+        "isWildcard": false
     },
     "BCE": {
         "kamaId": "59819",
         "name": "Denilson Lobón",
         "dorsal": "LOBON",
         "nationality": "CO",
-        "position": "DEF"
+        "position": "DEF",
+        "isWildcard": false
     },
     "BCF": {
         "kamaId": "59684",
         "name": "Samuel Pascoe",
         "dorsal": "PASCOE",
         "nationality": "MX",
-        "position": "MED"
+        "position": "MED",
+        "isWildcard": false
     },
     "BCG": {
         "kamaId": "26320",
         "name": "Diego Vivian",
         "dorsal": "VIVIAN",
         "nationality": "MX",
-        "position": "DEL"
+        "position": "DEL",
+        "isWildcard": false
     },
     "BCH": {
         "kamaId": "20686",
         "name": "Alain Villanueva",
         "dorsal": "ZURDO",
         "nationality": "MX",
-        "position": "MED"
+        "position": "MED",
+        "isWildcard": false
     },
     "BCI": {
         "kamaId": "33169",
         "name": "Angellot Caro",
         "dorsal": "ANGELLOT",
         "nationality": "CO",
-        "position": "MED"
+        "position": "MED",
+        "isWildcard": true
     },
     "BCJ": {
         "kamaId": "71125",
         "name": "Camilo Mena",
         "dorsal": "CAMILO",
         "nationality": "CO",
-        "position": "POR"
+        "position": "POR",
+        "isWildcard": true
     },
     "BCK": {
         "kamaId": "71817",
         "name": "Alejandro Chimal",
         "dorsal": "CHIMAL",
         "nationality": "MX",
-        "position": "DEF"
+        "position": "DEF",
+        "isWildcard": true
     },
     "BCL": {
         "kamaId": "71822",
         "name": "Jhon Ferney",
         "dorsal": "FERNEY",
         "nationality": "CO",
-        "position": "MED"
+        "position": "MED",
+        "isWildcard": true
     }
 }

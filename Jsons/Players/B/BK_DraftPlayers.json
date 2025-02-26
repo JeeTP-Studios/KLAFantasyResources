@@ -4,98 +4,112 @@
         "name": "Milton Lemus",
         "dorsal": "LEMUS",
         "nationality": "MX",
-        "position": "DEL"
+        "position": "DEL",
+        "isWildcard": false
     },
     "BKB": {
         "kamaId": "4701",
         "name": "Daniel Ríos",
         "dorsal": "RIOS",
         "nationality": "MX",
-        "position": "MED"
+        "position": "MED",
+        "isWildcard": false
     },
     "BKC": {
         "kamaId": "61580",
         "name": "Fernando Morales",
         "dorsal": "FERNANDO",
         "nationality": "MX",
-        "position": "MED"
+        "position": "MED",
+        "isWildcard": false
     },
     "BKD": {
         "kamaId": "3616",
         "name": "Moises Dabbah",
         "dorsal": "DABBAH",
         "nationality": "MX",
-        "position": "POR"
+        "position": "POR",
+        "isWildcard": false
     },
     "BKE": {
         "kamaId": "60040",
         "name": "Ricardo Valencia",
         "dorsal": "RICARDO",
         "nationality": "CO",
-        "position": "MED"
+        "position": "MED",
+        "isWildcard": false
     },
     "BKF": {
         "kamaId": "27716",
         "name": "Justo Islas",
         "dorsal": "ISLAS",
         "nationality": "MX",
-        "position": "MED"
+        "position": "MED",
+        "isWildcard": false
     },
     "BKG": {
         "kamaId": "60041",
         "name": "Pabel Montes",
         "dorsal": "PABEL",
         "nationality": "MX",
-        "position": "MED"
+        "position": "MED",
+        "isWildcard": false
     },
     "BKH": {
         "kamaId": "27748",
         "name": "Diego Franco",
         "dorsal": "FRANCO",
         "nationality": "MX",
-        "position": "MED"
+        "position": "MED",
+        "isWildcard": false
     },
     "BKI": {
         "kamaId": "27740",
         "name": "Rafael Cid",
         "dorsal": "Rafael",
         "nationality": "MX",
-        "position": "MXES"
+        "position": "MXES",
+        "isWildcard": false
     },
     "BKJ": {
         "kamaId": "1565",
         "name": "Jairo Tapie",
         "dorsal": "JAIRO",
         "nationality": "CO",
-        "position": "MED"
+        "position": "MED",
+        "isWildcard": false
     },
     "BKK": {
         "kamaId": "27276",
         "name": "Ricardo Ferriño",
         "dorsal": "FERRIÑO",
         "nationality": "MX",
-        "position": "POR"
+        "position": "POR",
+        "isWildcard": false
     },
     "BKL": {
         "kamaId": "33185",
         "name": "José Martínez",
         "dorsal": "SHAGGY",
         "nationality": "MX",
-        "position": "DEF"
+        "position": "DEF",
+        "isWildcard": true
     },
     "BKM": {
         "kamaId": "67971",
         "name": "Kevin Cardona",
         "dorsal": "KEVIN",
         "nationality": "CO",
-        "position": "DEL"
+        "position": "DEL",
+        "isWildcard": true
     },
     "BKN": {
         "kamaId": "71826",
         "name": "Leonardo Guzmán",
         "dorsal": "GUZMAN",
         "nationality": "MX",
-        "position": "DEL"
+        "position": "DEL",
+        "isWildcard": true
     }
 }
 

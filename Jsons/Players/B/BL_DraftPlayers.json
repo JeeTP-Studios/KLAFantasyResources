@@ -4,76 +4,87 @@
         "name": "Tirso Trueba",
         "dorsal": "TIRSO",
         "nationality": "MX",
-        "position": "POR"
+        "position": "POR",
+        "isWildcard": false
     },
     "BLB": {
         "kamaId": "32381",
         "name": "Gustavo Guillén",
         "dorsal": "FURBY",
         "nationality": "MX",
-        "position": "MED"
+        "position": "MED",
+        "isWildcard": false
     },
     "BLC": {
         "kamaId": "15614",
         "name": "Anferny Rebollar",
         "dorsal": "ANFERNY",
         "nationality": "MX",
-        "position": "DEF"
+        "position": "DEF",
+        "isWildcard": false
     },
     "BLD": {
         "kamaId": "2206",
         "name": "Patricio Arias",
         "dorsal": "Arias",
         "nationality": "MX",
-        "position": "DEF"
+        "position": "DEF",
+        "isWildcard": false
     },
     "BLE": {
         "kamaId": "11060",
         "name": "Didier Uribe",
         "dorsal": "DIDIER",
         "nationality": "MX",
-        "position": "MED"
+        "position": "MED",
+        "isWildcard": false
     },
     "BLF": {
         "kamaId": "29190",
         "name": "Brayan Hernández",
         "dorsal": "BRAYAN",
         "nationality": "MX",
-        "position": "MED"
+        "position": "MED",
+        "isWildcard": false
     },
     "BLG": {
         "kamaId": "25279",
         "name": "Manuel Viniegra",
         "dorsal": "MANUEL",
         "nationality": "MX",
-        "position": "MED"
+        "position": "MED",
+        "isWildcard": false
     },
     "BLH": {
         "kamaId": "64072",
         "name": "Angel Espinoza",
         "dorsal": "ANGEL",
         "nationality": "MX",
-        "position": "POR"
+        "position": "POR",
+        "isWildcard": false
     },
     "BLI": {
         "kamaId": "33184",
         "name": "Marco Bueno",
         "dorsal": "BUENO",
         "nationality": "MX",
-        "position": "DEL"
+        "position": "DEL",
+        "isWildcard": true
     },
     "BLJ": {
         "kamaId": "33208",
         "name": "Daviz Junco",
         "dorsal": "JUNCO",
         "nationality": "MX",
-        "position": "DEL"
+        "position": "DEL",
+        "isWildcard": true
     },
     "BLK": {
         "kamaId": "67842",
         "name": "Víctor Milke",
         "dorsal": "MILKE",
         "nationality": "MX",
-        "position": "DEF"
+        "position": "DEF",
+        "isWildcard": true
     }
 }

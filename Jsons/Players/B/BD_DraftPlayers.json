@@ -4,91 +4,104 @@
         "name": "Juan Gomez",
         "dorsal": "JUAN",
         "nationality": "MX",
-        "position": "DEF"
+        "position": "DEF",
+        "isWildcard": false
     },
     "BDB": {
         "kamaId": "67208",
         "name": "Daniel Mendoza",
         "dorsal": "DANIEL",
         "nationality": "CO",
-        "position": "DEF"
+        "position": "DEF",
+        "isWildcard": false
     },
     "BDC": {
         "kamaId": "59578",
         "name": "Edgar Martínez",
         "dorsal": "EDGAR",
         "nationality": "MX",
-        "position": "DEL"
+        "position": "DEL",
+        "isWildcard": false
     },
     "BDD": {
         "kamaId": "18746",
         "name": "Julio Torres",
         "dorsal": "LEGOLAS",
         "nationality": "MX",
-        "position": "POR"
+        "position": "POR",
+        "isWildcard": false
     },
     "BDE": {
         "kamaId": "64211",
         "name": "Jorge Meléndez",
         "dorsal": "JORGE",
         "nationality": "MX",
-        "position": "MED"
+        "position": "MED",
+        "isWildcard": false
     },
     "BDF": {
         "kamaId": "59683",
         "name": "Alejandro Carrillo",
         "dorsal": "CARRILLO",
         "nationality": "MX",
-        "position": "POR"
+        "position": "POR",
+        "isWildcard": false
     },
     "BDG": {
         "kamaId": "60268",
         "name": "Brayam Nazarit",
         "dorsal": "BRAYAM",
         "nationality": "CO",
-        "position": "MED"
+        "position": "MED",
+        "isWildcard": false
     },
     "BDH": {
         "kamaId": "28868",
         "name": "Erik Vera",
         "dorsal": "VERA",
         "nationality": "MX",
-        "position": "DEF"
+        "position": "DEF",
+        "isWildcard": false
     },
     "BDI": {
         "kamaId": "61012",
         "name": "Leonardo Duque",
         "dorsal": "DUQUE",
         "nationality": "MX",
-        "position": "DEL"
+        "position": "DEL",
+        "isWildcard": false
     },
     "BDJ": {
         "kamaId": "52953",
         "name": "César Vallejo",
         "dorsal": "CHIVITA",
         "nationality": "MX",
-        "position": "DEL"
+        "position": "DEL",
+        "isWildcard": true
     },
     "BDK": {
         "kamaId": "67827",
         "name": "Alan Mendoza",
         "dorsal": "ALAN",
         "nationality": "MX",
-        "position": "MED"
+        "position": "MED",
+        "isWildcard": true
     },
     "BDL": {
         "kamaId": "71202",
         "name": "Juanito Ramírez",
         "dorsal": "JUANITO",
         "nationality": "US",
-        "position": "MED"
+        "position": "MED",
+        "isWildcard": true
     },
     "BDM": {
         "kamaId": "71825",
         "name": "Lucas Cantón",
         "dorsal": "DUQUE",
         "nationality": "AR",
-        "position": "DEL"
+        "position": "DEL",
+        "isWildcard": true
     }
 }
 

@@ -4,98 +4,112 @@
         "name": "Brandon García",
         "dorsal": "BRANDON",
         "nationality": "MX",
-        "position": "MED"
+        "position": "MED",
+        "isWildcard": false
     },
     "BHB": {
         "kamaId": "8315",
         "name": "Erik Lugo",
         "dorsal": "ERICK",
         "nationality": "MX",
-        "position": "POR"
+        "position": "POR",
+        "isWildcard": false
     },
     "BHC": {
         "kamaId": "67852",
         "name": "Juan Cruz Paoloni",
         "dorsal": "PAOLONI",
         "nationality": "AR",
-        "position": "MED"
+        "position": "MED",
+        "isWildcard": false
     },
     "BHD": {
         "kamaId": "19810",
         "name": "Diego Flores",
         "dorsal": "FLORES",
         "nationality": "MX",
-        "position": "DEF"
+        "position": "DEF",
+        "isWildcard": false
     },
     "BHE": {
         "kamaId": "16158",
         "name": "César Marín",
         "dorsal": "CESAR",
         "nationality": "MX",
-        "position": "DEF"
+        "position": "DEF",
+        "isWildcard": false
     },
     "BHF": {
         "kamaId": "9968",
         "name": "Abner Rebollar",
         "dorsal": "ABNER",
         "nationality": "MX",
-        "position": "DEL"
+        "position": "DEL",
+        "isWildcard": false
     },
     "BHG": {
         "kamaId": "18034",
         "name": "Edson Trejo",
         "dorsal": "EDSON",
         "nationality": "MX",
-        "position": "MED"
+        "position": "MED",
+        "isWildcard": false
     },
     "BHH": {
         "kamaId": "26653",
         "name": "Cristopher Pedraza",
         "dorsal": "PEDRAZA",
         "nationality": "MX",
-        "position": "MED"
+        "position": "MED",
+        "isWildcard": false
     },
     "BHI": {
         "kamaId": "64291",
         "name": "Jair Pérez",
         "dorsal": "JAIR",
         "nationality": "C0",
-        "position": "DEL"
+        "position": "DEL",
+        "isWildcard": false
     },
     "BHJ": {
         "kamaId": "26984",
         "name": "Óscar Medina",
         "dorsal": "PLATANO",
         "nationality": "MX",
-        "position": "POR"
+        "position": "POR",
+        "isWildcard": false
     },
     "BHK": {
         "kamaId": "59630",
         "name": "Isaac Mora",
         "dorsal": "ISAAC",
         "nationality": "MX",
-        "position": "MED"
+        "position": "MED",
+        "isWildcard": false
     },
     "BHL": {
         "kamaId": "16810",
         "name": "Pablo Gómez",
         "dorsal": "PABLO",
         "nationality": "AR",
-        "position": "DEL"
+        "position": "DEL",
+        "isWildcard": true
     },
     "BHM": {
         "kamaId": "67792",
         "name": "Diego Martínez",
         "dorsal": "DIEGO",
         "nationality": "MX",
-        "position": "MED"
+        "position": "MED",
+        "isWildcard": true
     },
     "BHN": {
         "kamaId": "67793",
         "name": "George Corral",
         "dorsal": "CORRAL",
         "nationality": "MX",
-        "position": "DEF"
+        "position": "DEF",
+        "isWildcard": true
     }
 }
 

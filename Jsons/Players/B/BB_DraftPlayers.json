@@ -4,98 +4,112 @@
         "name": "Javier Gallegos",
         "dorsal": "JAVIER",
         "nationality": "MX",
-        "position": "MED"
+        "position": "MED",
+        "isWildcard": false
     },
     "BBB": {
         "kamaId": "61650",
         "name": "José Lara",
         "dorsal": "LARA",
         "nationality": "MX",
-        "position": "MED"
+        "position": "MED",
+        "isWildcard": false
     },
     "BBC": {
         "kamaId": "61240",
         "name": "Jorge Leal",
         "dorsal": "LEAL",
         "nationality": "MX",
-        "position": "MED"
+        "position": "MED",
+        "isWildcard": false
     },
     "BBD": {
         "kamaId": "17926",
         "name": "Julio García",
         "dorsal": "JULIO",
         "nationality": "MX",
-        "position": "MED"
+        "position": "MED",
+        "isWildcard": false
     },
     "BBE": {
         "kamaId": "61196",
         "name": "Enrique Ciprían",
         "dorsal": "CIPRIAN",
         "nationality": "MX",
-        "position": "MED"
+        "position": "MED",
+        "isWildcard": false
     },
     "BBF": {
         "kamaId": "17966",
         "name": "Cesar Villaluz",
         "dorsal": "CESAR",
         "nationality": "MX",
-        "position": "MED"
+        "position": "MED",
+        "isWildcard": false
     },
     "BBG": {
         "kamaId": "3221",
         "name": "Paul Cruz",
         "dorsal": "PAUL",
         "nationality": "MX",
-        "position": "POR"
+        "position": "POR",
+        "isWildcard": false
     },
     "BBH": {
         "kamaId": "60589",
         "name": "Ángel Rascon",
         "dorsal": "RASCON",
         "nationality": "MX",
-        "position": "POR"
+        "position": "POR",
+        "isWildcard": false
     },
     "BBI": {
         "kamaId": "26969",
         "name": "Gerardo Lugo",
         "dorsal": "LUGO",
         "nationality": "MX",
-        "position": "MED"
+        "position": "MED",
+        "isWildcard": false
     },
     "BBJ": {
         "kamaId": "59629",
         "name": "Erick Madrigal",
         "dorsal": "ERICK",
         "nationality": "MX",
-        "position": "DEF"
+        "position": "DEF",
+        "isWildcard": false
     },
     "BBK": {
         "kamaId": "5519",
         "name": "Santiago Lagarde",
         "dorsal": "LAGARDE",
         "nationality": "MX",
-        "position": "MED"
+        "position": "MED",
+        "isWildcard": false
     },
     "BBL": {
         "kamaId": "67815",
         "name": "Irvin Mojica",
         "dorsal": "MOJICA",
         "nationality": "MX",
-        "position": "MED"
+        "position": "MED",
+        "isWildcard": true
     },
     "BBM": {
         "kamaId": "67817",
         "name": "Josecarlos van Rankin",
         "dorsal": "RANKIN",
         "nationality": "MX",
-        "position": "DEF"
+        "position": "DEF",
+        "isWildcard": true
     },
     "BBN": {
         "kamaId": "67943",
         "name": "Fausto Alemán",
         "dorsal": "ALEMAN",
         "nationality": "MX",
-        "position": "MED"
+        "position": "MED",
+        "isWildcard": true
     }
 }
 

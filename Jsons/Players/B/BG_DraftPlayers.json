@@ -4,98 +4,112 @@
         "name": "Fernando Olmedo",
         "dorsal": "OLMEDO",
         "nationality": "MX",
-        "position": "DEL"
+        "position": "DEL",
+        "isWildcard": false
     },
     "BGB": {
         "kamaId": "1733",
         "name": "Bernardo Lugo",
         "dorsal": "LUGO",
         "nationality": "MX",
-        "position": "POR"
+        "position": "POR",
+        "isWildcard": false
     },
     "BGC": {
         "kamaId": "66074",
         "name": "Lawrence Lonsdale",
         "dorsal": "LAWRENCE",
         "nationality": "VE",
-        "position": "DEF"
+        "position": "DEF",
+        "isWildcard": false
     },
     "BGD": {
         "kamaId": "7315",
         "name": "José Miramontes",
         "dorsal": "JOSE",
         "nationality": "MX",
-        "position": "MED"
+        "position": "MED",
+        "isWildcard": false
     },
     "BGE": {
         "kamaId": "16797",
         "name": "Jesús Perez",
         "dorsal": "CHUY",
         "nationality": "MX",
-        "position": "MED"
+        "position": "MED",
+        "isWildcard": false
     },
     "BGF": {
         "kamaId": "66202",
         "name": "Michel Cardenas",
         "dorsal": "MICHEL",
         "nationality": "CO",
-        "position": "MED"
+        "position": "MED",
+        "isWildcard": false
     },
     "BGG": {
         "kamaId": "17749",
         "name": "Donovan Martínez",
         "dorsal": "DONOVAN",
         "nationality": "MX",
-        "position": "MED"
+        "position": "MED",
+        "isWildcard": false
     },
     "BGH": {
         "kamaId": "32291",
         "name": "Juan Celada",
         "dorsal": "CELADA",
         "nationality": "MX",
-        "position": "DEL"
+        "position": "DEL",
+        "isWildcard": false
     },
     "BGI": {
         "kamaId": "61583",
         "name": "Kevin Valdez",
         "dorsal": "KEVIN",
         "nationality": "MX",
-        "position": "DEF"
+        "position": "DEF",
+        "isWildcard": false
     },
     "BGJ": {
         "kamaId": "29930",
         "name": "Yair Arias",
         "dorsal": "YAIR",
         "nationality": "CO",
-        "position": "MED"
+        "position": "MED",
+        "isWildcard": false
     },
     "BGK": {
         "kamaId": "33172",
         "name": "Antonio Monterde",
         "dorsal": "MONTERDE",
         "nationality": "MX",
-        "position": "POR"
+        "position": "POR",
+        "isWildcard": true
     },
     "BGL": {
         "kamaId": "34764",
         "name": "Obed Martínez",
         "dorsal": "OBED",
         "nationality": "MX",
-        "position": "MED"
+        "position": "MED",
+        "isWildcard": true
     },
     "BGM": {
         "kamaId": "48947",
         "name": "Walter Ayoví",
         "dorsal": "AYOVI",
         "nationality": "EC",
-        "position": "MED"
+        "position": "MED",
+        "isWildcard": true
     },
     "BGN": {
         "kamaId": "71809",
         "name": "Alejandro García",
         "dorsal": "GARCIA",
         "nationality": "MX",
-        "position": "MED"
+        "position": "MED",
+        "isWildcard": true
     }
 }
 

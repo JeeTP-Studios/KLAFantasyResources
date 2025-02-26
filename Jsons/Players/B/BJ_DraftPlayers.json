@@ -4,91 +4,104 @@
         "name": "Alejandro Díaz",
         "dorsal": "TETE",
         "nationality": "MX",
-        "position": "MED"
+        "position": "MED",
+        "isWildcard": false
     },
     "BJB": {
         "kamaId": "66898",
         "name": "Marco Millán",
         "dorsal": "MILLAN",
         "nationality": "MX",
-        "position": "POR"
+        "position": "POR",
+        "isWildcard": false
     },
     "BJC": {
         "kamaId": "66774",
         "name": "Andrés Rugeles",
         "dorsal": "ANDRES",
         "nationality": "CO",
-        "position": "MED"
+        "position": "MED",
+        "isWildcard": false
     },
     "BJD": {
         "kamaId": "3078",
         "name": "Edwin Cardenas",
         "dorsal": "EDWIN",
         "nationality": "MX",
-        "position": "MED"
+        "position": "MED",
+        "isWildcard": false
     },
     "BJE": {
         "kamaId": "60019",
         "name": "David Pérez",
         "dorsal": "DAVID",
         "nationality": "MX",
-        "position": "DEL"
+        "position": "DEL",
+        "isWildcard": false
     },
     "BJF": {
         "kamaId": "13773",
         "name": "Baruc Mateos",
         "dorsal": "BARUC",
         "nationality": "MX",
-        "position": "POR"
+        "position": "POR",
+        "isWildcard": false
     },
     "BJG": {
         "kamaId": "61191",
         "name": "Christian Lagunas",
         "dorsal": "LAGUNAS",
         "nationality": "MX",
-        "position": "MED"
+        "position": "MED",
+        "isWildcard": false
     },
     "BJH": {
         "kamaId": "60121",
         "name": "Diego Pérez",
         "dorsal": "DIEGO",
         "nationality": "MX",
-        "position": "MED"
+        "position": "MED",
+        "isWildcard": false
     },
     "BJI": {
         "kamaId": "60104",
         "name": "Daniel Lopez",
         "dorsal": "DANIEL",
         "nationality": "MX",
-        "position": "DEF"
+        "position": "DEF",
+        "isWildcard": false
     },
     "BJJ": {
         "kamaId": "61733",
         "name": "Juan Cisneros",
         "dorsal": "JUAN",
         "nationality": "MX",
-        "position": "MED"
+        "position": "MED",
+        "isWildcard": false
     },
     "BJK": {
         "kamaId": "67774",
         "name": "Tona Mejía",
         "dorsal": "TONA",
         "nationality": "MX",
-        "position": "DEF"
+        "position": "DEF",
+        "isWildcard": true
     },
     "BJL": {
         "kamaId": "67818",
         "name": "Genaro Castillo",
         "dorsal": "GENARO",
         "nationality": "MX",
-        "position": "DEL"
+        "position": "DEL",
+        "isWildcard": true
     },
     "BJM": {
         "kamaId": "67838",
         "name": "Jhon Palacios",
         "dorsal": "JHON",
         "nationality": "CO",
-        "position": "MED"
+        "position": "MED",
+        "isWildcard": true
     }
 }
 

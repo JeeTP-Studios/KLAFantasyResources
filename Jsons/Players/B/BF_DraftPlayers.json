@@ -4,98 +4,112 @@
         "name": "Diego Gutiérrez",
         "dorsal": "DIEGO",
         "nationality": "MX",
-        "position": "DEL"
+        "position": "DEL",
+        "isWildcard": false
     },
     "BFB": {
         "kamaId": "66994",
         "name": "Eduardo Velarde",
         "dorsal": "EDUARDO",
         "nationality": "MX",
-        "position": "DEF"
+        "position": "DEF",
+        "isWildcard": false
     },
     "BFC": {
         "kamaId": "66576",
         "name": "José Sastoque",
         "dorsal": "JOSÉ",
         "nationality": "CO",
-        "position": "MED"
+        "position": "MED",
+        "isWildcard": false
     },
     "BFD": {
         "kamaId": "25245",
         "name": "José Rochin",
         "dorsal": "ROCHIN",
         "nationality": "MX",
-        "position": "DEL"
+        "position": "DEL",
+        "isWildcard": false
     },
     "BFE": {
         "kamaId": "29404",
         "name": "Baruc Ochoa",
         "dorsal": "BARUC",
         "nationality": "MX",
-        "position": "DEL"
+        "position": "DEL",
+        "isWildcard": false
     },
     "BFF": {
         "kamaId": "22595",
         "name": "Cesar Romo",
         "dorsal": "ROMO",
         "nationality": "MX",
-        "position": "MED"
+        "position": "MED",
+        "isWildcard": false
     },
     "BFG": {
         "kamaId": "63646",
         "name": "Adrian Marín",
         "dorsal": "MARIN",
         "nationality": "MX",
-        "position": "MED"
+        "position": "MED",
+        "isWildcard": false
     },
     "BFH": {
         "kamaId": "30818",
         "name": "Luis González",
         "dorsal": "LUIS",
         "nationality": "MX",
-        "position": "DEL"
+        "position": "DEL",
+        "isWildcard": false
     },
     "BFI": {
         "kamaId": "59888",
         "name": "Juan Ruiz",
         "dorsal": "JUANRA",
         "nationality": "MX",
-        "position": "POR"
+        "position": "POR",
+        "isWildcard": false
     },
     "BFJ": {
         "kamaId": "67536",
         "name": "Sebastián Sáez",
         "dorsal": "SAEZ",
         "nationality": "CO",
-        "position": "DEF"
+        "position": "DEF",
+        "isWildcard": false
     },
     "BFK": {
         "kamaId": "60341",
         "name": "Eduardo Evangelista",
         "dorsal": "EDUARDO",
         "nationality": "MX",
-        "position": "POR"
+        "position": "POR",
+        "isWildcard": false
     },
     "BFL": {
         "kamaId": "67859",
         "name": "Alexander '00' Rodríguez",
         "dorsal": "ALEXANDER",
         "nationality": "CO",
-        "position": "MED"
+        "position": "MED",
+        "isWildcard": true
     },
     "BFM": {
         "kamaId": "67904",
         "name": "Alejandro Ortega",
         "dorsal": "MARO",
         "nationality": "C0",
-        "position": "DEL"
+        "position": "DEL",
+        "isWildcard": true
     },
     "BFN": {
         "kamaId": "67955",
         "name": "José Hernández",
         "dorsal": "JOSÉ",
         "nationality": "MX",
-        "position": "MED"
+        "position": "MED",
+        "isWildcard": true
     }
 }
 
