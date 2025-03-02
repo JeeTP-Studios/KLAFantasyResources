@@ -1,3 +1,5 @@
 {
-    "version": "2.3.0"
+    "version": "2.3.0",
+    "appleVersion": "2.3.0",
+    "androidVersion": "2.3.0"
 }
