@@ -86,5 +86,21 @@
         "nationality": "MX",
         "position": "DEF",
         "isWildcard": true
+    },
+    "BLL": {
+        "kamaId": "33165",
+        "name": "Javier Orozco",
+        "dorsal": "CHULETITA",
+        "nationality": "MX",
+        "position": "DEL",
+        "isWildcard": true
+    },
+    "BLM": {
+        "kamaId": "67858",
+        "name": "Javier Cortes",
+        "dorsal": "JAVIER",
+        "nationality": "MX",
+        "position": "MED",
+        "isWildcard": true
     }
 }
