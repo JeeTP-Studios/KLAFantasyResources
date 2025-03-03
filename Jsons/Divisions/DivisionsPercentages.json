@@ -1,0 +1,23 @@
+{
+    "5": {
+      "rankUpPercentage": "50",
+      "rankDownPercentage": "0"
+    },
+    "4": {
+      "rankUpPercentage": "40",
+      "rankDownPercentage": "20"
+    },
+    "3": {
+        "rankUpPercentage": "25",
+        "rankDownPercentage": "25"
+    },
+    "2": {
+        "rankUpPercentage": "20",
+        "rankDownPercentage": "40"
+    },
+    "1": {
+      "rankUpPercentage": "0",
+      "rankDownPercentage": "50"
+    }
+}
+
