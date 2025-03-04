@@ -5,5 +5,5 @@
     "onAppleReview": false,
     
     "androidVersion": "2.5.0",
-    "onAndroidReview": false
+    "onAndroidReview": true
 }
