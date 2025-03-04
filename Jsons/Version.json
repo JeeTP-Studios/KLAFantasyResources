@@ -1,5 +1,9 @@
 {
     "version": "2.4.1",
+    
     "appleVersion": "2.4.1",
-    "androidVersion": "2.4.1"
+    "onAppleReview": false,
+    
+    "androidVersion": "2.4.1",
+    "onAndroidReview": false
 }
