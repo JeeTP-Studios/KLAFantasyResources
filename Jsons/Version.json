@@ -1,9 +1,9 @@
 {
-    "version": "2.4.1",
+    "version": "2.5.0",
     
-    "appleVersion": "2.4.1",
-    "onAppleReview": false,
+    "appleVersion": "2.5.0",
+    "onAppleReview": true,
     
-    "androidVersion": "2.4.1",
-    "onAndroidReview": false
+    "androidVersion": "2.5.0",
+    "onAndroidReview": true
 }
