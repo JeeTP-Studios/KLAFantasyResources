@@ -2,8 +2,8 @@
     "version": "2.5.0",
     
     "appleVersion": "2.5.0",
-    "onAppleReview": true,
+    "onAppleReview": false,
     
     "androidVersion": "2.5.0",
-    "onAndroidReview": true
+    "onAndroidReview": false
 }
