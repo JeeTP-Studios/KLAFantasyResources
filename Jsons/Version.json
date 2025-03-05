@@ -2,7 +2,7 @@
     "version": "2.5.1",
     
     "appleVersion": "2.5.1",
-    "onAppleReview": false,
+    "onAppleReview": true,
     
     "androidVersion": "2.4.1",
     "onAndroidReview": true
