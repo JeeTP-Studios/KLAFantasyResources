@@ -1,5 +1,5 @@
 {
     "version": "2.7.0",
-    "onAppleReview": true,
-    "onAndroidReview": true
+    "onAppleReview": false,
+    "onAndroidReview": false
 }
