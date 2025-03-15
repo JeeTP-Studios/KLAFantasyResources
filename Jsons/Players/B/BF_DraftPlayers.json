@@ -110,6 +110,14 @@
         "nationality": "MX",
         "position": "MED",
         "isWildcard": true
+    },
+    "BFO": {
+        "kamaId": "71871",
+        "name": "Fernando Navarro",
+        "dorsal": "NAVARRO",
+        "nationality": "MX",
+        "position": "DEF",
+        "isWildcard": true
     }
 }
 

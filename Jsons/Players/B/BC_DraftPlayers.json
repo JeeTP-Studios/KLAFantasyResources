@@ -94,5 +94,13 @@
         "nationality": "CO",
         "position": "MED",
         "isWildcard": true
+    },
+    "BCM": {
+        "kamaId": "71873",
+        "name": "Kevin García",
+        "dorsal": "KEVIN",
+        "nationality": "MX",
+        "position": "MED",
+        "isWildcard": true
     }
 }

@@ -110,6 +110,14 @@
         "nationality": "MX",
         "position": "DEL",
         "isWildcard": true
+    },
+    "BKO": {
+        "kamaId": "71874",
+        "name": "Eduardo Dávalos",
+        "dorsal": "DAVALOS",
+        "nationality": "MX",
+        "position": "MED",
+        "isWildcard": true
     }
 }
 

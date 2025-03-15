@@ -110,6 +110,14 @@
         "nationality": "MX",
         "position": "MED",
         "isWildcard": true
+    },
+    "BBO": {
+        "kamaId": "71872",
+        "name": "Leonardo Herrelein",
+        "dorsal": "HERRELEIN",
+        "nationality": "AR",
+        "position": "DEL",
+        "isWildcard": true
     }
 }
 
