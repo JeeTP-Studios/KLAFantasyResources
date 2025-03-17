@@ -12,8 +12,8 @@
         "rankDownPercentage": "25.0"
     },
     "2": {
-        "rankUpPercentage": "20.0",
-        "rankDownPercentage": "40.0"
+        "rankUpPercentage": "60.0",
+        "rankDownPercentage": "20.0"
     },
     "1": {
       "rankUpPercentage": "0.0",
