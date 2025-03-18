@@ -1,0 +1,27 @@
+{
+    "5": {
+      "firstPlace": "BGO",
+      "secondPlace": "BSI",
+      "thirdPlace": [1000, "xp"]
+    },
+    "4": {
+        "firstPlace": "BGO",
+        "secondPlace": "BSI",
+        "thirdPlace": [1500, "xp"]
+    },
+    "3": {
+        "firstPlace": "BKI",
+        "secondPlace": "BGO",
+        "thirdPlace": "BSI"
+    "2": {
+        "firstPlace": "BKI",
+        "secondPlace": "BGO",
+        "thirdPlace": "BSI"
+    },
+    "1": {
+        "firstPlace": "BDI",
+        "secondPlace": "BKI",
+        "thirdPlace": "BGO"
+    }
+}
+
