@@ -114,9 +114,17 @@
     "BBO": {
         "kamaId": "71872",
         "name": "Leonardo Herrelein",
-        "dorsal": "HERRELEIN",
+        "dorsal": "MAKINA",
         "nationality": "AR",
         "position": "DEL",
+        "isWildcard": true
+    },
+    "BBP": {
+        "kamaId": "67778",
+        "name": "Jorge Cortez",
+        "dorsal": "RUSO",
+        "nationality": "MX",
+        "position": "DEF",
         "isWildcard": true
     }
 }
