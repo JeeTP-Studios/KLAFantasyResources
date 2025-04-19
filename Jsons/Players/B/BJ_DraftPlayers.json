@@ -94,14 +94,6 @@
         "nationality": "MX",
         "position": "DEL",
         "isWildcard": true
-    },
-    "BJM": {
-        "kamaId": "67838",
-        "name": "Jhon Palacios",
-        "dorsal": "JHON",
-        "nationality": "CO",
-        "position": "MED",
-        "isWildcard": true
     }
 }
 
